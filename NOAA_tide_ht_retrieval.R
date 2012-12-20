@@ -18,7 +18,7 @@
 ###############################################################################
 require(RCurl)
 
-noquote(print("Enter NOAA tide station number (i.e. Boston = 8443970): "))
+noquote(print("Enter NOAA tide station number (i.e. Monterey = 9413450): "))
 station = scan("",what = character(),nlines = 1)
 noquote(print("Enter start date (format: 20080123 = Jan 23, 2008): "))
 startdate = scan("",what = character(),nlines = 1) #get one line of values
