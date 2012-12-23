@@ -14,39 +14,23 @@ polylims = function(xdata, ydata, ydata2) {
 	# same values in ydata and ydata2 must be missing. The output will be 
 	# a list of data frames of x and y values suitable for plotting polygons.
 	
-	# Find all non-NA indices in ydata.
-	yna = which(!is.na(ydata))
-	# Calc difference between each consecutive index, but first tack on a zero
-	# at the start, which will determine if ydata started off with NA values
-	yna2 = diff(c(0,yna))
-	# Find index of any difference greater than 1 (indicates a larger step)
-	yna3 = which(yna2 > 1)
-	# Return the indices in ydata that mark the start of a contiguous
-	# set of data
-	starts = yna[yna3]
-	# If the first value in ydata is a real number, we need to add its index to 
-	# the 'starts' vector
-	if (!is.na(ydata[1])) starts = c(1,starts)
-	# Now work on finding the ending indices for each run of real numbers in
-	# the ydata vector. 
-	# Calc difference between each index, but first tack on a value equal to the
-	# length of ydata at the end, which will determine if ydata ended with NA
-	# values
-	yna5 = diff(c(yna,length(ydata)))
-	# Find the indices of any values in yna5 greater than 1, which indicates a
-	# large step in the yna vector
-	yna6 = which(yna5 > 1)
-	# Extract the indices of the end of each run of real numbers in ydata from
-	# the indices stored in yna
-	ends = yna[yna6]
-	# If the last value in ydata is a real number, add that index onto 'ends'
-	if(!is.na(ydata[length(ydata)])){ 
-		ends = c(ends,length(ydata))
-	} else {
-		# Or else if the last value in ydata is NA, add the index of the last 
-		# real number on to the end of the 'ends' vector
-		ends = c(ends,yna[length(yna)])
+	# Use rle function to find contiguous real numbers
+	rl = rle(is.na(ydata))
+	starts = vector()
+	ends = vector()
+	indx = 1
+	for (i in 1:length(rl$lengths)){
+		if (rl$values[i]){
+			# Value was NA, advance index without saving the numeric values
+			indx = indx + rl$lengths[i]
+		} else {
+			# Value was a real number, extract and save those values
+			starts = c(starts,indx)
+			ends = c(ends, (indx + rl$lengths[i] - 1))
+			indx = indx + rl$lengths[i]
+		}	
 	}
+	
 	# At this point the lengths of the vectors 'starts' and 'ends' should be
 	# equal, and each pair of values represents the starting and ending indices
 	# of a continuous set of data in the ydata vector.
@@ -69,3 +53,4 @@ polylims = function(xdata, ydata, ydata2) {
 	#				col = rgb(0.5,0.5,0.5,0.5), border = NA)
 	#	}
 }
+
