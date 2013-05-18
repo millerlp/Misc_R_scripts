@@ -41,6 +41,7 @@ sitename = 'Bodega Harbor entrance, California'
 
 
 ################################################################################
+# Example 1
 # Create query to return high and low tide times only, with units in feet and
 # using the current system time zone. 
 tidecommand = paste('tide -l "',sitename,'" -b "',
@@ -62,6 +63,7 @@ hilow$TideHt = as.numeric(gsub('[ [:alpha:]]',' ',hilow$TideHt))
 head(hilow)
 
 ################################################################################
+# Example 2
 # Create query to return high and low tide times, along with any time when 
 # the tide crosses the +2.0ft level. (High/low tides are always included).
 # Time values will be in the system time zone. Be careful of daylight savings
@@ -89,7 +91,7 @@ diff(events$Time)
 
 
 ################################################################################
-
+# Example 3
 # Create query for returning times of high, low tide, plus Sunrise and Sunset,
 # all in UTC timezone, for your site. Height units are meters.
 tidecommand = paste('tide -l "',sitename,'" -b "',
@@ -113,6 +115,7 @@ hilowSun$LocalTime = c(hilowSun$Time)
 head(hilowSun)
 
 ################################################################################
+# Example 4
 # Create query to return tide height at fixed time intervals (10 minutes here),
 # in UTC time zone, units of meters.
 tidecommand = paste('tide -l "',sitename,'" -b "',
@@ -133,9 +136,10 @@ tides$TideHt = as.numeric(gsub('[ [:alpha:]]',' ',tides$TideHt))
 tides$LocalTime = c(tides$Time)
 head(tides)
 
-##################################
+################################################################################
+# Example 5
 # Create query to return times of high/low tide, sunrise and sunset, in the 
-# local time zone. 
+# local time zone. Extract the time for the Sunsets and place in a data frame
 tidecommand = paste('tide -l "',sitename,'" -b "',
 		startchar, '" -e "', endchar,
 		'" -f c -em pMm -m p -u ft ', sep = '')
