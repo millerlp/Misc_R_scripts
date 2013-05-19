@@ -26,7 +26,7 @@ load(file.choose())
 # Specify tide station, Site names: http://www.flaterco.com/xtide/locations.html
 # Only the stations labeled 'Ref' will work with this script.
 cat('Please enter the station name: \n')
-stationID = scan(file = '', character(), quiet = TRUE, n = 1)
+stationID = scan(file = '', character(), quiet = TRUE, n = 1, sep = '#')
 # Hard-coded version:
 #stationID = 'Monterey Harbor'
 #stationID = 'Boston, Boston Harbor'
