@@ -131,4 +131,5 @@ results$TimeLocal = c(results$TimeUTC)
 cat('Finished. See "results" data frame for output.\n')
 # Optionally print the results
 plot(results$TimeUTC,results$TideHt.ft, type = 'l', col = 'blue', las = 1,
-		xlab = 'Time, UTC time zone', ylab = 'Tide Height, ft')
+		xlab = 'Time, UTC time zone', ylab = 'Tide Height, ft', 
+		main = harms$station[stInd])
