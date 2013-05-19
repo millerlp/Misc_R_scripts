@@ -4,7 +4,7 @@
 # Generate tide height predictions for US NOAA *reference* tide stations 
 # entirely within R.  
 # This requires a previously-produced file of harmonics for the sites, stored as 
-# a Rdata file. The current file is harmonics-20120302.Rdata. The harmonics file 
+# a Rdata file. The current file is Harmonics-20120302.Rdata. The harmonics file 
 # was originally derived from XTide, found at http://www.flaterco.com/xtide/
 # The available reference tide stations are listed here:
 # http://www.flaterco.com/xtide/locations.html
@@ -18,6 +18,10 @@
 # decreasing accuracy as you move further from 2012 (say beyond 1990 or 2030)
 # since the harmonics file is derived from the current tidal epoch, and things 
 # like sea level have a tendency to change over time.
+
+# This script may take a few minutes to run if you ask for weeks of 
+# high-frequency tide predictions. 
+# The output is stored in a data frame called 'results'.
 
 # Author: Luke Miller  May 19, 2013
 ###############################################################################
@@ -96,7 +100,7 @@ times$hours = as.numeric(difftime(times$POStime,
 times$yrindx = times$yr - harms$startyear + 1
 
 ########################################
-# Tide height calculation
+# Tide height calculation - Magic happens here
 # Input times behave as if they are given in UTC, so output tides correspond to
 # the UTC times. 
 pred = vector('numeric',nrow(times))
