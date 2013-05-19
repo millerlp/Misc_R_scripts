@@ -17,18 +17,18 @@
 # Sys.setenv(TZ='UTC')	# Change R session time zone to UTC (optional)
 
 # User-friendly version for loading harmonics Rdata file:
-#cat('Please load the harmonics Rdata file.\n')
-#load(file.choose())
+cat('Please load the harmonics Rdata file.\n')
+load(file.choose())
 
 # Hard-coded version, if your harmonics file is always in the same place:
-load('D:/R/Weather_data/Harmonics_20120302.Rdata') 
+#load('D:/R/Weather_data/Harmonics_20120302.Rdata') 
 
 # Specify tide station, Site names: http://www.flaterco.com/xtide/locations.html
 # Only the stations labeled 'Ref' will work with this script.
-#cat('Please enter the station name: \n')
-#stationID = scan(file = '', character(), quiet = TRUE, n = 1)
+cat('Please enter the station name: \n')
+stationID = scan(file = '', character(), quiet = TRUE, n = 1)
 # Hard-coded version:
-stationID = 'Monterey Harbor'
+#stationID = 'Monterey Harbor'
 #stationID = 'Boston, Boston Harbor'
 #stationID = 'San Diego, San Diego Bay'
 #stationID = 'Boston'
@@ -55,22 +55,22 @@ if (length(stInd) == 0){
 cat('Using station: ', harms$station[stInd],'\n')
 
 # Specify number of minutes between tide predictions
-#cat('Enter desired frequency of predictions in minutes (1-60): \n')
-#freq = scan(file = '', numeric(), quiet = TRUE, n = 1)
-freq = 6 # units of minutes, hard coded version
+cat('Enter desired frequency of predictions in minutes (1-60): \n')
+freq = scan(file = '', numeric(), quiet = TRUE, n = 1)
+#freq = 6 # units of minutes, hard coded version
 
 freq = freq * 60 # convert minutes to seconds
 
 # Specify start and end times for the tide predictions
 # If you cross a year boundary, the predictions must use the
 # correct equilibrium and nodefactors for each year. 
-#cat('Enter starting time (YYYY-MM-DD HH:MM) in UTC/GMT time zone: \n')
-#t1 = scan(file = '', character(), quiet = TRUE, n = 1)
-#cat('Enter ending time (YYYY-MM-DD HH:MM) in UTC/GMT time zone: \n')
-#t2 = scan(file = '', character(), quiet = TRUE, n = 1)
+cat('Enter starting time (YYYY-MM-DD HH:MM) in UTC/GMT time zone: \n')
+t1 = scan(file = '', character(), quiet = TRUE, n = 1)
+cat('Enter ending time (YYYY-MM-DD HH:MM) in UTC/GMT time zone: \n')
+t2 = scan(file = '', character(), quiet = TRUE, n = 1)
 # Hard coded version:
-t1 = '2012-12-31 23:00'
-t2 = '2013-01-01 09:00'
+#t1 = '2012-12-31 23:00'
+#t2 = '2013-01-01 09:00'
 
 # Convert to POSIXct time format, with UTC time zone
 t1 = as.POSIXct(t1, tz = 'UTC')
@@ -105,7 +105,7 @@ for (j in 1:nrow(times)) {
 											pi/180))))		
 	}
 }
-# Finished tide height calculations
+# Finished tide height calculations, units of feet (sorry, that's the way it is)
 ####################################
 
 timesout = as.POSIXct(times$hours * 3600, origin = times$yrstart, tz = 'UTC')
@@ -117,4 +117,7 @@ results = data.frame(TimeUTC = timesout, TideHt.ft = pred)
 # which isn't necessarily the time zone of your tide station. 
 results$TimeLocal = c(results$TimeUTC)
 
-#print(results)
+cat('Finished. See results data frame for output.\n')
+# Optionally print the results
+plot(results$TimeUTC,results$TideHt.ft, type = 'l', col = 'blue', las = 1,
+		xlab = 'Time, UTC time zone', ylab = 'Tide Height, ft')
