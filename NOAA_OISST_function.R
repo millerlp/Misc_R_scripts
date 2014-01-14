@@ -316,24 +316,46 @@ extractOISST1day = function(fname,lsmask,lon1,lon2,lat1,lat2){
 } # end of function 
 
 
-plotOISST = function(sst2){
+plotOISST = function(sst2, day = 1) {
 	# For plotting a simple image of the data from a multi-day OISST file
 	# When using image() with the rearranged data in sst2, it is necessary to 
 	# reverse the order of the latitudes so they increase, and 
 	# transpose and reverse the order in which the latitudes in sst2 are 
 	# plotted. 
-	image(x = as.numeric(dimnames(sst2)$Lon),
-			y = rev(as.numeric(dimnames(sst2)$Lat)),
-			if (length(dim(sst2))>2) {
-				as.matrix(t(sst2[nrow(sst2):1,,1]))
-			} else {
-				t(sst2[nrow(sst2):1,])
-			},
+	# If there is more than one time point, use the day argument to specify
+	# which page of the array you want to plot (integer value <= dim(sst2)[3])
+	lats = as.numeric(dimnames(sst2)$Lat) # extract latitudes
+	lons = as.numeric(dimnames(sst2)$Long) # extract longitudes
+	par(mar = c(4.5,4.5,3,6)) # widen margins to fit colorbar
+	image(x = lons, y = rev(lats),	
+			if (length(dim(sst2))>2){
+						as.matrix(t(sst2[nrow(sst2):1, ,day]))
+					} else {
+						t(sst2[nrow(sst2):1,])
+					},
 			las = 1,
-			ylim = range(as.numeric(dimnames(sst2)$Lat)), 
-			col = rainbow(64, start = 4/6, end = 6/6),
+			ylim = range(lats),
+			col = tim.colors(32),
+			yaxt = "n", xaxt = "n",
 			ylab = "Latitude (degrees north)",
 			xlab = "Longitude (degrees east)",
-			add = FALSE)
+			main = if(length(dim(sst2)>2)){
+				dimnames(sst2)$Date[day] # extract date from array dimnames
+			})
+	axis(1,at = pretty(lons),
+			labels = pretty(lons))
+	axis(2,at = pretty(lats),
+			labels = pretty(lats), las = 1)
+	# image.plot from the fields package inserts a color bar
+	require(fields) # install.packages('fields') if you don't already have it.
+	image.plot(zlim = range(if(length(dim(sst2))>2){
+						sst2[,,day]
+					} else {
+						sst2[,]
+					}, na.rm=TRUE),
+					nlevel = 32,
+			legend.only = TRUE, horizontal = FALSE, col = tim.colors(32),
+			legend.args = list(text = "Temperature, C", cex = 1.2,
+					side = 4, line = 2))
 }
 
