@@ -32,7 +32,7 @@ extractOISST = function(fname,lsmask,lon1,lon2,lat1,lat2, date1, date2){
 	# dimnames() function:
 	# lats = as.numeric(dimnames(sst2)$Lat)
 	# longs = as.numeric(dimnames(sst2)$Long)
-	# dates = as.Date(dimnames(sst2)$Date
+	# dates = as.Date(dimnames(sst2)$Date)
 	
 	# ________________________________________________________
 	# NetCDF files should be downloaded from the links on:
@@ -106,7 +106,6 @@ extractOISST = function(fname,lsmask,lon1,lon2,lat1,lat2, date1, date2){
 			date2 = as.Date(date2)
 			date2indx = which.min(abs(date2 - ncdates))
 		}
-		
 	}
 	
 	ndates = (date2indx - date1indx) + 1 #get number of time steps to extract
