@@ -102,7 +102,7 @@ extractOISST = function(fname,lsmask,lon1,lon2,lat1,lat2, date1, date2){
 		if (class(date2) == 'Date'){
 			# If date2 exists, get index of nearest time point to date2
 			date2indx = which.min(abs(date2 - ncdates)) 		
-		} else if (class(date1) == 'character'){
+		} else if (class(date2) == 'character'){
 			date2 = as.Date(date2)
 			date2indx = which.min(abs(date2 - ncdates))
 		}
@@ -330,7 +330,7 @@ plotOISST = function(sst2){
 				t(sst2[nrow(sst2):1,])
 			},
 			las = 1,
-			ylim = range(mylats), 
+			ylim = range(as.numeric(dimnames(sst2)$Lat)), 
 			col = rainbow(64, start = 4/6, end = 6/6),
 			ylab = "Latitude (degrees north)",
 			xlab = "Longitude (degrees east)",
