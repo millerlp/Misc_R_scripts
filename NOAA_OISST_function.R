@@ -85,14 +85,28 @@ extractOISST = function(fname,lsmask,lon1,lon2,lat1,lat2, date1, date2){
 	# Extract available dates from netCDF file
 	ncdates = nc$dim$time$vals
 	ncdates = as.Date(ncdates,origin = '1800-1-1') #available time points in nc
-	date1indx = which.min(abs(date1 - ncdates)) #get index of nearest time point
+	
+	if (class(date1) == 'Date'){
+		# Get index of nearest time point
+		date1indx = which.min(abs(date1 - ncdates)) 	
+	} else if (class(date1) == 'character'){
+		# Convert to a Date object first
+		date1 = as.Date(date1)
+		date1indx = which.min(abs(date1 - ncdates)) 
+	}
 	if (missing(date2)) {
 		# If date2 isn't specified, reuse date1
 		date2indx = which.min(abs(date1 - ncdates)) 
 		cat('Only 1 date specified\n')
 	} else {
-		# If date2 exists, get index of nearest time point to date2
-		date2indx = which.min(abs(date2 - ncdates)) 	
+		if (class(date2) == 'Date'){
+			# If date2 exists, get index of nearest time point to date2
+			date2indx = which.min(abs(date2 - ncdates)) 		
+		} else if (class(date1) == 'character'){
+			date2 = as.Date(date2)
+			date2indx = which.min(abs(date2 - ncdates))
+		}
+		
 	}
 	
 	ndates = (date2indx - date1indx) + 1 #get number of time steps to extract
