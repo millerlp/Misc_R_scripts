@@ -4,14 +4,15 @@
 # Daily data are available on a 1/4 degree global grid. 
 # Author: Luke Miller Jan 13, 2014
 ###############################################################################
-
+require(ncdf)	# install.packages('ncdf') if you don't already have it.
+require(fields) # install.packages('fields') if you don't already have it.
 extractOISST = function(fname,lsmask,lon1,lon2,lat1,lat2, date1, date2){
 	# This function takes 1-year NetCDF files from the 
 	# ftp://ftp.cdc.noaa.gov/Datasets/noaa.oisst.v2.highres/ directory
 	# where filenames for daily mean SST files are named with the scheme
 	# sst.day.mean.YEAR.v2.nc 
 	# _________________________________________________________________
-	require(ncdf)
+	
 	# Inputs
 	# fname: full path to NetCDF data file
 	# lsmask: full path to land-sea mask NetCDF file
@@ -183,7 +184,6 @@ extractOISST = function(fname,lsmask,lon1,lon2,lat1,lat2, date1, date2){
 
 
 extractOISST1day = function(fname,lsmask,lon1,lon2,lat1,lat2){
-	require(ncdf)
 	# The 1-day OISST v2 high resolution files come as gz-compressed NetCDF 
 	# files. You must unzip those files before trying to use this function. 
 	# ______________________________________________________________________
@@ -347,7 +347,7 @@ plotOISST = function(sst2, day = 1) {
 	axis(2,at = pretty(lats),
 			labels = pretty(lats), las = 1)
 	# image.plot from the fields package inserts a color bar
-	require(fields) # install.packages('fields') if you don't already have it.
+	
 	image.plot(zlim = range(if(length(dim(sst2))>2){
 						sst2[,,day]
 					} else {
