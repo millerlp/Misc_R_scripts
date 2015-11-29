@@ -1,1 +1,7 @@
 .bash_profile
+
+*.synctex.gz
+*.log
+*concordance.tex
+
+./knitr_lab_handouts/cache/*
