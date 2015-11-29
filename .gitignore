@@ -1,7 +1,10 @@
+[Tt]humbs.db
+*.DS_Store
+
 .bash_profile
 
 *.synctex.gz
 *.log
 *concordance.tex
 
-./knitr_lab_handouts/cache/*
+knitr_lab_handouts/cache/
