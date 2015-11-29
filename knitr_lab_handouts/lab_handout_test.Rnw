@@ -1,0 +1,229 @@
+%preamble
+\documentclass[letterpaper]{article}
+\usepackage[OT1]{fontenc}
+\usepackage{fullpage} %the fullpage.sty file needs to be copied somewhere
+                    %into the MiKTeK search path. 
+\usepackage{tabularx} % for getting wide tables to fit properly
+\usepackage{enumerate} % for alphanumeric lists with {enumerate}[(A)]
+\usepackage{amsmath} % for access to {equation*} and {aligned} functions for equations
+\usepackage{subfigure} %create multi-part figures
+\usepackage{setspace} %package for setting line spacing
+\usepackage{framed} % for making boxes around Tex text
+\usepackage{cclicenses} % for creative commons logos
+%\usepackage{draftwatermark} % for adding water mark over instructor version
+% Use siunitx package for proper upright greek letters in text, \umol = ?mol
+% give package arguments in [] brackets, then give package name in {} brackets
+\usepackage[free-standing-units=true,
+            space-before-unit=true,
+            use-xspace=true]{siunitx} 
+%\usepackage{gensymb}
+\usepackage{float} % Get access to [H] argument for figure placement
+\usepackage{fancyhdr} %for making fancy headers/footers
+\pagestyle{fancy} %required for fancy headers
+\usepackage{lastpage} % used for showing page X of pages XX in footer
+\usepackage{soul} % access to the \hl yellow high-light command
+% get access to \definecolor and \textcolor{} \cellcolor{} for coloring text
+% in the text and tables
+\usepackage[usenames,dvipsnames,table]{xcolor}
+\definecolor{webred}{rgb}{0.7, 0, 0} % less intense red color
+\definecolor{webblue}{rgb}{0, 0, 0.7} % less intense blue color 
+% Use the hyperref package below to create bookmarks in the output pdf. This 
+% will convert numbered sections into bookmarks, and will link figure/table 
+% references in the text to their respective captions. Also enables the \url{} 
+% and \href{} functions. Load this as the last package in the preamble, unless
+% you also use \usepackage[all]{hypcap} to display figures from hyperlinks more
+% naturally, in which case hypcap should be the last package loaded.
+\usepackage[pdftex, 
+            bookmarks=true, 
+            bookmarksnumbered=true,
+            bookmarksopen=true,
+            colorlinks=true,
+            linkcolor=webred,
+            urlcolor=webblue]{hyperref}
+\usepackage[all]{hypcap} % include after hyperref package
+
+\setstretch{1.2}    %set line spacing.
+\newcommand\T{\rule{0pt}{2.6ex}} %used for padding table cells vertically
+\newcommand\B{\rule[-1.2ex]{0pt}{0pt}} %used for padding table cells vertically
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Set some knitr options
+<<setup, include = FALSE, cache = FALSE>>=
+options(replace.assign=TRUE,width=60)
+opts_chunk$set(tidy=FALSE)
+opts_chunk$set(fig.path='figs/', cache.path='cache/graphics-', 
+		fig.align='center', fig.width = 5, fig.height = 5, fig.show = 'hold',
+		cache = TRUE, par = TRUE)
+@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Change the value of showInstruct below to switch from student to instructor
+% version of the document
+<<showInstructchunk, echo=FALSE >>=
+showInstruct = TRUE  # Set TRUE for instructor version
+                     # Set FALSE for student version
+@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title{\vspace{-2.0cm}A test document}
+\author{}
+\date{}
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% define header/footer
+% This is mostly window dressing, but I use it as an opportunity to stick
+% a marker for the student/instructor version of the document in the footer
+\pagestyle{fancy}
+\headsep = 5 pt
+\headwidth = \textwidth
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{}
+<<echo=FALSE, results='asis', cache=FALSE>>=
+# Here we change the contents of the center footer depending on the 
+# value of showInstruct. In the chunk options we also had to add the 
+# option cache=FALSE so that this code chunk is re-evaluated every single
+# time the document is processed. 
+if (showInstruct == TRUE) {
+  cat(" \\cfoot{INSTRUCTOR VERSION}")
+} else if (showInstruct == FALSE) {
+  cat("\\cfoot{Student version}")
+}
+@
+
+%\cfoot{} 
+\rfoot{Page \thepage~of \pageref{LastPage}}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.4pt}
+%finished defining header/footer
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\maketitle
+\vspace{-1.0cm}
+
+<<echo=FALSE, eval=showInstruct, results='asis', cache=FALSE >>=
+# Insert an "Instructor version" marker at start of document
+cat(" \\begin{centering}
+    {\\Huge \\textbf{INSTRUCTOR VERSION}}
+\\end{centering}
+    ")
+@
+
+\pagenumbering{arabic}  % start regular arabic page numbers
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Always-visible code}
+Let's pretend we're writing a real lab handout. We'd start with some example
+code that the students might want run, but the code shown here wouldn't 
+actually work as written.
+
+<<echo=TRUE, eval=FALSE>>=
+# This would cause an error if actually executed
+model = lm( your dummy ~ formula here, data = your data frame) 
+@
+
+But here's some code that does execute properly, because both of the chunk 
+options \texttt{echo} and \texttt{eval} are \texttt{TRUE}:
+
+<<echo=TRUE, eval=TRUE>>=
+# Generate some data
+x = seq(1,10)
+y = x * 3 + rnorm(10,3,2)
+# Run a correlation test
+cor.test(x,y) 
+@
+
+By default, \textsf{knitr} adds two hashmarks ahead of the output that is 
+returned by R, as seen above for the output of the correlation test. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Hiding instructor code}
+Next we'll write some R chunks that only show up when 
+\texttt{showInstruct=TRUE}. If this is the instructor version, you should see
+some R code to generate more data and another correlation test. But if this
+is the student version, there should be no R code immediately below this line
+in the PDF document.
+
+<<echo=showInstruct, eval=showInstruct>>=
+# Generate some data
+x2 = runif(20, min = 0, max = 40)
+y2 = x2 * 3 + rnorm(20,3,2)
+cor.test(x2,y2)
+@
+
+If the instructor code was activated, you should have seen a chunk of R 
+output above this line in the PDF document. 
+
+\begin{framed}
+\textbf{Exercise:} In the student version, this boxed section would contain a 
+question to be answered. 
+
+\end{framed}
+
+We can also include some regular text that will only appear in the 
+instructor version. A box with text should appear below in the PDF document
+if the instructor version is active, but in the student version the next section 
+will start instead. 
+
+<<echo=FALSE, eval=showInstruct, results='asis'>>=
+cat(" 
+    \\begin{framed}
+\\textbf{Instructor output:} Here is where I would include the expected answer
+to the exercise question just above. The other instructors appreciate having
+some guide as to what on earth I was expecting as an answer. 
+\\end{framed}
+    ")
+@
+
+%%%%%%%%%%%%%%%%%%%%%%%
+\section{Figures}
+
+Including a figure in the student and instructor version is fairly 
+straightforward if you're used to writing TeX code.
+
+<<studentPlot, echo=TRUE, eval=TRUE, fig.show='hide'>>=
+plot(x,y, type = 'b', las = 1, main='Student version')
+@
+% Insert the figure using the code below. Currently knitr is appending
+% a -1 to all my figure names, so I have to include that when I reference 
+% the figure in the \includegraphics call below
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.5\textwidth]{figs/studentPlot-1}
+\caption{A simple plot, included by default in both student and instructor
+versions of the handout.}
+\label{fig:studentPlot}
+\end{figure}
+
+Next we'll try the instructor-only plotting. A figure should only show up
+when you have set \texttt{showInstruct=TRUE} up near the start of the .Rnw
+document (line 63 on this file). But if this is the student version, there will 
+be nothing after this line. 
+
+<<instructorPlot, echo=showInstruct, eval=showInstruct,fig.show='hide'>>=
+# Instructor plotting code
+plot(x2,y2, type = 'p', las = 1, pch = 20, col = 'firebrick', 
+     main = 'Instructor-only plot')
+@
+
+<<showInstructorPlot, echo=FALSE, eval=showInstruct, results = 'asis'>>=
+# echo=FALSE on this chunk because we don't want to see the R code, we only
+# want the TeX results.
+cat(" 
+    \\begin{figure}[H]
+\\centering
+\\includegraphics[width=0.35\\textwidth]{figs/instructorPlot-1}
+\\caption{\\textbf{Instructor output:} this plot only appears on the instructor
+version.}
+\\label{fig:instructorPlot}
+\\end{figure}
+    ")
+
+
+
+@
+
+
+%%%%%%%%%%%%%%%%%%%%
+\end{document}
