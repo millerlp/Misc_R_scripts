@@ -1,0 +1,3325 @@
+﻿2009, L. W. Aarssen, C. J. Lortie, A. E. Budden, J. Koricheva, R. Leimu, T. Tregenza
+1956, D. P. Abbott
+1968, D. P. Abbott, D. Epel, J. H. Phillips, I. A. Abbott
+1983, A. H. Abdel-Rehim
+1983, A. H. Abdel-Rehim
+1988, A. H. Abdel-Rehim
+2003, M. A. Abdelrhman
+2007, M. A. Abdelrhman
+1997, A. Abelson, M. Denny
+2006, N. Aberle, M. Beutler, C. Moldaenke, K. H. Wiltshire
+2001, M. Abràmoff
+1996, P. A. Abrams
+2008, P. A. Abrams
+1997, T. S. Abu-Rezq, A. B. Yule, S. K. Teng
+1993, J. D. Ackerman, A. Okubo
+2000, A. Addo-Bediako, S. L. Chown, K. J. Gaston
+2001, T. C. Addy, L. E. Johnson
+2009, J. Adler
+2006, P. B. Adler, J. HilleRisLambers, P. C. Kyriakidis, Q. Guan, J. M. Levine
+2009, P. B. Adler, J. Leiker, J. M. Levine
+2008, R. F. Adler, G. Gu, J.-J. Wang, G. J. Huffman, S. Curtis, D. Bolvin
+2007, S. C. Adolph, J. S. Hardin
+2010, I. Agnarsson, M. Kunter, T. A. Blackledge
+2008, S. J. Agosta, J. A. Klemens
+2007, M. A. Aguilera, S. A. Navarrete
+2006, J. Ahnesjö, A. Forsman
+2014, K. Aho, D. Derryberry, T. Peterson
+2004, L. Aiello
+2007, L. Airoldi, S. J. Hawkins
+1978, H. Akaike
+2010, F. Alberto, P. T. Raimondi, D. C. Reed, N. C. Coelho, R. Leblois, A. Whitmer, E. A. Serrão
+2008, N. Aldred, A. S. Clare
+2013, N. Aldred, N. V. Gohad, L. Petrone, B. Orihuela, B. Liedberg, T. Ederth, A. Mount, D. Rittschof, A. S. Clare
+1981, R. M. Alexander
+2006, A. C. Alfaro
+1968, L. L. Alleman
+2007, A. P. Allen, J. F. Gillooly
+2007, B. J. Allen, J. S. Levinton
+2014, B. J. Allen, J. S. Levinton
+2012, B. J. Allen, B. Rodgers, Y. Tuan, J. S. Levinton
+1955, F. E. Allen
+2004, G. Allison
+2001, S. H. Alonzo, M. Mangel
+2008, J. Alroy
+2008, J. Alroy
+2008, A. H. Altieri
+2009, A. H. Altieri, G. C. Trussell, P. J. Ewanchuk, G. Bernatchez, M. E. S. Bracken
+2010, A. H. Altieri, B. K. van Wesenbeeck, M. D. Bertness, B. R. Silliman
+2007, S. Altman, R. B. Whitlatch
+2010, A. Alvergne, V. Lummaa
+2003, P. Amarasekare
+2013, P. Amarasekare, R. M. Coutinho
+2014, P. Amarasekare, R. M. Coutinho
+1987, D. T. Anderson, A. J. Southward
+2010, J. J. Anderson
+2006, K. Anderson, L. Close, R. E. DeWreede, B. J. Lynch, C. Ormond, M. Walker
+2003, M. J. Anderson, T. J. Willis
+1987, N. L. Andrew, B. D. Mapstone
+1991, E. B. Andrews
+1991, E. B. Andrews, M. R. Elphick, M. C. Thorndyke
+2006, O. Andruchov, O. Andruchova, S. Galler
+2007, A. Anestis, A. Lazou, H. O. Poertner, B. Michaelidis
+2010, A. Anestis, H. O. Poertner, D. Karagiannis, P. Angelidis, A. Staikou, B. Michaelidis
+2010, A. Anestis, H. O. Poertner, B. Michaelidis
+2008, A. Anestis, H. O. Pörtner, A. Lazou, B. Michaelidis
+2006, A. Angel, G. M. Branch, R. M. Wanless, T. Siebert
+2011, A. L. Angert, L. G. Crozier, L. J. Rissler, S. E. Gilman, J. J. Tewksbury, A. J. Chunco
+2006, M. J. Angilletta
+2009, M. J. Angilletta
+2009, M. J. Angilletta
+2010, M. J. Angilletta, R. B. Huey, M. R. Frazier
+2009, M. J. Angilletta, M. W. Sears, R. M. Pringle
+1998, T. Angradi, R. Hood
+1998, A. C. Anil, R. D. S. Khandeparkar
+2010, N. P. R. Anten, F. Schieving
+2009, K. R. N. Anthony, M. O. Hoogenboom, J. A. Maynard, A. G. Grottoli, R. Middlebrook
+2008, R. G. Anthony, J. A. Estes, M. A. Ricca, A. K. Miles, E. D. Forsman
+2010, J. Anzures-Cabrera, J. P. T. Higgins
+2012, W. Appeltans, Shane T. Ahyong, G. Anderson, Martin V. Angel, T. Artois, N. Bailly, R. Bamber, A. Barber, I. Bartsch, A. Berta, M. Błażewicz-Paszkowycz, P. Bock, G. Boxshall, Christopher B. Boyko, Simone N. Brandão, Rod A. Bray, Niel L. Bruce, Stephen D. Cairns, T.-Y. Chan, L. Cheng, Allen G. Collins, T. Cribb, M. Curini-Galletti, F. Dahdouh-Guebas, Peter J. F. Davie, Michael N. Dawson, O. De Clerck, W. Decock, S. De Grave, Nicole J. de Voogd, Daryl P. Domning, Christian C. Emig, C. Erséus, W. Eschmeyer, K. Fauchald, Daphne G. Fautin, Stephen W. Feist, Charles H. J. M. Fransen, H. Furuya, O. Garcia-Alvarez, S. Gerken, D. Gibson, A. Gittenberger, S. Gofas, L. Gómez-Daglio, Dennis P. Gordon, Michael D. Guiry, F. Hernandez, Bert W. Hoeksema, Russell R. Hopcroft, D. Jaume, P. Kirk, N. Koedam, S. Koenemann, Jürgen B. Kolb, Reinhardt M. Kristensen, A. Kroh, G. Lambert, David B. Lazarus, R. Lemaitre, M. Longshaw, J. Lowry, E. Macpherson, Laurence P. Madin, C. Mah, G. Mapstone, Patsy A. McLaughlin, J. Mees, K. Meland, Charles G. Messing, Claudia E. Mills, Tina N. Molodtsova, R. Mooi, B. Neuhaus, Peter K. L. Ng, C. Nielsen, J. Norenburg, Dennis M. Opresko, M. Osawa, G. Paulay, W. Perrin, John F. Pilger, Gary C. B. Poore, P. Pugh, Geoffrey B. Read, James D. Reimer, M. Rius, Rosana M. Rocha, José I. Saiz-Salinas, V. Scarabino, B. Schierwater, A. Schmidt-Rhaesa, Kareen E. Schnabel, M. Schotte, P. Schuchert, E. Schwabe, H. Segers, C. Self-Sullivan, N. Shenkar, V. Siegel, W. Sterrer, S. Stöhr, B. Swalla, Mark L. Tasker, Erik V. Thuesen, T. Timm, M. A. Todaro, X. Turon, S. Tyler, P. Uetz, J. van der Land, B. Vanhoorne, Leen P. van Ofwegen, Rob W. M. van Soest, J. Vanaverbeke, G. Walker-Smith, T. C. Walter, A. Warren, Gary C. Williams, Simon P. Wilson, Mark J. Costello
+2009, K. M. Aquilino, M. E. S. Bracken, M. N. Faubel, J. J. Stachowicz
+1998, Z. Arad, S. Goldenberg, J. Heller
+2010, Z. Arad, T. Mizrahi, S. Goldenberg, J. Heller
+2012, M. B. Araújo, A. T. Peterson
+2001, J. M. Archibald, C. Blouin, W. F. Doolittle
+1989, J. C. Argete, J. D. Wilson
+2009, K. K. Arkema
+2009, K. K. Arkema, D. C. Reed, S. C. Schroeter
+2002, P. R. Armsworth
+1969, R. Arnold
+2009, R. B. Aronson, R. M. Moody, L. C. Ivany, D. B. Blake, J. E. Werner, A. Glass
+2004, J. Arrontes, F. Arenas, C. Fernandez, J. M. Rico, J. Oliveros, B. Martinez, R. M. Viejo, D. Alvarez
+2001, D. J. Arsenault, K. B. Marchinko, A. R. Palmer
+2009, P. Artacho, R. F. Nespolo
+2010, Dee A. Asbury, Michael J. A. Jr
+2008, M. D. Aschaffenburg
+1997, A. P. Askew, D. Corker, D. J. Hodkinson, K. Thompson
+1997, G. P. Asner, G. Goldstein
+2015, R. L. Atkins, J. N. Griffin, C. Angelini, M. I. O'Connor, B. R. Silliman
+1984, W. D. Atkinson, S. F. Newbury
+1983, W. D. Atkinson, T. Warwick
+1992, D. K. Atwood, J. C. Hendee, A. Mendez
+2010, F. Aubret, R. Shine
+2010, Audacity Development Team
+2002, M. P. Austin
+2006, R. Avery, R. J. Etter
+2008, J. C. Avise, S. P. Hubbell, F. J. Ayala
+1998, F. Azam
+2011, J. M. F. Babarro, E. Carrington
+2008, J. M. F. Babarro, M. J. Fernanadez Reiriz, U. Labarta
+2009, C. E. Bach, B. A. Hazlett
+2009, S. Bahrndoff, J. Mariën, V. Loeschcke, J. Ellers
+1981, R. A. Bailey, J. W. Zubrick
+1997, M. E. Baird, M. J. Atkinson
+1996, C. S. Baker, F. Cipriano, S. R. Palumbi
+1909, S. M. Baker
+1910, S. M. Baker
+1992, G. S. Bakken
+1975, G. S. Bakken, D. M. Gates
+1980, M. Balaparameswara Rao
+1968, S. Baldwin
+2014, P. Balvanera, I. Siddique, L. Dee, A. Paquette, F. Isbell, A. Gonzalez, J. Byrnes, M. I. O’Connor, B. A. Hungate, J. N. Griffin
+2007, J. M. Bane, Y. H. Spitz, R. M. Letelier, W. T. Peterson
+2014, J. A. Bannerman, B. D. Roitberg
+1990, K. Banse
+1980, C. R. Bantock
+2014, M. Barazandeh, C. S. Davis, A. R. Palmer
+2015, M. Barazandeh, A. R. Palmer
+1967, M. S. Barbeito, C. T. Mathews, L. A. Taylor
+2015, A. H. Barber, D. Lu, N. M. Pugno
+2014, J. J. Barber, K. Ogle
+1968, W. H. Baribault
+2006, D. K. A. Barnes
+1977, H. Barnes, M. Barnes, W. Klepal
+2001, A. D. Barnosky, E. A. Hadly, M. B. A, M. I. Christie
+2000, C. Barranguet, J. Kromkamp
+1995, J. P. Barry, C. H. Baxter, R. D. Sagarin, S. E. Gilman
+1988, J. P. Barry, P. K. Dayton
+2013, M. J. Barry, S. Syal
+2007, J. A. Barth, B. A. Menge, J. Lubchenco, F. Chan, J. M. Bane, A. R. Kirincich, M. A. McManus, K. J. Nielsen, S. D. Pierce, L. Washburn
+1967, P. N. Bartlett, D. M. Gates
+2009, B. T. Barton, A. P. Beckerman, O. J. Schmitz
+2009, B. T. Barton, O. J. Schmitz
+2012, K. Barton
+2009, F. Bartumeus
+1999, Z. Baruch, G. Goldstein
+1972, G. L. Baskerville
+2012, M. L. Baskett
+2013, A. E. Bates, C. M. McKelvie, C. J. B. Sorte, S. A. Morley, N. A. R. Jones, J. A. Mondon, T. J. Bird, G. Quinn
+2010, A. E. Bates, W. B. Stickle, C. D. G. Harley
+2007, C. R. Bates, R. E. DeWreede
+1978, B. Bayne, D. Holland, M. Moore, D. Lowe, J. Widdows
+1988, B. L. Bayne, A. J. S. Hawkins, E. Navarro
+1978, B. L. Bayne, C. Scullard
+1978, B. L. Bayne, C. Scullard
+1970, B. L. Bayne, R. J. Thompson
+2007, M. C. Bazterrica, B. R. Silliman, F. J. Hidalgo, C. M. Crain, M. D. Bertness
+2008, C. M. Beale, J. J. Lennon, A. Gimona
+2010, C. M. Beale, J. J. Lennon, J. M. Yearsley, M. J. Brewer, D. A. Elston
+2008, G. Beaugrand, M. Edwards, K. Brander, C. Luczak, F. Ibanez
+2004, A. R. Beaumont, G. Turner, A. R. Wood, D. O. F. Skibinski
+2008, L. J. Beaumont, L. Hughes, A. J. Pitman
+2007, B. J. Becker, L. A. Levin, F. J. Fodrie, P. A. McMillan
+2007, A. Beckerman, K. Wieski, D. Baird
+2010, D. S. Bedulina, M. Zimmer, M. A. Timofeyev
+2001, L. B. Beheregaray, P. Sunnucks
+2013, J. E. Behm, D. A. Edmonds, J. P. Harmon, A. R. Ives
+1972, S. Behrens
+1974, S. Behrens
+1977, S. Behrens Yamada
+1977, S. Behrens Yamada
+1987, S. Behrens Yamada
+1989, S. Behrens Yamada
+1992, S. Behrens Yamada
+2014, T. Bekkby, E. Rinde, H. Gundersen, K. Norderhaug, J. Gitmark, H. Christie
+1995, E. C. Bell
+1994, E. C. Bell, M. W. Denny
+1996, E. C. Bell, J. M. Gosline
+1997, E. C. Bell, J. M. Gosline
+2004, J. L. Bell, L. C. Sloan, M. A. Snyder
+2014, A. Bellgrove, J. Monk, G. Quinn
+2010, M. A. Bender, T. R. Knutson, R. E. Tuleya, J. J. Sirutis, G. A. Vecchi, S. T. Garner, I. M. Held
+2003, L. Benedetti-Cecchi
+2006, L. Benedetti-Cecchi, I. Bertocci, S. Vaselli, E. Maggi
+2008, L. Benedetti-Cecchi, I. Bertocci, S. Vaselli, E. Maggi, F. Bulleri
+2007, L. Benedetti-Cecchi, G. C. Osio
+2015, K. M. Benes, R. C. Carpenter
+1997, P. Beninger, S. St-Jean
+1984, B. B. Benson, D. Krause Jr
+1988, K. R. Benson
+2002, K. R. Benson
+2009, M. J. Benton
+1968, W. J. Beppu
+2010, M. Berg, J. Ellers
+2009, M. S. Berger
+2007, M. S. Berger, R. B. Emlet
+1974, R. L. Berger, W. S. Friauf, H. E. Cascio
+2009, Å. Berggren, C. Björkman, H. Bylund, M. P. Ayres
+2008, T. J. Bergman, J. C. Beehner
+2008, S. K. Berke, S. A. Woodin
+1997, E. L. Berlow
+2009, E. L. Berlow, J. A. Dunne, N. D. Martinez, P. B. Stark, R. J. Williams, U. Brose
+2000, D. Berrigan
+2006, A. A. Berryman, B. A. Hawkins
+1989, M. D. Bertness
+1994, M. D. Bertness, R. Callaway
+2006, M. D. Bertness, C. M. Crain, B. R. Silliman, M. C. Bazterrica, M. V. Reyna, F. Hildago, J. K. Farina
+1997, M. D. Bertness, G. H. Leonard
+1999, M. D. Bertness, G. H. Leonard, J. M. Levine, J. F. Bruno
+1999, M. D. Bertness, G. H. Leonard, J. M. Levine, P. R. Schmidt, A. O. Ingraham
+1976, M. D. Bertness, D. E. Schneider
+2002, M. D. Bertness, G. C. Trussell, P. J. Ewanchuk, B. R. Silliman
+2004, M. D. Bertness, G. C. Trussell, P. J. Ewanchuk, B. R. Silliman, C. M. Crain
+2005, I. Bertocci, E. Maggi, S. Vaselli, L. Benedetti-Cecchi
+2010, I. Bertocci, E. Maggi, S. Vaselli, L. Benedetti-Cecchi
+2007, I. Bertocci, S. Vaselli, E. Maggi, L. Benedetti-Cecchi
+2013, R. J. Best, A. L. Chaudoin, M. E. S. Bracken, M. H. Graham, J. J. Stachowicz
+2014, J. J. Beukema, R. Dekker
+1996, C. M. Beynon, D. O. F. Skibinski
+2007, R. Bibby, P. Cleall-Harding, S. Rundle, S. Widdicombe, J. Spicer
+2005, A. A. Biewener
+1964, E. Bigler
+1972, F. O. Bingham
+2013, B. Bjelde, A. Todgham
+1977, R. Black
+2001, R. Black, M. S. Johnson
+2014, S. Blackburn, B. van Heerwaarden, V. Kellermann, C. M. Sgrò
+2011, T. M. Blackburn, P. Pysek, S. Bacher, J. T. Carlton, R. P. Duncan, V. Jarosík, J. R. U. Wilson, D. M. Richardson
+2013, C. Blain, P. Gagnon
+1996, G. F. Blanchard, J.-M. Guarini, P. Richard, P. Gros, F. Mornet
+1994, C. A. Blanchette
+1997, C. A. Blanchette
+2007, C. A. Blanchette, S. D. Gaines
+2007, C. A. Blanchette, B. S. T. Helmuth, S. D. Gaines
+2008, C. A. Blanchette, C. Melissa Miner, P. T. Raimondi, D. Lohse, K. E. K. Heady, B. R. Broitman
+2007, D. J. Blockley, M. G. Chapman
+1985, A. J. Bloom, F. S. Chapin, III, H. A. Mooney
+2005, G. Blouin-Demers, P. Nadeau
+1967, C. E. Bock, R. E. Johnson
+1981, B. L. Boese, A. W. Pritchard
+2000, B. J. M. L. Bohannan, Richard E
+2008, B. M. Bolker, M. E. Brooks, C. J. Clark, S. W. Geange, J. R. Poulsen, M. H. H. Stevens, J.-S. S. White
+2013, B. M. Bolker, B. Gardner, M. Maunder, C. W. Berg, M. Brooks, L. Comita, E. Crone, S. Cubaynes, T. Davies, P. de Valpine, J. Ford, O. Gimenez, M. Kéry, E. J. Kim, C. Lennert-Cody, A. Magnusson, S. Martell, J. Nash, A. Nielsen, J. Regetz, H. Skaug, E. Zipkin
+2006, M. L. Boller, E. Carrington
+2006, M. L. Boller, E. Carrington
+2007, M. L. Boller, E. Carrington
+2002, M. L. Boller, T. D. Swain, H. R. Lasker
+2009, S. A. Bolliger, S. Ross, L. Oesterhelweg, M. J. Thali, B. P. Kneubuehl
+2003, D. I. Bolnick, R. Svanback, J. A. Fordyce, L. H. Yang, J. M. Davis, C. D. Hulsey, M. L. Forister
+2014, R. Bom, W. Bouten, T. Piersma, K. Oosterbeek, J. van Gils
+1936, L. Bonar
+2014, J. Bonicelli, F. J. Tapia, S. A. Navarrete
+2004, M. B. Bonsall, V. A. A. Jansen, M. P. Hassell
+1998, R. Boonstra, D. Hik, G. R. Singleton, A. Tinnikov
+2012, J. A. T. Booth, E. E. McPhee-Shaw, P. Chua, E. Kingsley, M. Denny, R. Phillips, S. J. Bograd, L. D. Zeidberg, W. F. Gilly
+2009, M. Borenstein
+2005, B. J. Borrell, J. A. Goldbogen, R. Dudley
+2009, C. Both, M. van Asch, R. G. Bijlsma, A. B. van den Burg, M. E. Visser
+2001, E. G. Boulding, D. Pakes, S. Kamel
+1993, E. G. Boulding, K. L. Van Alstyne
+1992, A. J. L. Boulton, P. S.
+1992, A. J. L. Boulton, P. S.
+2011, P. E. Bourdeau
+2012, P. E. Bourdeau
+2011, A. Bouzas, D. Aguado, N. Marti, J. Manuel Pastor, R. Herraez, P. Campins, A. Seco
+2014, B. Bowler, C. Krebs, M. O'Donoghue, J. Hone
+2009, S. J. Bownes, C. D. McQuaid
+2010, S. J. Bownes, C. D. McQuaid
+2006, M. S. Boyce, C. V. Haridas, C. T. Lee, N. S. D. W. Group
+2011, F. Bozinovic, D. A. Bastías, F. Boher, S. Clavijo-Baquet, S. A. Estay, M. J. A. Jr
+2006, C. Braby, G. Somero
+2004, C. E. Braby
+2006, C. E. Braby, G. N. Somero
+2013, M. E. Bracken, S. L. Williams
+2014, M. E. S. Bracken, R. E. Dolecal, J. D. Long
+2008, M. E. S. Bracken, S. E. Friberg, C. A. Gonzalez-Dorantes, S. L. Williams
+2007, M. E. S. Bracken, C. A. Gonzalez-Dorantes, J. J. Stachowicz
+2015, M. E. S. Bracken, H. Hillebrand, E. T. Borer, E. W. Seabloom, J. Cebrian, E. E. Cleland, J. J. Elser, D. S. Gruner, W. S. Harpole, J. T. Ngai, J. E. Smith
+2011, M. E. S. Bracken, E. Jones, S. L. Williams
+2011, B. A. Bradley, D. M. Blumenthal, R. Early, E. D. Grosholz, J. J. Lawler, L. P. Miller, C. J. B. Sorte, C. M. D'Antonio, J. M. Diez, J. S. Dukes, I. Ibanez, J. D. Olden
+1983, E. F. Bradley, P. J. Mulhearn
+2004, C. J. A. Bradshaw, J. Higgins, K. J. Michael, S. J. Wotherspoon, M. A. Hindell
+1985, P. M. Brakefield, P. G. Willmer
+2005, J. B. Bram, H. M. Page, J. E. Dugan
+1975, G. M. Branch
+1978, G. M. Branch
+1981, G. M. Branch
+1988, G. M. Branch, P. Borchers, C. R. Brown, D. Donnelly
+2002, G. M. Branch, C. L. Griffiths, M. L. Branch, L. E. Beckley
+1978, G. M. Branch, R. C. Newell
+2008, G. M. Branch, F. Odendaal, T. B. Robinson
+2010, G. M. Branch, F. Odendaal, T. B. Robinson
+2004, G. M. Branch, C. N. Steffani
+2010, P. M. Brannock, T. J. Hilbish
+2009, S. H. Brawley, J. A. Coyer, A. M. H. Blakeslee, G. Hoarau, L. E. Johnson, J. E. Byers, W. T. Stam, J. L. Olsen
+1957, J. R. Bray, J. T. Curtis
+2009, S. A. E. Brazão, A. C. F. Silva, D. M. Boaventura
+2006, L. C. Breaker
+1972, P. A. Breen
+1970, J. R. Brett, D. A. Higgs
+1999, C. H. Briand, S. M. Campion, D. A. Dzambo, K. A. Wilson
+1992, D. Bridge, C. W. Cunningham, B. Schierwater, R. Desalle, L. W. Buss
+1999, J.-F. Briere, P. Pracros, A.-Y. Le Roux, J.-S. Pierre
+2009, D. L. Brinkman, J. N. Burnell
+2001, C. Brito, P. Lourenco, R. Medeiros, J. F. Rebelo, H. D. Wolf, K. Jordaens, T. Backeljau
+1992, J. C. Britton
+1993, J. C. Britton
+1995, J. C. Britton
+1986, J. C. Britton, R. F. McMahon
+2001, A. C. Broderick, B. J. Godley, G. C. Hays
+1940, G. J. Broekhuysen
+2005, B. R. Broitman, C. A. Blanchette, S. D. Gaines
+2008, B. R. Broitman, C. A. Blanchette, B. A. Menge, J. Lubchenco, C. Krenz, M. Foley, P. T. Raimondi, D. Lohse, S. D. Gaines
+2006, B. R. Broitman, B. P. Kinlan
+2008, B. R. Broitman, N. Mieszkowska, B. Helmuth, C. A. Blanchette
+2009, B. R. Broitman, P. L. Szathmary, K. A. S. Mislan, C. A. Blanchette, B. Helmuth
+2009, K. Brokordt, N. Leiva, K. Jeno, G. Martínez, F. Winkler
+2009, B. W. Brook, H. R. Akçakaya, D. A. Keith, G. M. Mace, R. G. Pearson, M. B. Araújo
+2007, J. I. Brookes, R. Rochette
+2006, U. Brose, T. Jonsson, E. L. Berlow, P. Warren, C. Banasek-Richter, L. F. Bersier, J. L. Blanchard, T. Brey, S. R. Carpenter, M. F. C. Blandenier, L. Cushing, H. A. Dawah, T. Dell, F. Edwards, S. Harper-Smith, U. Jacob, M. E. Ledger, N. D. Martinez, J. Memmott, K. Mintenbeck, J. K. Pinnegar, B. C. Rall, T. S. Rayner, D. C. Reuman, L. Ruess, W. Ulrich, R. J. Williams, G. Woodward, J. E. Cohen
+2001, A. F. Brown, L. M. Kann, D. M. Rand
+1997, B. E. Brown
+1997, B. E. Brown
+2011, C. J. Brown, D. S. Schoeman, W. J. Sydeman, K. Brander, L. B. Buckley, M. Burrows, C. M. Duarte, P. J. Moore, J. M. Pandolfi, E. Poloczanska, W. Venables, A. J. Richardson
+2010, J. D. Brown
+2004, J. H. Brown, J. Gillooly, F, A. P. Allen, V. M. Savage, G. B. West
+1988, K. M. Brown, J. F. Quinn
+2002, K. M. Brown, W. B. Stickle
+2000, F. Bruechert, G. Becker, T. Speck
+2008, N. T. Brun, V. M. Bricelj, T. H. MacRae, N. W. Ross
+2009, N. T. Brun, V. M. Bricelj, T. H. MacRae, N. W. Ross
+1996, C. Brunet, D. Davoult, R. Casotti
+2008, J. F. Bruno, K. E. Boyer, J. E. Duffy, S. C. Lee
+2005, J. F. Bruno, K. E. Boyer, J. E. Duffy, S. C. Lee, J. S. Kertesz
+2008, J. F. Bruno, B. J. Cardinale
+2006, J. F. Bruno, S. C. Lee, J. S. Kertesz, R. C. Carpenter, Z. T. Long, J. Emmett Duffy
+2003, J. F. Bruno, J. J. Stachowicz, M. D. Bertness
+2014, E. S. Bryson, G. C. Trussell, P. J. Ewanchuk
+1989, M. R. Buchholtz-ten Brink, G. Gust, D. Chavis
+2009, S. Buchholz
+2001, B. A. Buckley, M.-E. Owen, G. E. Hofmann
+2008, L. B. Buckley
+2008, L. B. Buckley, W. Jetz
+2014, L. B. Buckley, C. R. Nufio, J. G. Kingsolver
+2005, L. B. Buckley, J. Roughgarden
+2006, L. B. Buckley, J. Roughgarden
+2010, L. B. Buckley, M. C. Urban, M. J. Angilletta, L. G. Crozier, L. J. Rissler, M. W. Sears
+2007, K. E. Buenau, A. Rassweiler, R. M. Nisbet
+2010, M. Bueno, G. A. O. Moser, B. R. C. Tocci, A. A. V. Flores
+1968, P. T. Bulkey
+2004, F. Bulleri, M. G. Chapman, A. J. Underwood
+2014, F. Bulleri, S. Xiao, E. Maggi, L. Benedetti-Cecchi
+2001, G. Bullock, A. Crawford, P. Hewson, MJA, P. Bird
+1953, T. H. Bullock
+2004, E. Bulte, R. Damania, L. Gillson, K. Lindsay
+2013, M. Burger, F. van Breukelen
+2011, T. Burgmer, H. Hillebrand
+2008, D. E. Burkepile, M. E. Hay
+1993, H. Burla, M. Gosteli
+2004, J. L. Burnaford
+2014, J. L. Burnaford, K. J. Nielsen, S. L. Williams
+2013, N. P. Burnett, R. Seabra, M. De Pirro, D. S. Wethey, S. A. Woodin, B. Helmuth, M. L. Zippay, G. Sarà, C. J. Monaco, F. P. Lima
+2014, K. P. Burnham, D. R. Anderson
+2004, V. Burris
+1989, M. T. Burrows, R. N. Hughes
+1990, M. T. Burrows, R. N. Hughes
+1991, M. T. Burrows, R. N. Hughes
+1991, M. T. Burrows, R. N. Hughes
+2010, M. T. Burrows, S. R. Jenkins, L. Robb, R. Harvey
+2000, M. T. Burrows, G. Santini, G. Chelazzi
+2011, M. T. Burrows, D. S. Schoeman, L. B. Buckley, P. Moore, E. S. Poloczanska, K. M. Brander, C. Brown, J. F. Bruno, C. M. Duarte, B. S. Halpern, J. Holding, C. V. Kappel, W. Kiessling, M. I. O’Connor, J. M. Pandolfi, C. Parmesan, F. B. Schwing, W. J. Sydeman, A. J. Richardson
+2014, M. T. Burrows, D. S. Schoeman, A. J. Richardson, J. G. Molinos, A. Hoffmann, L. B. Buckley, P. J. Moore, C. J. Brown, J. F. Bruno, C. M. Duarte, B. S. Halpern, O. Hoegh-Guldberg, C. V. Kappel, W. Kiessling, M. I. O’Connor, J. M. Pandolfi, C. Parmesan, W. J. Sydeman, S. Ferrier, K. J. Williams, E. S. Poloczanska
+1964, P. S. Bush
+2009, J. V. Buskirk
+1995, R. H. Bustamante, G. M. Branch, S. Eekhout
+1995, R. H. Bustamante, G. M. Branch, S. Eekhout, B. Robertson, P. Zoutendyk, M. Schleyer, A. Dye, N. Hanekom, D. Keats, M. Jurd, C. McQuaid
+2008, R. K. Butlin, J. Galindo, J. W. Grahame
+2008, J. E. Byers, A. M. H. Blakeslee, E. Linder, A. B. Cooper, T. J. Maguire
+2006, J. E. Byers, J. M. Pringle
+1990, R. A. Byrne, E. Gnaiger, R. F. McMahon, T. H. Dietz
+2011, J. E. Byrnes, D. C. Reed, B. J. Cardinale, K. C. Cavanaugh, S. J. Holbrook, R. J. Schmitt
+2009, J. E. Byrnes, J. J. Stachowicz
+2014, J. E. K. Byrnes, L. Gamfeldt, F. Isbell, J. S. Lefcheck, J. N. Griffin, A. Hector, B. J. Cardinale, D. U. Hooper, L. E. Dee, J. E. Duffy
+1968, A. J. Cain
+2014, V. Calcagno, F. Grognard, F. M. Hamelin, É. Wajnberg, L. Mailleret
+2003, K. Caldeira, M. E. Wickett
+2001, R. J. Calhoun, R. L. Street, J. R. Koseff
+2007, F. M. Callaghan, G. G. Cooper, V. I. Nikora, N. Lamouroux, B. Statzner, P. Sagnes, J. Radford, E. Malet, B. J. F. Biggs
+2015, A. Camacho, M. Trefaut Rodrigues, C. Navas
+2008, R. A. D. Cameron, B. M. Pokryszko
+1998, G. S. Campbell, J. M. Norman
+2014, J. Caprio, M. Shimohara, T. Marui, S. Harada, S. Kiyohara
+2001, M. Carballo, C. Garcia, Rolan-Alvarez
+2011, B. J. Cardinale
+2012, B. J. Cardinale, J. E. Duffy, A. Gonzalez, D. U. Hooper, C. Perrings, P. Venail, A. Narwani, G. M. Mace, D. Tilman, D. A. Wardle, A. P. Kinzig, G. C. Daily, M. Loreau, J. B. Grace, A. Larigauderie, D. S. Srivastava, S. Naeem
+2013, B. J. Cardinale, K. Gross, K. Fritschie, P. Flombaum, J. W. Fox, C. Rixen, J. van Ruijven, P. B. Reich, M. Scherer-Lorenzen, B. J. Wilsey
+1987, T. H. Carefoot
+1995, T. H. Carefoot, D. A. Donovan
+2014, N. Carey, S. Dupont, B. Lundve, J. Sigwart
+2006, R. L. Carlson, M. J. Shulman, J. C. Ellis
+1992, J. T. Carlton
+1993, J. T. Carlton
+1996, J. T. Carlton
+1996, J. T. Carlton
+2007, J. T. Carlton
+1993, J. T. Carlton, J. B. Geller
+1990, J. T. Carlton, J. K. Thompson, L. E. Schemel, F. H. Nichols
+2008, A. U. Caro, J. Escobar, F. Bozinovic, S. A. Navarrete, J. C. Castilla
+2010, A. U. Caro, S. A. Navarrete, J. C. Castilla
+2013, L. A. Carr, J. F. Bruno
+1961, M. R. Carriker
+1977, M. R. Carriker
+1978, M. R. Carriker
+1981, M. R. Carriker
+1974, M. R. Carriker, J. G. Schaadt, V. Peters
+1972, M. R. Carriker, D. Van Zandt
+1972, M. R. Carriker, D. V. Zandt
+1990, E. Carrington
+2002, E. Carrington
+2009, E. Carrington, G. M. Moeser, J. Dimond, J. J. Mello, M. L. Boller
+2008, E. Carrington, G. M. Moeser, S. B. Thompson, L. C. Coutts, C. A. Craig
+1990, M. L. Carroll, D. S. Wethey
+1959, H. S. Carslaw, J. C. Jaeger
+2010, H. S. Carson, P. C. Lopez-Duarte, L. Rasmussen, D. Wang, L. A. Levin
+2012, S. Cartwright, G. Williams
+2014, S. Cartwright, G. Williams
+2008, M. M. Casey, D. Chattopadhyay
+2009, M. Casini, J. Hjelm, J.-C. Molinero, J. Lövgren, M. Cardinale, V. Bartolino, A. Belgrano, G. Kornilovs
+1992, M. A. Castellini, L. D. Rea
+1961, R. W. Castenholz
+1963, R. W. Castenholz
+1999, J. C. Castilla
+2010, J. C. Castilla, P. H. Manríquez, A. Camaño
+2007, J. C. Castilla, P. H. Manrìquez, A. P. Delgado, L. Gargallo, A. Leiva, D. Radic
+2015, K. C. Cavanaugh, J. D. Parker, S. C. Cook-Patton, I. C. Feller, A. P. Williams, J. R. Kellner
+2006, D. Cayan, E. Maurer, M. Dettinger, M. Tyree, K. Hayhoe, C. Bonfils, P. Duffy, B. Santer
+1999, O. A. Chadwick, L. A. Derry, P. M. Vitousek, B. J. Huebert, L. O. Hedin
+2006, M. D. Chambers, G. R. Vanblaricom, L. Hauser, F. Utter, C. S. Friedman
+1994, R. J. Chambers, C. D. McQuaid
+2005, B. K. K. Chan, O. S. Hung
+2008, F. Chan, J. A. Barth, J. Lubchenco, A. Kirincich, H. Weeks, W. T. Peterson, B. A. Menge
+2011, A. L. Chang, A. M. H. Blakeslee, A. W. Miller, G. M. Ruiz
+1991, H.-W. Chang
+2007, W.-L. Chang, K.-J. Chi, T.-Y. Fan, C.-F. Dai
+1968, D. Chapin
+1994, F. S. I. Chapin, L. R. Walker, C. L. Fastie, L. C. Sharman
+1986, M. G. Chapman
+1995, M. G. Chapman
+1995, M. G. Chapman
+2000, M. G. Chapman
+2006, M. G. Chapman
+2007, M. G. Chapman
+1992, M. G. Chapman, A. J. Underwood
+1994, M. G. Chapman, A. J. Underwood
+1996, M. G. Chapman, A. J. Underwood
+2008, M. G. Chapman, A. J. Underwood
+2009, C. Chapperon, L. Seuront
+2011, C. Chapperon, L. Seuront
+2011, C. Chapperon, L. Seuront
+2011, C. Chapperon, L. Seuront
+2012, C. Chapperon, L. Seuront
+2013, C. Chapperon, L. Seuront
+1998, J. P. Chapple, G. R. Smerdon, R. J. Berry, A. J. S. Hawkins
+2002, J. M. Chase, P. A. Abrams, J. P. Grover, S. Diehl, P. Chesson, R. D. Holt, S. A. Richards, R. M. Nisbet, T. J. Case
+2007, D. Chattopadhyay, T. K. Baumiller
+2009, A. G. Checa, J. H. E. Cartwright, M.-G. Willinger
+1987, A. Y. L. Cheer, M. A. R. Koehl
+1988, G. Chelazzi, S. Focardi, J.-L. Deneubourg
+1998, G. Chelazzi, D. Parpagnoli, G. Santini
+1999, G. Chelazzi, G. A. Williams, D. R. Gray
+2011, I.-C. Chen, J. K. Hill, R. Ohlemüller, D. B. Roy, C. D. Thomas
+2009, I.-C. Chen, H.-J. Shiu, S. Benedick, J. D. Holloway, V. K. Chey, H. S. Barlow, J. K. Hill, C. D. Thomas
+2015, Y. Chen
+2008, P. Chesson, J. J. Kuang
+1969, M. Chétail, J. Fournié
+2013, W. W. L. Cheung, R. Watson, D. Pauly
+2000, S. Chiba, T. Noda
+2000, Y. Chiba
+1988, H. L. Ching, E. D. Grosholz
+2012, L. Chipman, M. Huettel, P. Berg, V. Meyer, I. Klimant, R. Glud, F. Wenzhoefer
+1977, J. H. Choat
+1987, V. Chow
+1987, V. Chow
+1989, V. Chow
+2001, S. L. Chown
+2010, S. L. Chown, K. J. Gaston, M. van Kleunen, S. Clusella-Trullas
+2009, S. L. Chown, K. R. Jumbam, J. G. Sørensen, J. S. Terblanche
+2007, S. L. Chown, J. S. Terblanche
+2010, D. Christianson, S. Creel
+2008, C.-J. Chu, F. T. Maestre, S. Xiao, J. Weiner, Y.-S. Wang, Z.-H. Duan, G. Wang
+2014, N. D. Chu, L. P. Miller, S. T. Kaluziak, G. C. Trussell, S. V. Vollmer
+2008, J. D. Clapp, J. W. Min, A. M. Shillington, M. B. Reed, J. K. Croff
+2008, C. J. Clark, T. J. Feo
+1992, C. W. Clark, C. D. Harvell
+2001, J. S. Clark, S. R. Carpenter, M. Barber, S. Collins, A. Dobson, J. A. Foley, D. M. Lodge, M. Pascual, R. Pielke, Jr., W. Pizer, C. Pringle, W. V. Reid, K. A. Rose, O. Sala, W. H. Schlesinger, D. H. Wall, D. Wear
+2008, M. S. Clark, K. P. P. Fraser, L. S. Peck
+2009, M. S. Clark, L. S. Peck
+2009, M. S. Clark, L. S. Peck
+2004, R. P. Clark, M. S. Edwards, M. S. Foster
+2006, R. T. Clark, S. J. Brown, J. M. Murphy
+1990, A. Clarke
+2004, A. Clarke
+2006, A. Clarke
+2004, A. Clarke, K. P. P. Fraser
+2000, A. P. Clarke, P. J. Mill, J. Grahame
+2000, A. P. Clarke, P. J. Mill, J. Grahame, R. F. McMahon
+2000, A. P. Clarke, P. J. Miller, J. Grahame
+1993, K. Clarke, M. Ainsworth
+1993, K. R. Clarke
+2006, K. R. Clarke, M. G. Chapman, P. J. Somerfield, H. R. Needham
+2011, I. Cleasby, S. Nakagawa
+1986, J. D. Cleland, R. F. McMahon
+2000, E. Clelland, A. Saleuddin
+2008, J. E. Cloern, A. D. Jassby
+2011, S. Clusella-Trullas, T. M. Blackburn, S. L. Chown
+2008, S. Clusella-Trullas, J. S. Terblanche, T. M. Blackburn, S. L. Chown
+2010, S. Clusella-Trullas, J. S. Terblanche, S. L. Chown
+2007, S. Clusella-Trullas, J. H. van Wyk, J. R. Spotila
+2009, S. Clusella-Trullas, J. H. Wyk, J. R. Spotila
+2006, M. M. Coates, A. Garm, J. C. Theobald, S. H. Thompson, D.-E. Nilsson
+1951, W. G. Cochran
+2003, S. Cocito, S. Sgorbini, A. Peirano, M. Valle
+1945, W. R. Coe
+1946, W. R. Coe
+1942, W. R. Coe, D. L. Fox
+1999, D. Cohen, M. Mangel
+2009, J. E. Cohen, D. N. Schittler, D. G. Raffaelli, D. C. Reuman
+2014, A. Cole, M. Denny
+2010, V. J. Cole, C. D. McQuaid
+1998, G. D. G. Colello, C; Sellers, P J; Berry, J. A.
+2014, D. W. Coleman, M. Byrne, A. R. Davis
+2008, R. A. Coleman
+2010, R. A. Coleman
+2012, R. A. Coleman
+2007, R. A. Coleman, S. J. Ramchunder, A. J. Moody, A. Foggo
+2006, R. A. Coleman, A. J. Underwood, L. Benedetti-Cecchi, P. Åberg, F. Arenas, J. Arrontes, J. Castro, R. G. Hartnoll, S. R. Jenkins, J. Paula
+2011, D. J. Colgan, P. Middelfart
+2010, S. P. Colin, J. H. Costello, L. J. Hansson, J. Titelman, J. O. Dabiri
+1991, G. J. B. Collatz, J Timothy; Grivet, Cyril; Berry, Joseph A
+1976, L. S. Collins
+1977, L. S. Collins
+2001, S. B. Collins, G. Perez-Camargo, G. Gettinby, R. F. Butterwick, R. M. Batt, C. J. Giffard
+1996, T. M. Collins, K. Frazer, A. R. Palmer, G. J. Vermeij, W. M. Brown
+1933, J. Colman
+2014, D. Colquhoun
+1916, H. S. Colton
+1922, H. S. Colton
+2014, N. B. Colvard, E. Carrington, B. Helmuth
+2005, J. A. Commito, E. A. Celano, H. J. Celico, S. Como, C. P. Johnson
+2006, S. Como, F. Rossi, C. Lardicci
+1961, J. H. Connell
+1961, J. H. Connell
+1970, J. H. Connell
+1972, J. H. Connell
+1974, J. H. Connell
+1975, J. H. Connell
+1997, J. H. Connell
+1964, J. H. Connell, E. Orias
+1997, S. D. Connell
+2003, S. D. Connell
+2001, S. R. Connolly, B. A. Menge, J. Roughgarden
+1998, S. R. Connolly, J. Roughgarden
+1999, S. R. Connolly, J. Roughgarden
+1986, V. M. Connor
+1984, V. M. Connor, J. F. Quinn
+1995, D. O. Conover, E. T. Schultz
+1986, L. M. Cook
+1986, L. M. Cook, P. M. Freeman
+2008, B. S. Cooper, B. H. Williams, M. J. Angilletta Jr
+2010, C. E. Cooper, P. C. Withers
+2007, G. G. Cooper, F. M. Callaghan, V. I. Nikora, N. Lamouroux, B. Statzner, P. Sagnes
+1997, S. Cooper, M. W. Denny
+2006, J. A. Correa, N. A. Lagos, M. H. Medina, J. C. Castilla, M. Cerda, M. Ramirez, E. Martinez, S. Faugeron, S. Andrade, R. Pinto, L. Contreras
+1971, D. P. Costello, C. Henley
+1991, J. Costello
+2005, K. L. Cottingham, J. T. Lennon, B. L. Brown
+2007, L. A. Courtney, W. S. Fisher, S. Raimondo, L. M. Oliver, W. P. Davis
+1985, R. K. Cowen
+1985, R. H. Cowie, J. S. Jones
+1940, R. B. Cowles
+1946, R. B. Cowles
+1962, R. B. Cowles
+1968, P. C. Craig
+2008, C. M. Crain, K. Kroeker, B. S. Halpern
+2004, M. J. Crawley
+2013, M. J. Crawley
+1980, R. G. Creese
+1982, R. G. Creese, A. J. Underwood
+2010, Clayton E. Cressler, Aaron A. King, Earl E. Werner
+1954, D. J. Crisp, H. Barnes
+1985, D. J. Crisp, E. Bourget
+1990, D. J. Crisp, F. J. Maclean
+1960, D. J. Crisp, B. S. Patel
+1961, D. J. Crisp, A. J. Southward
+1979, M. Crisp, L. M. Cook, F. V. Hereward
+2005, D. A. Croll, J. L. Maron, J. A. Estes, E. M. Danner, G. V. Byrd
+2007, L. Crummett, D. Eernisse
+2010, J. J. Cruz-Motta, P. Miloslavich, G. Palomo, K. Iken, B. Konar, G. Pohle, T. Trott, L. Benedetti-Cecchi, C. Herrera, A. Hernández, A. Sardi, A. Bueno, J. Castillo, E. Klein, E. Guerra-Castro, J. Gobin, D. I. Gómez, R. Riosmena-Rodríguez, A. Mead, G. Bigatti, A. Knowlton, Y. Shirayama
+1984, J. D. Cubit
+1985, J. D. Cubit
+2007, G. Cumming, F. Fidler, D. L. Vaux
+2010, S. Curiel-Ramirez, J. Caceres-Martinez
+1968, J. D. Currey, A. J. Cain
+1982, J. D. Currey, R. N. Hughes
+1974, J. D. Currey, J. D. Taylor
+1966, F. Curtis
+2000, T. M. Curtis, R. Williamson, M. H. Depledge
+1997, M. Cusson, E. Bourget
+2008, M. Czarnoleski, J. Kozlowski, G. Dumiot, J.-C. Bonnet, J. Mallard, M. Dupont-Nivet
+1964, A. L. Dahl
+2001, E. P. Dahlhoff, B. A. Buckley, B. A. Menge
+1996, E. P. Dahlhoff, B. A. Menge
+2007, E. P. Dahlhoff, N. E. Rank
+2002, E. P. Dahlhoff, J. H. Stillman, B. A. Menge
+1999, T. Dale, E. Bagoien, W. Melle, S. Kaartvedt
+2009, S. Dalesman, S. Rundle, P. Cotton
+2007, S. Dalesman, S. D. Rundle, D. T. Bilton, P. A. Cotton
+1975, G. P. Daly
+1975, G. P. Daly
+2005, B. Dalziel, E. G. Boulding
+2007, O. D'Amours, R. E. Scheibling
+1981, J. Damuth
+1998, J. Damuth
+1999, E. M. Danner
+2009, M. Daufresne, K. Lengfellner, U. Sommer
+1960, A. G. Davenport
+2005, J. Davenport, J. L. Davenport
+2007, J. Davenport, J. L. Davenport
+2007, A. J. Davies, M. P. Johnson, C. A. Maggs
+1999, M. S. Davies, P. Beckwith
+2007, M. S. Davies, J. Blackwell
+1995, M. S. Davies, G. A. Williams
+1998, A. J. Davis, L. S. Jenkinson, J. H. Lawton, B. Shorrocks, S. Wood
+1998, A. J. Davis, J. H. Lawton, B. Shorrocks, L. S. Jenkinson
+1997, A. C. Davison, D. V. Hinkley
+1996, I. R. Davison, G. A. Pearson
+2013, M. N. Dawson, C. G. Hays, R. K. Grosberg, P. T. Raimondi
+1996, D. M. Day, R. D. Sallee, B. A. Bertrand, R. V. Anderson
+2000, E. G. Day, G. M. Branch, C. Viljoen
+1971, P. K. Dayton
+1973, P. K. Dayton
+1975, P. K. Dayton
+1979, P. K. Dayton
+1989, P. K. Dayton
+1984, P. K. Dayton, V. Currie, T. Gerrodette, B. D. Keller, R. Rosenthal, D. Ven Tresca
+1994, P. K. Dayton, B. J. Mordida, F. Bacon
+1977, P. K. Dayton, J. S. Oliver
+1980, P. K. Dayton, J. S. Oliver
+1974, P. K. Dayton, G. A. Robilliard, R. T. Paine, L. B. Dayton
+1984, P. K. Dayton, M. J. Tegner
+1999, P. K. Dayton, M. J. Tegner, P. B. Edwards, K. L. Riser
+1992, P. K. Dayton, M. J. Tegner, P. E. Parnell, P. B. Edwards
+2008, M. De Block, R. Stoks
+2010, H. J. De Boeck, F. E. Dreesen, I. A. Janssens, I. Nijs
+2008, P. J. N. de Bruyn, C. A. Tosh, M. N. Bester
+2014, R. A. J. de Bruyn, L. A. Gosselin
+2013, J. M. de Goeij, D. van Oevelen, M. J. A. Vermeij, R. Osinga, J. J. Middelburg, A. F. P. M. de Goeij, W. Admiraal
+1997, L. De Grandpre, Y. Bergeron
+2011, M. de Jager, F. J. Weissing, P. M. J. Herman, B. A. Nolet, J. van de Koppel
+1996, P. W. de Jong, S. W. S. Gussekloo, P. M. Brakefield
+2009, L. J. de Nooijer, T. Toyofuku, H. Kitazato
+2008, A. M. De Roos, T. Schellekens, T. Van Kooten, L. Persson
+2013, H. De Rosario-Martínez
+2014, P. de Valpine
+2001, P. de Valpine, J. Harte
+2012, P. De Wit, M. H. Pespeni, J. T. Ladner, D. J. Barshis, F. Seneca, H. Jaris, N. Overgaard Therkildsen, M. Morikawa, S. R. Palumbi
+2002, G. De'ath
+2009, G. De'ath, J. M. Lough, K. E. Fabricius
+1978, P. A. Dehnel
+2014, R. Dekker, J. J. Beukema
+2003, J. Delany, A. A. Myers, D. McGrath, R. M. O'Riordan, A. M. Power
+2011, A. I. Dell, S. Pawar, V. M. Savage
+2013, A. I. Dell, S. Pawar, V. M. Savage
+1994, P. Della Santini, E. Naylor, G. Chelazzi
+2015, J. P. DeLong, B. Gilbert, J. B. Shurin, V. M. Savage, T. B. Brandon, C. F. Clements, A. I. Dell, H. S. Greig, C. D. G. Harley, P. Kratina, K. S. McCann, T. D. Tunney, D. A. Vasseur, M. I. O’Connor
+1988, C. M. Delucchi
+1989, C. M. Delucchi, B. L. Peckarsky
+2006, T. L. Delworth, A. J. Broccoli, A. Rosati, R. J. Stouffer, V. Balaji, J. A. Beesley, W. F. Cooke, K. W. Dixon, J. Dunne, K. A. Dunne, J. W. Durachta, K. L. Findell, P. Ginoux, A. Gnanadesikan, C. T. Gordon, S. M. Griffies, R. Gudgel, M. J. Harrison, I. M. Held, R. S. Hemler, L. W. Horowitz, S. A. Klein, T. R. Knutson, P. J. Kushner, A. R. Langenhorst, H.-C. Lee, S.-J. Lin, J. Lu, S. L. Malyshev, P. C. D. Milly, V. Ramaswamy, J. Russell, M. D. Schwarzkopf, E. Shevliakova, J. J. Sirutis, M. J. Spelman, W. F. Stern, M. Winton, A. T. Wittenberg, B. Wyman, F. Zeng, R. Zhang
+1995, W. R. Demott
+2006, J.-M. Deng, G.-X. Wang, E. C. Morris, X.-P. Wei, D.-X. Li, B.-M. Chen, C.-M. Zhao, J. Liu, Y. Wang
+2008, K. L. Denman
+2010, A. B. Dennis, M. E. Hellberg
+1976, M. Denny
+1980, M. Denny
+1980, M. Denny
+1989, M. Denny
+1995, M. Denny
+1999, M. Denny
+1999, M. Denny
+2012, M. Denny
+2014, M. Denny
+2012, M. Denny, L. Benedetti-Cecchi
+1989, M. Denny, V. Brown, E. Carrington, G. Kraemer, A. Miller
+1997, M. Denny, B. Cowen
+1992, M. Denny, J. Dairiki, S. Distefano
+2011, M. Denny, K. M. Dorgan, D. Evangelista, A. Hettinger, J. Leichter, W. C. Ruder, I. Tuval
+1996, M. Denny, B. Gaylord
+2002, M. Denny, B. Gaylord
+1998, M. Denny, B. Gaylord, B. Helmuth, T. Daniel
+2013, M. Denny, K. Mach, S. Tepler, P. Martone
+2006, M. Denny, L. Miller
+2002, M. Denny, L. Roberson
+2001, M. Denny, D. S. Wethey
+1981, M. W. Denny
+1982, M. W. Denny
+1983, M. W. Denny
+1984, M. W. Denny
+1985, M. W. Denny
+1987, M. W. Denny
+1987, M. W. Denny
+1990, M. W. Denny
+1993, M. W. Denny
+1993, M. W. Denny
+1994, M. W. Denny
+1995, M. W. Denny
+2000, M. W. Denny
+2006, M. W. Denny
+2008, M. W. Denny
+2000, M. W. Denny, C. A. Blanchette
+1985, M. W. Denny, T. L. Daniel, M. A. R. Koehl
+2012, M. W. Denny, W. W. Dowd
+2011, M. W. Denny, W. W. Dowd, L. Bilir, K. J. Mach
+1990, M. W. Denny, S. D. Gaines
+2010, M. W. Denny, B. Gaylord
+1998, M. W. Denny, B. Gaylord, B. S. T. Helmuth, T. Daniel
+1980, M. W. Denny, J. M. Gosline
+2003, M. W. Denny, B. B. Hale
+2006, M. W. Denny, C. D. G. Harley
+2009, M. W. Denny, B. Helmuth
+2004, M. W. Denny, B. Helmuth, G. Leonard, C. D. G. Harley, L. J. H. Hunt, E. K. Nelson
+2009, M. W. Denny, L. J. H. Hunt, L. P. Miller, C. D. G. Harley
+2009, M. W. Denny, B. L. Lockwood, G. N. Somero
+2006, M. W. Denny, L. P. Miller, C. D. G. Harley
+2003, M. W. Denny, L. P. Miller, M. D. Stokes, L. J. H. Hunt, B. S. T. Helmuth
+2002, M. W. Denny, E. K. Nelson, K. S. Mead
+1998, M. W. Denny, R. T. Paine
+1989, M. W. Denny, M. F. Shibata
+1990, M. H. Depledge, B. B. Andersen
+2007, C. deRivera, N. Hitchcock, S. Teck, B. Steves, A. Hines, G. Ruiz
+2005, M. N. Dethier, S. L. Williams, A. Freeman
+2008, C. A. Deutsch, J. J. Tewksbury, R. B. Huey, K. S. Sheldon, C. K. Ghalambor, D. C. Haak, P. R. Martin
+1998, T. J. DeWitt
+1998, T. J. DeWitt, A. Sih, D. S. Wilson
+1983, R. E. DeWreede
+1988, R. W. Dexter
+1986, J. M. Diamond, W. H. Karasov, D. Phan, F. L. Carpenter
+2012, S. E. Diamond, L. M. Nichols, N. McCoy, C. Hirsch, S. L. Pelini, N. J. Sanders, A. M. Ellison, N. J. Gotelli, R. R. Dunn
+2009, P. J. Dias, A. Dordor, D. Tulett, S. Piertney, I. M. Davies, M. Snow
+2011, P. J. Dias, B. Malgrange, M. Snow, I. M. Davies
+2011, P. J. Dias, S. B. Piertney, M. Snow, I. M. Davies
+2014, E. R. Díaz, C. D. McQuaid
+2011, F. Diaz, A. Salas, A. D. Re, M. Gonzalez, I. Reyes
+2008, R. J. Diaz, R. Rosenberg
+2003, S. S. Diaz, Amy J; Chapin, F Stuart III; Wardle, David A; Huenneke, Laura F
+2009, G. H. Dickinson, I. E. Vega, K. J. Wahl, B. Orihuela, V. Beyley, E. N. Rodriguez, R. K. Everett, J. Bonaventura, D. Rittschof
+2001, M. B. Dickinson, S. M. Hermann, D. F. Whigham
+2010, A. G. Dickson
+2007, A. G. Dickson, C. L. Sabine, J. R. Christian
+2007, R. K. Didham, D. A. Norton
+2005, R. K. Didham, C. H. Watts
+1982, B. J. DiDomenico, G. E. Bugaisky, S. Lindquist
+1982, B. J. DiDomenico, G. E. Bugaisky, S. Lindquist
+2013, C. M. Diederich, J. A. Pechenik
+1975, C. O. d. C. Diefenbach
+2009, G. P. Dietl, R. R. Alexander
+2005, G. P. Dietl, G. S. Herbert
+2012, J. M. Diez, C. M. D'Antonio, J. S. Dukes, E. D. Grosholz, J. D. Olden, C. J. B. Sorte, D. M. Blumenthal, B. A. Bradley, R. Early, I. Ibáñez, S. J. Jones, J. J. Lawler, L. P. Miller
+2010, N. S. Diffenbaugh, M. Ashfaq
+2013, N. S. Diffenbaugh, C. B. Field
+1955, P. S. B. Digby
+2011, J. A. Dijkstra, E. L. Westerman, L. G. Harris
+1991, L. M. Dill, J. F. Gillett
+2012, M. E. Dillon, R. Liu, G. Wang, R. B. Huey
+2010, M. E. Dillon, G. Wang, R. B. Huey
+1991, D. Dittman, C. Robles
+2008, S. Dobretsov, M. Wahl
+1996, W. K. H. Dodds, Ruth E.; Eichem Angela C.; Evans, Michelle A.; Gudder, Dolly A.; Fritz, Ken M.; Gray, Lawarence
+2011, M. M. Doellman, G. C. Trussell, J. W. Grahame, S. V. Vollmer
+2009, S. D. Doherty, D. Brophy, E. Gosling
+2008, C. M. Domingues, J. A. Church, N. J. White, P. J. Gleckler, S. E. Wijffels, P. M. Barker, J. R. Dunn
+2007, S. Dominici, M. Zuschin
+2003, C. P. Doncaster, G. E. Pound, S. J. Cox
+2012, S. C. Doney, M. Ruckelshaus, J. E. Duffy, J. P. Barry, F. Chan, C. A. English, H. M. Galindo, J. M. Grebmeier, A. B. Hollowed, N. Knowlton
+2008, Y. Dong, L. P. Miller, J. G. Sanders, G. N. Somero
+2009, Y. Dong, G. N. Somero
+2014, Y.-w. Dong, G.-d. Han, X.-w. Huang
+2011, Y.-w. Dong, G. Williams
+2011, Y.-w. Dong, S.-s. Yu, Q.-l. Wang, S.-l. Dong
+2009, S. D. Donner
+2008, D. A. Donovan, H. H. Taylor
+1972, S. R. Doran, D. S. McKenzie
+1946, M. S. Doty
+1971, M. S. Doty
+2001, R. H. Douglas
+2008, J. G. Douglass, J. E. Duffy, J. F. Bruno
+2013, W. W. Dowd, C. A. Felton, H. M. Heymann, L. E. Kost, G. N. Somero
+2013, W. W. Dowd, G. N. Somero
+2010, S. Doyle, B. A. MacDonald, R. Rochette
+2008, S. Dray, P. Legendre
+2006, C. Dreanno, K. Matsumura, N. Dohmae, K. Takio, H. Hirota, R. R. Kirby, A. S. Clare
+1980, J. S. Driver
+1970, L. D. Druehl, J. M. Green
+2010, P. Duarte, M. J. Fernandez-Reiriz, R. Filgueira, U. Labarta
+2004, G. Duclos, A. H. Clement
+2009, S. E. Dudas, G. Rilov, J. Tyburczy, B. A. Menge
+2003, J. E. Duffy
+2003, J. E. Duffy, J. P. Richardson, E. A. Canuel
+2005, J. E. Duffy, J. P. Richardson, K. E. France
+2000, R. A. Dunham, A. D. Cameron
+1984, S. d. B. Dunkin, R. N. Hughes
+2003, R. A. Dunmore, D. R. Schiel
+1991, W. A. Dunson, J. Travis
+2009, W. M. Durham, J. O. Kessler, R. Stocker
+2009, J. M. Dutton, G. E. Hofmann
+2000, M. Dynesius, R. Jansson
+2005, E. M. Dzialowski
+2001, E. M. Dzialowski, M. P. O'Connor
+2011, R. Early, D. F. Sax
+2000, D. R. Easterling, J. L. Evans, P. Y. Groisman, T. R. Karl, K. E. Kunkel, P. Ambenje
+2000, D. R. Easterling, G. A. Meehl, C. Parmesan, S. A. Changnon, T. R. Karl, L. O. Mearns
+1968, C. M. Eaton
+1964, F. J. Ebling, J. A. Kitching, L. Muntz, C. M. Taylor
+2012, L. K. Eckersley, R. A. Scrosati
+1964, D. Eckert
+1993, J. E. Eckman, D. O. Duggins
+1994, C. Edelin, C. Atger
+2014, G. J. Edgar, R. D. Stuart-Smith, T. J. Willis, S. Kininmonth, S. C. Baker, S. Banks, N. S. Barrett, M. A. Becerro, A. T. F. Bernard, J. Berkhout, C. D. Buxton, S. J. Campbell, A. T. Cooper, M. Davey, S. C. Edgar, G. Forsterra, D. E. Galvan, A. J. Irigoyen, D. J. Kushner, R. Moura, P. E. Parnell, N. T. Shears, G. Soler, E. M. A. Strain, R. J. Thomson
+2010, T. Edgell
+2009, T. Edgell, B. R. Lynch, G. C. Trussell, A. R. Palmer
+2009, T. C. Edgell, R. Rochette
+2003, J. Edmunds, J. M. Cushing, R. F. Constantino, S. M. Henson, B. Dennis, R. A. Desharnais
+1951, E. B. Edney
+1953, E. B. Edney
+1966, C. Edwards
+2011, K. F. Edwards, J. J. Stachowicz
+2006, M. S. Edwards, J. A. Estes
+1992, S. Eekhout, C. M. Raubenheimer, G. M. Branch, A. L. Bosman, M. O. Bergh
+2000, P. R. Ehrlich
+2009, P. R. Ehrlich
+2008, P. R. Ehrlich, R. M. Pringle
+2014, S. Einum
+1997, D. M. Eissenstat, R. D. Yanai
+1994, A. Ekendahl
+1995, A. Ekendahl
+1998, A. Ekendahl
+1997, A. Ekendahl, K. Johannesson
+2015, J. S. Eklöf, J. N. Havenhand, C. Alsterberg, L. Gamfeldt
+2014, R. Elahi, T. R. Dwyer, K. P. Sebens
+2006, J. Elith, C. H. Graham, R. P. Anderson, M. Dudík, S. Ferrier, A. Guisan, R. J. Hijmans, F. Huettmann, J. R. Leathwick, A. Lehmann, J. Li, L. G. Lohmann, B. A. Loiselle, G. Manion, C. Moritz, M. Nakamura, Y. Nakazawa, J. M. M. Overton, A. T. Peterson, S. J. Phillips, K. Richardson, R. Scachetti-Pereira, R. E. Schapire, J. Soberón, S. Williams, M. S. Wisz, N. E. Zimmermann
+2010, J. Elith, M. Kearney, S. Phillips
+1983, W. R. Ellington
+1976, J. Elliott
+2008, J. Elliott, K. Holmes, R. Chambers, K. Leon, P. Wimberger
+1982, J. M. Elliott
+2007, J. C. Ellis, M. J. Shulman, M. Wood, J. D. Witman, S. Lozyniak
+2014, A. M. Ellison, N. J. Gotelli, B. D. Inouye, D. R. Strong
+2015, S. C. Elmendorf, G. H. R. Henry, R. D. Hollister, A. M. Fosaa, W. A. Gould, L. Hermanutz, A. Hofgaard, I. I. Jónsdóttir, J. C. Jorgenson, E. Lévesque, B. ó. Magnusson, U. Molau, I. H. Myers-Smith, S. F. Oberbauer, C. Rixen, C. E. Tweedie, M. Walker
+1978, R. W. Elner, R. N. Hughes
+1976, D. W. Elvin
+1979, D. W. Elvin, J. J. Gonor
+2001, B. C. Emerson, E. Paradis, C. Thebaud
+1966, J. M. Emlen
+2005, V. G. Encomio, F.-L. E. Chu
+1973, J. A. Endler
+1978, J. A. Endler
+1989, J. A. Endler, A. M. Lyles
+1997, G. Englund
+2011, G. Englund, G. Öhlund, C. L. Hein, S. Diehl
+1994, A. R. Ennos
+1999, A. R. Ennos
+1973, R. W. Eppley
+2005, J. Erlandsson, C. D. McQuaid, V. E. Kostylev
+2011, J. Erlandsson, C. D. McQuaid, M. Sköld
+2006, J. Erlandsson, P. Pal, C. D. McQuaid
+2014, R. Ern, D. T. T. Huong, N. T. Phuong, T. Wang, M. Bayley
+2007, E. K. Espeland, K. J. Rice
+2000, C. Espoz, J. C. Castilla
+2013, S. A. Estay, M. Lima, F. Bozinovic
+2001, A. Estoup, I. J. Wilson, C. Sullivan, J.-M. Cornuet, C. Moritz
+1988, R. J. Etter
+1988, R. J. Etter
+1989, R. J. Etter
+1996, R. J. Etter
+1961, F. Evans
+2008, J. A. Evans
+1947, R. G. Evans
+1948, R. G. Evans
+2008, J. J. Ewel, M. J. Mazzarino
+1998, K. C. Ewel, S. Zheng, Z. S. Pinzon, J. A. Bourgeois
+2008, E. Fabbri, P. Valbonesi, S. Franzellitti
+2008, V. J. Fabry, B. A. Seibel, R. A. Feely, J. C. Orr
+1999, I. Fagoonee, H. B. Wilson, M. P. Hassell, J. P. Turner
+1988, P. G. Fairweather
+1988, P. G. Fairweather
+1983, P. G. Fairweather, A. J. Underwood
+1991, P. G. Fairweather, A. J. Underwood
+2014, W. Fakhoury, J. S. Gosnell
+2008, J. M. Farina, M. Sepulveda, M. V. Reyna, K. P. Wallem, P. G. Ossa-Zazzali
+1980, G. D. Farquhar, S. Von Caemmerer, J. A. Berry
+1988, T. M. Farrell
+1991, T. M. Farrell
+2014, K. T. Faulkner, S. Clusella-Trullas, L. S. Peck, S. L. Chown
+1970, C. J. Feare
+1971, C. J. Feare
+1970, G. J. Feare
+2010, J. Fearman, N. A. Moltschaniwskyj
+1956, H. M. Feder
+1959, H. M. Feder
+1963, H. M. Feder
+1967, H. M. Feder
+1972, H. M. Feder
+2000, M. E. Feder, A. F. Bennett, R. B. Huey
+1999, M. E. Feder, G. E. Hofmann
+2012, G. Feldman, C. McClain
+2014, K. D. Feller, T. W. Cronin
+2008, P. B. Fenberg
+2011, P. B. Fenberg, M. M. Rivadeneira
+2007, P. B. Fenberg, K. Roy
+2008, M. C. Ferner, B. Gaylord
+2005, M. C. Ferner, M. J. Weissburg
+2015, M. C. O. Ferrari, P. L. Munday, J. L. Rummer, M. I. McCormick, K. Corkill, S.-A. Watson, B. J. M. Allan, M. G. Meekan, D. P. Chivers
+1998, M. Ferreyra, A. Cingolani, C. Ezcurra, D. Bran
+2006, A. Fertin, J. Casas
+2012, S. B. Fey, K. L. Cottingham
+1983, C. Field
+1998, C. B. Field, M. J. Behrenfeld, J. T. Randerson, P. Falkowski
+2014, P. A. Fields, C. Eurich, W. L. Gao, B. Cela
+1993, P. A. Fields, J. B. Graham, R. H. Rosenblatt, G. N. Somero
+2006, P. A. Fields, E. L. Rudomin, G. N. Somero
+2011, J. D. Figurski, D. Malone, J. R. Lacy, M. Denny
+2011, R. Filgueira, R. Rosland, J. Grant
+2008, H. S. Findlay, M. A. Kendall, J. I. Spicer, C. Turley, S. Widdicombe
+2010, H. S. Findlay, M. A. Kendall, J. I. Spicer, S. Widdicombe
+2010, H. S. Findlay, M. A. Kendall, J. I. Spicer, S. Widdicombe
+2008, D. L. Finke, W. E. Snyder
+2007, G. R. Finke, S. A. Navarrete, F. Bozinovic
+2011, S. Finnegan, C. M. McClain, M. A. Kosnik, J. L. Payne
+2009, L. B. Firth, G. A. Williams
+2008, J. A. D. Fisher
+2009, J. A. D. Fisher, E. C. Rhile, H. Liu, P. S. Petraitis
+1904, W. K. Fisher
+1980, D. A. Fishlyn, D. W. Phillips
+1985, D. A. Fisk, T. J. Done
+2012, L. Fitzgerald-Dehoog, J. Browning, B. J. Allen
+2004, T. Fitzhenry, P. M. Halpin, B. Helmuth
+2010, P. A. Flight, S. D. Schoepfer, D. M. Rand
+2015, A. A. V. Flores, R. A. Christofoletti, A. L. F. Peres, A. M. Ciotti, S. A. Navarrete
+2012, E. K. Fly, C. J. Monaco, S. Pincebourde, A. Tullis
+2011, F. J. Fodrie, B. J. Becker, L. A. Levin, K. Gruenthal, P. A. McMillan
+2007, M. Fogarty, L. Incze, R. Wahle, D. Mountain, A. Robinson, A. Pershing, K. Hayhoe, A. Richards, J. Manning
+2011, G. Folguera, D. A. Bastías, J. Caers, J. M. Rojas, M.-D. Piulachs, X. Bellés, F. Bozinovic
+2008, P. Foltan, M. Konvicka
+2013, P. P. Fong, N. Molnar
+1993, P. P. Fong, R. Noordhuis, J. L. Ram
+2007, M. S. Fonseca, M. A. R. Koehl, B. S. Kopp
+2009, A. A. Forbes, T. H. Q. Powell, L. L. Stelinski, J. J. Smith, J. L. Feder
+2004, S. E. Forde, D. F. Doak
+2004, S. E. Forde, P. T. Raimondi
+2006, J. A. Fordyce
+2011, J. A. Fordyce, Z. Gompert, M. L. Forister, C. C. Nice
+1995, A. Forsman
+1997, A. Forsman
+1999, A. Forsman
+2000, A. Forsman
+2011, A. Forsman
+2008, A. Forsman, V. Åberg
+2008, A. Forsman, J. Anhnesjö, S. Caesar, M. Karlsson
+1999, A. Forsman, S. Appelqvist
+2002, A. Forsman, K. Ringblom, E. Civantos, J. Ahnesjö
+1969, B. A. Foster
+1971, B. A. Foster
+1971, B. A. Foster
+1964, M. S. Foster
+1990, M. S. Foster
+1991, M. S. Foster
+1988, M. S. Foster, A. P. De Vogelaere, C. Harrold, J. S. Pearse, A. B. Thum
+2003, M. S. Foster, E. W. Nigg, L. M. Kiguchi, D. D. Hardin, J. S. Pearse
+1994, M. Fournier, H. Bailleres, B. Chanson
+2007, H. Fowler, S. Blenkinsop, C. Tebaldi
+2011, J. Fox, S. Weisberg
+2011, L. C. Foxcroft, S. T. A. Pickett, M. L. Cadenasso
+1961, G. Fraenkel
+1968, G. Fraenkel
+2011, C. J. Francisco, A. Almeida, A. M. Castro, S. Pina, F. Russell-Pinto, P. Rodrigues, M. J. Santos
+2010, C. J. Francisco, M. A. Hermida, M. J. Santos
+1965, P. W. Frank
+2011, S. U. Franssen, J. Gu, N. Bergmann, G. Winters, U. C. Klostermeier, P. Rosenstiel, E. Bornberg-Bauer, T. B. H. Reusch
+2010, C. Fraser, R. Coleman, J. Klein
+2015, C. M. L. Fraser, R. A. Coleman, F. Seebacher
+2007, K. P. P. Fraser, A. Clarke, L. S. Peck
+1996, R. H. Fraser, D. J. Currie
+1992, M. Frechette, A. E. Aitken, L. Page
+1989, M. Frechette, C. A. Butman, W. R. Geyer
+2009, M. Frederich, M. R. O'Rourke, N. B. Furey, J. A. Jost
+2007, A. Freeman
+2006, A. S. Freeman, J. E. Byers
+2007, A. S. Freeman, J. E. Byers
+2014, A. S. Freeman, E. Dernbach, C. Marcos, E. Koob
+2009, A. S. Freeman, C. E. Hamer
+2009, A. S. Freeman, J. Meszaros, J. E. Byers
+2007, T. L. Freidenburg, B. A. Menge, P. M. Halpin, M. Webster, A. Sutton-Grier
+1968, S. D. Fretwell, H. L. J. Lucas
+2002, P. Frich, L. V. Alexander, P. Della-Marta, B. Gleason, M. Haylock, A. M. G. Klein Tank, T. Peterson
+1988, C. L. J. Frid, R. James
+1995, M. T. Friedland, M. W. Denny
+1993, C. S. Friedman, W. Roberts, G. Kismohandaka, R. P. Hedrick
+2007, A. J. Frisch, J.-P. A. Hobbs
+2007, T. Fukami, H. J. E. Beaumont, X.-X. Zhang, P. B. Rainey
+2010, K. Fukaya, T. Okuda, M. Nakaoka, M. Hori, T. Noda
+2010, A. Fuller, T. Dawson, B. Helmuth, Robyn S. Hetem, D. Mitchell, Shane K. Maloney
+2005, C. J. Fulton, D. R. Bellwood
+2003, T. Furevik, M. Bentsen, H. Drange, I. K. T. Kindem, N. G. Kvamstø, A. Sorteberg
+2014, M. Fusi, F. Giomi, S. Babbini, D. Daffonchio, C. D. McQuaid, F. Porri, S. Cannicci
+1981, J. Gabriel
+1985, S. Gaines, S. Brown, J. Roughgarden
+1993, S. D. Gaines, M. W. Denny
+1982, S. D. Gaines, J. Lubchenco
+1990, S. D. Gaines, W. R. Rice
+1985, S. D. Gaines, J. Roughgarden
+2014, J. D. Gaitán-Espitia, L. D. Bacigalupe, T. Opitz, N. A. Lagos, T. Timmermann, M. A. Lardies
+1965, R. T. Galbraith
+2011, E. Galimany, M. Ramon, I. Ibarrola
+2010, J. Galindo, J. W. Grahame, R. K. Butlin
+2009, J. Galindo, M. MartÍNez-FernÁNdez, P. SuÁRez, P. MorÁN, F. S. Juan, E. RolÁN-Alvarez
+2009, J. Galindo, M. Martínez-Fernández, P. Suárez, P. Morán, F. San Juan, E. Rolán-Alvarez
+1985, B. W. M. Gallien
+1973, V. F. Gallucci
+2003, G. G. J. Gallup, R. L. Burch, M. L. Zappieri, R. A. Parvez, M. L. Stockwell, J. A. Davis
+2008, L. Gamfeldt, H. Hillebrand, P. R. Jonsson
+2014, L. Gamfeldt, J. S. Lefcheck, J. E. K. Byrnes, B. J. Cardinale, J. E. Duffy, J. N. Griffin
+2014, R. Gannon, M. D. Taylor, I. M. Suthers, C. A. Gray, D. E. van der Meulen, J. A. Smith, N. L. Payne
+2007, J. R. Garcia-March, L. Perez-Rojas, A. M. Garcia-Carrascosa
+2010, M. García-Reyes, J. Largier
+2012, M. García-Reyes, J. L. Largier
+2007, J. Gardeström, T. Elfwing, M. Löf, M. Tedengren, J. L. Davenport, J. Davenport
+1994, B. A. Gardiner, C. P. Quine
+2009, J. P. A. Gardner, R. J. Thompson
+2005, T. Garland Jr, A. F. Bennett, E. L. Rezende
+1984, S. D. Garrity
+1981, S. D. Garrity, S. C. Levings
+1983, S. D. Garrity, S. C. Levings
+1984, S. D. Garrity, S. C. Levings
+2010, C. Garza, C. Robles
+1999, C. L. Gass, M. T. Romich, R. K. Suarez
+2009, M. Gassmann, B. Grenacher, B. Rohde, J. Vogel
+2009, K. J. Gaston, S. L. Chown, P. Calosi, J. Bernardo, D. T. Bilton, A. Clarke, S. Clusella-Trullas, C. K. Ghalambor, M. Konarzewski, L. S. Peck, W. P. Porter, H. O. Pörtner, E. L. Rezende, P. M. Schulte, J. I. Spicer, J. H. Stillman, J. S. Terblanche, M. van Kleunen
+1980, D. M. Gates
+1999, R. D. Gates, P. J. Edmunds
+2002, S. Gates
+1996, A. C. Gatrell, T. C. Bailey, P. J. Diggle, B. S. Rowlingson
+1999, B. Gaylord
+2000, B. Gaylord
+2001, B. Gaylord
+2008, B. Gaylord
+1994, B. Gaylord, C. A. Blanchette, M. W. Denny
+1997, B. Gaylord, M. Denny
+2003, B. Gaylord, M. W. Denny, M. A. R. Koehl
+2000, B. Gaylord, S. D. Gaines
+2001, B. Gaylord, B. B. Hale, M. W. Denny
+2011, B. Gaylord, T. M. Hill, E. Sanford, E. A. Lenz, L. A. Jacobs, K. N. Sato, A. D. Russell, A. Hettinger
+2015, B. Gaylord, K. J. Kroeker, J. M. Sunday, K. M. Anderson, J. P. Barry, N. E. Brown, S. D. Connell, S. Dupont, K. E. Fabricius, J. M. Hall-Spencer, T. Klinger, M. Milazzo, P. L. Munday, B. D. Russell, E. Sanford, S. J. Schreiber, V. Thiyagarajan, M. L. H. Vaughan, S. Widdicombe, C. D. G. Harley
+2006, B. Gaylord, D. C. Reed, P. T. Raimondi, L. Washburn
+2002, B. Gaylord, D. C. Reed, P. T. Raimondi, L. Washburn, S. R. McLean
+2014, F. Gazeau, S. Alliouane, C. Bock, L. Bramanti, M. López Correa, M. Gentile, T. Hirse, H. O. Poertner, P. Ziveri
+2007, M. Gebauer, F. Beil, J. Beckmann, A. Sárváry, P. Ueblacker, A. Ruecker, J. Holste, N. Meenen
+2011, K. B. Gedan, J. Bernhardt, M. D. Bertness, H. M. Leslie
+2009, K. B. Gedan, C. M. Crain, M. D. Bertness
+1984, G. G. Geesey, G. V. Alexander, R. N. Bray, A. C. Miller
+1997, R. J. Geider, H. L. Macintyre, T. M. Kana
+2009, C. Geierman, R. Emlet
+2008, J. Geller, E. E. Sotka, R. Kado, S. R. Palumbi, E. Schwindt
+1991, J. B. Geller
+1994, J. B. Geller
+1999, J. B. Geller
+1994, J. B. Geller, J. T. Carlton, D. A. Powers
+2012, A. Gelman, J. Hill, M. Yajima
+1977, R. P. Gendron
+2009, A. Genin, S. G. Monismith, M. A. Reidenbach, G. Yahel, J. R. Koseff
+1989, B. Genty, J.-M. Briantais, N. R. Baker
+1984, V. A. Gerard
+2011, T. Gerrodette
+2015, I. Gestoso, F. Arenas, C. Olabarria
+2006, C. K. Ghalambor, R. B. Huey, P. R. Martin, J. J. Tewksbury, G. Wang
+1993, P. E. Gibbs
+1999, P. E. Gibbs, J. C. Green, P. L. Pascoe
+2014, B. Gilbert, T. D. Tunney, K. S. McCann, J. P. DeLong, D. A. Vasseur, V. Savage, J. B. Shurin, A. I. Dell, B. T. Barton, C. D. G. Harley, H. M. Kharouba, P. Kratina, J. L. Blanchard, C. Clements, M. Winder, H. S. Greig, M. I. O'Connor
+2007, C. Gilbert, S. Blanc, Y. Le Maho, A. Ancel
+2001, S. F. Gilbert
+1995, G. W. Gilchrist
+2007, M. R. Gilg, S. E. Kirby, R. Sullivan, L. W. Knapp, T. J. Hilbish
+2009, M. R. Gilg, M. O'Connor, R. Norris, T. J. Hilbish
+1982, R. B. Gillmor
+2004, S. E. Gilman
+2006, S. E. Gilman
+2006, S. E. Gilman
+2010, S. E. Gilman, M. C. Urban, J. Tewksbury, G. W. Gilchrist, R. D. Holt
+2006, S. E. Gilman, D. S. Wethey, B. S. T. Helmuth
+2009, D. Ginsburg, D. Manahan
+2012, D. Girard, S. Clemente, K. Toledo-Guedes, A. Brito, J. C. Hernández
+2001, A. Giraud, I. Matic, O. Tenaillon, A. Clara, M. Radman, M. Fons, F. Taddei
+2009, E. H. Girvetz, C. Zganjar, G. T. Raber, E. P. Maurer, P. Kareiva, J. J. Lawler
+2013, L. U. Gleason, R. S. Burton
+1995, M. W. Gleeson, A. E. Strong
+2015, A. C. Gleiss, J. Potvin, J. J. Keleher, J. M. Whitty, D. L. Morgan, J. A. Goldbogen
+2011, A. C. Gleiss, R. P. Wilson, E. L. C. Shepard
+1973, G. Gluesing
+1965, P. W. Glynn
+1991, P. W. Glynn
+1993, P. W. Glynn
+1992, P. W. Glynn, R. Imai, K. Sakai, Y. Nakano, K. Yamazato
+1988, P. W. C. Glynn, J; Guzman, H M; Richmond, R H
+2006, A. Gnanadesikan, K. W. Dixon, S. M. Griffies, V. Balaji, M. Barreiro, J. A. Beesley, W. F. Cooke, T. L. Delworth, R. Gerdes, M. J. Harrison, I. M. Held, W. J. Hurlin, H.-C. Lee, Z. Liang, G. Nong, R. C. Pacanowski, A. Rosati, J. Russell, B. L. Samuels, Q. Song, M. J. Spelman, R. J. Stouffer, C. O. Sweeney, G. Vecchi, M. Winton, A. T. Wittenberg, F. Zeng, R. Zhang, J. P. Dunne
+2001, D. J. Gochfeld, D. T. Minton
+1984, J.-G. J. Godin, M. H. A. Keenleyside
+2010, W. Godsoe
+2013, B. P. L. Goh, C. H. Lai
+1999, N. Goldenfeld, L. P. Kadanoff
+1961, R. F. Goldman, E. R. Buskirk
+2002, O. Gomez-Martinez, D. Aldana-Alvarada, P. Quintana, J. L. Pichardo, J. J. Alvarado-Gil
+2008, T. Gonçalves-Souza, P. M. Omena, J. C. Souza, G. Q. Romero
+2009, R. A. Gooding, C. D. G. Harley, E. Tang
+2000, C. Gordon, C. Cooper, C. A. Senior, H. Banks, J. M. Gregory, T. C. Johns, J. F. B. Mitchell, R. A. Wood
+1997, D. M. Gordon
+2002, H. B. Gordon, L. Rotstayn, J. McGregor, M. Dix, E. Kowalczyk, S. O’Farrell, L. Waterman, A. Hirst, S. Wilson, M. Collier
+2002, H. B. Gordon, L. D. Rotstayn, J. L. McGregor, M. R. Dix, E. A. Kowalczyk, S. P. O'Farrell, L. J. Waterman, A. C. Hirst, S. G. WIlson, M. A. Collier, I. G. Watterson, T. I. Elliot
+1964, T. F. Goreau
+1986, J. M. Gosline, M. E. DeMont, M. W. Denny
+1984, J. M. Gosline, M. W. Denny, M. E. DeMont
+1999, J. M. Gosline, P. A. Guerette, C. S. Ortlepp, K. N. Savage
+1993, J. M. Gosline, C. C. Pollak, P. A. Guerette, A. Cheng, M. E. DeMont, M. W. Denny
+2012, J. Gosnell, S. Gaines
+2012, S. J. Gosnell, J. DiPrima, S. Gaines
+1994, L. A. Gosselin, F.-S. Chia
+1996, L. A. Gosselin, F.-S. Chia
+2007, L. A. Gosselin, R. Rehak
+2010, N. J. Gotelli, G. R. Graves, C. Rahbek
+2014, T. C. Gouhier, F. Guichard
+2010, T. C. Gouhier, F. Guichard, B. A. Menge
+2001, M. C. Gould, J. L. Stephano, B. de Jesus Ortiz-Barron, I. Perez-Quezada
+1979, S. J. Gould, R. C. Lewontin
+2010, E. Gourgou, I.-K. Aggeli, I. Beis, C. Gaitanaki
+1926, J. N. Gowanloch
+1926, J. N. Gowanloch, F. R. Hayes
+2004, T. Gowen, P. Karantonis, T. Rofail
+2011, B. J. Graae, P. De Frenne, A. Kolb, J. Brunet, O. Chabrerie, K. Verheyen, N. Pepin, T. Heinken, M. Zobel, A. Shevtsova, I. Nijs, A. Milbau
+2010, J. B. Grace, T. M. Anderson, H. Olff, S. M. Scheiner
+2008, A. Y. Gracey, M. L. Chaney, J. P. Boomhower, W. R. Tyburczy, K. Connor, G. N. Somero
+2002, M. H. Graham, P. K. Dayton
+2003, M. H. Graham, P. K. Dayton, J. M. Erlandson
+2001, M. H. Graham, M. S. Edwards
+2007, M. H. Graham, B. P. Kinlan, L. D. Druehl, L. E. Garske, S. Banks
+1969, J. N. R. Grainger
+1992, B. W. Grant, W. P. Porter
+1993, G. S. Grant, D. Ferrell
+1996, G. S. Grant, H. Malpass, J. Beasley
+2012, E. W. Grason, B. G. Miner
+2004, D. R. Gray, A. N. Hodgson
+1977, L. Greenspan
+1961, C. Grégoire
+2014, P. E. Gribben, J. T. Wright
+2008, J. N. Griffin, K. L. de la Haye, S. J. Hawkins, R. C. Thompson, S. R. Jenkins
+2009, J. N. Griffin, S. R. Jenkins, L. Gamfeldt, D. Jones, S. J. Hawkins, R. C. Thompson
+1981, R. J. Griffiths
+1981, R. J. Griffiths
+1981, R. J. Griffiths, R. Buffenstein
+2005, G. Griggs, K. Patsch, L. Savoy
+1997, G. B. Griggs, A. S. Trenhaile
+2008, T. Grim
+2010, E. Grman, J. A. Lau, D. R. Schoolmaster, K. L. Gross
+1995, S. P. R. Group
+2012, N. Gruber, C. Hauri, Z. Lachkar, D. Loher, T. L. Frölicher, G.-K. Plattner
+2009, A. D. Guerry, B. A. Menge, R. A. Dunmore
+2008, M. A. Guest, P. D. Nichols, S. D. Frusher, A. J. Hirst
+2003, F. Guichard, P. M. Halpin, G. W. Allison, J. Lubchenco, B. A. Menge
+2007, P. Guidetti
+2004, P. Guidetti, C. N. Bianchi, M. Chiantore, S. Schiaparelli, C. Morri, R. Cattaneo-Vietti
+2005, A. Guisan, W. Thuiller
+2000, A. Guisan, N. E. Zimmermann
+1973, S. R. Gunn
+1957, G. Gunter
+2001, J. Gurevitch, P. S. Curtis, M. H. Jones
+1999, J. Gurevitch, L. V. Hedges
+2001, J. Gurevitch, L. V. Hedges
+2015, J. L. Gutierrez, M. G. Palomo, M. Bagur, L. P. Arribas, S. A. Soria
+1995, P. L. Haaker, D. O. Parker, C. S. Y. Chun
+2002, N. M. Haddad, D. Tilman, J. M. H. Knops
+2010, J. D. Hadfield
+1998, E. A. Hadly, M. H. Kohn, J. A. Leonard, R. K. Wayne
+2009, E. A. Hadly, P. A. Spaeth, C. Li
+1989, T. Hahn, M. Denny
+1960, N. G. Hairston, F. E. Smith, L. B. Slobodkin
+2001, J. Halaj, D. H. Wise
+1990, S. J. Hall, D. Raffaelli, T. W. R.
+1990, S. J. Hall, D. G. Raffaelli, M. R. Robertson, D. J. Basford
+1996, J. M. Halley
+1963, E. C. Halliday, T. J. Hugo
+2006, B. S. Halpern, K. Cottenie, B. R. Broitman
+2008, B. S. Halpern, S. Walbridge, K. A. Selkoe, C. V. Kappel, F. Micheli, C. D'Agrosa, J. F. Bruno, K. S. Casey, C. Ebert, H. E. Fox, R. Fujita, D. Heinemann, H. S. Lenihan, E. M. P. Madin, M. T. Perry, E. R. Selig, M. Spalding, R. Steneck, R. Watson
+2002, P. M. Halpin, C. J. Sorte, G. E. Hofmann, B. A. Menge
+2005, C. Hambler, P. A. Henderson, M. R. Speight
+2003, A. M. Hamdoun, D. P. Cheney, G. N. Cherr
+1978, P. V. Hamilton
+1983, P. V. Hamilton, S. C. Ardizzoni, J. S. Penn
+1982, P. V. Hamilton, M. A. Winter
+1997, K. A. Hammond, J. Diamond
+2004, W. Hammond, C. Griffiths
+2013, G.-d. Han, S. Zhang, D. J. Marshall, C.-h. Ke, Y.-w. Dong
+2013, C. A. Handelsman, E. D. Broder, C. M. Dalton, E. W. Ruell, C. A. Myrick, D. N. Reznick, C. K. Ghalambor
+2008, N. Hanekom
+2006, J. Hansen, M. Sato, R. Ruedy, K. Lo, D. W. Lea, M. Medina-Elizade
+2004, D. R. Harden
+2006, D. L. Harder, C. L. Hurd, T. Speck
+1991, I. Hardewig, A. D. F. Addink, M. K. Grieshaber, H. O. Pӧrtner, G. Van Den Thillart
+1968, D. D. Hardin
+2015, A. P. C. Harding, R. E. Scheibling
+1992, J. T. H. F. E. Y. J. K. D. R. E. Hardy
+2000, S. R. Hare, N. J. Mantua
+1972, J. R. Harger
+1972, J. R. Harger
+1968, J. R. E. Harger
+1970, J. R. E. Harger
+1970, J. R. E. Harger
+1970, J. R. E. Harger
+1972, J. R. E. Harger
+1971, J. R. E. Harger, D. E. Landenberger
+1972, J. R. E. Harger, D. Straughan
+2003, C. D. G. Harley
+2008, C. D. G. Harley
+2011, C. D. G. Harley
+2013, C. D. G. Harley
+2009, C. D. G. Harley, M. W. Denny, K. J. Mach, L. P. Miller
+2003, C. D. G. Harley, B. S. T. Helmuth
+2006, C. D. G. Harley, A. R. Hughes, K. M. Hultgren, C. M. Miner, C. J. Sorte, C. S. Thornber, L. F. Rodriguez, L. Tomanek, S. L. Williams
+2003, C. D. G. Harley, J. P. Lopez
+2009, C. D. G. Harley, R. T. Paine
+2013, C. G. Harley, K. Anderson, C. M. Lebreton, A. MacKay, M. Ayala-Díaz, S. Chong, L. Pond, J. Amerongen Maddison, B. C. Hung, S. Iversen, D. M. Wong
+2009, J. P. Harmon, N. A. Moran, A. R. Ives
+2001, K. D. Harper, G. A. Williams
+2010, M. J. Harrington, A. Masic, N. Holten-Andersen, J. H. Waite, P. Fratzl
+2007, M. J. Harrington, J. H. Waite
+1985, V. J. Harriott
+1995, D. J. Harris, J. S. Jones
+2011, F. Harrison
+2009, M. W. Hart, R. K. Grosberg
+2013, S. P. Hart, D. J. Marshall
+1998, P. Hartig, K. Wolfstein, S. Lippemeier, F. Colijn
+1981, B. Hartwick
+2003, A. Hastings
+1994, A. Hastings, K. Higgins
+1997, K. Hatanaka, S. Hotta
+1938, H. Hatton
+2014, J. Havel, L. Bruckerhoff, M. Funkhouser, A. Gemberling
+1970, S. B. Haven
+1973, S. B. Haven
+1996, A. J. S. Hawkins
+2012, B. A. Hawkins
+1983, S. J. Hawkins, R. G. Hartnoll
+2009, S. J. Hawkins, H. E. Sugden, N. Mieszkowska, P. J. Moore, E. Poloczanska, R. Leaper, R. J. H. Herbert, M. J. Genner, P. S. Moschella, R. C. Thompson, S. R. Jenkins, A. J. Southward, M. T. Burrows
+1989, S. J. Hawkins, D. C. Watson, A. S. Hill, S. P. Harding, M. A. Kyriakides, S. Hutchinson, T. A. Norton
+2011, D. Hawlena, H. Kress, E. R. Dufresne, O. J. Schmitz
+2010, T. B. Hayes, V. Khoury, A. Narayan, M. Nazir, A. Park, T. Brown, L. Adame, E. Chan, D. Buchholz, T. Stueve, S. Gallipeau
+2015, H. A. Hayford, S. E. Gilman, E. Carrington
+2013, K. J. R. Hayne, A. R. Palmer
+2003, G. C. Hays
+2005, G. C. Hays, A. J. Richardson, C. Robinson
+1990, A. M. Hayworth, J. F. Quinn
+2014, Q. He, M. D. Bertness
+1975, D. J. Heath
+1970, J. E. Heath
+2011, R. F. Hechinger, A. C. Wood, A. M. Kuris
+2007, A. Hector, R. Bagchi
+1999, L. V. Hedges, J. Gurevitch, P. S. Curtis
+1985, L. V. Hedges, I. Olkin
+2008, T. L. Hedrick
+2007, M. Heil, J. C. S. Bueno
+2012, A. M. Hein, K. J. Keirsted
+1988, G. M. Heisler, D. R. Dewalle
+2009, M. R. Heithaus, A. J. Wirsing, D. Burkholder, J. Thomson, L. M. Dill
+1971, H. C. Heller, D. M. Gates
+1981, J. Heller
+1984, J. Heller
+1999, B. Helmuth
+2002, B. Helmuth
+2009, B. Helmuth
+2006, B. Helmuth, B. R. Broitman, C. A. Blanchette, S. E. Gilman, P. M. Halpin, C. D. G. Harley, M. J. O'Donnell, G. E. Hofmann, B. A. Menge, D. Strickland
+2010, B. Helmuth, B. R. Broitman, L. Yamane, S. E. Gilman, K. Mach, K. A. S. Mislan, M. W. Denny
+2003, B. Helmuth, M. W. Denny
+2002, B. Helmuth, C. D. G. Harley, P. M. Halpin, M. O'Donnell, G. E. Hofmann, C. A. Blanchette
+2005, B. Helmuth, J. G. Kingsolver, E. Carrington
+2006, B. Helmuth, N. Mieszkowska, P. Moore, S. J. Hawkins
+2014, B. Helmuth, B. D. Russell, S. D. Connell, Y. Dong, C. D. G. Harley, F. P. Lima, G. Sarà, G. Williams, N. Mieszkowska
+2011, B. Helmuth, L. Yamane, S. Lalwani, A. Matzelle, A. Tockstein, N. Gao
+1998, B. S. T. Helmuth
+2001, B. S. T. Helmuth, G. E. Hofmann
+1993, B. S. T. Helmuth, K. P. Sebens
+2009, S. K. Henkel, H. Kawai, G. E. Hofmann
+1992, W. J. Henley, S. T. Lindley, G. Levavasseur, C. B. Osmond, J. Ramus
+2010, E. Hennebert, D. Haesaerts, P. Dubois, P. Flammang
+2014, E. Hennebert, R. Wattiez, M. Demeuldre, P. Ladurner, D. S. Hwang, J. H. Waite, P. Flammang
+1975, K. Henwood
+2010, E. Herberich, J. Sikorski, T. Hothorn
+2009, A. Herrel, J. Podos, B. Vanhooydonck, A. P. Hendry
+1993, P. E. Hertz, R. B. Huey, R. Stevenson
+1935, W. G. Hewatt
+1937, W. G. Hewatt
+2014, I. Hewson, J. B. Button, B. M. Gudenkauf, B. Miner, A. L. Newton, J. K. Gaydos, J. Wynne, C. L. Groves, G. Hendler, M. Murray, S. Fradkin, M. Breitbart, E. Fahsbender, K. D. Lafferty, A. M. Kilpatrick, C. M. Miner, P. Raimondi, L. Lahner, C. S. Friedman, S. Daniels, M. Haulena, J. Marliave, C. A. Burge, M. E. Eisenlord, C. D. Harvell
+2006, S. D. Hicks
+2008, F. J. Hidalgo, F. N. Firstater, E. Fanjul, M. C. Bazterrica, B. J. Lomovasky, J. Tarazona, O. O. Iribarne
+2002, J. G. Hiddink, R. ter Hofstede, W. J. Wolff
+2005, R. J. Hijmans, S. E. Cameron, J. L. Parra, P. G. Jones, A. Jarvis
+2010, T. J. Hilbish, P. M. Brannock, K. R. Jones, A. B. Smith, B. N. Bullock, D. S. Wethey
+2012, T. J. Hilbish, F. P. Lima, P. M. Brannock, E. K. Fly, R. L. Rognstad, D. S. Wethey
+2009, H. Hillebrand, L. Gamfeldt, P. R. Jonsson, B. Matthiessen
+2001, J. S. Hindell, G. P. Jenkins, M. J. Keough
+1974, R. Hinegardner
+2003, M. R. Hipsey, M. Sivapalan
+2014, A. G. Hirst, D. S. Glazier, D. Atkinson
+1995, T. Hiura
+1977, K. E. Hoagland
+1995, A. Hobday
+2011, A. J. Hobday
+2008, J. M. Hoch
+2009, J. M. Hoch
+2010, J. M. Hoch
+1984, P. W. Hochachka, G. N. Somero
+2002, P. W. Hochachka, G. N. Somero
+1992, P. A. R. Hockey, C. van Erkom Schurink
+2010, O. Hoegh-Guldberg, J. F. Bruno
+2007, O. Hoegh-Guldberg, P. J. Mumby, A. J. Hooten, R. S. Steneck, P. Greenfield, E. Gomez, C. D. Harvell, P. F. Sale, A. J. Edwards, K. Caldeira, N. Knowlton, C. M. Eakin, R. Iglesias-Prieto, N. Muthiga, R. H. Bradbury, A. Dubi, M. E. Hatziolos
+2010, D. Hoekman
+2010, J. I. Hoffman, L. S. Peck, G. Hillyard, A. Zieritz, M. S. Clark
+2005, G. E. Hofmann
+2002, G. E. Hofmann, B. A. Buckley, S. P. Place, M. L. Zippay
+2005, G. E. Hofmann, J. L. Burnaford, K. T. Fielman
+1995, G. E. Hofmann, G. N. Somero
+1996, G. E. Hofmann, G. N. Somero
+2000, P. A. Hohenlohe
+2003, P. A. Hohenlohe
+2001, P. A. Hohenlohe, E. G. Boulding
+1991, M. N. Holbrook, M. W. Denny, M. A. R. Koehl
+2004, S. J. Holbrook, R. J. Schmitt
+1959, C. S. Holling
+1959, C. S. Holling
+1965, C. S. Holling
+2008, G. Holmes
+2002, S. P. Holmes
+2005, S. P. Holmes
+1997, I. J. Holopainen, J. Aho, M. Vornanen, H. Huuskonen
+1995, G. Holst, M. Kuehl, I. Klimant
+2009, R. D. Holt
+2008, R. Holzman, S. W. Day, R. S. Mehta, P. C. Wainwright
+2002, C. Honeywill, D. Paterson, S. Hagerthey
+2003, P. J. C. Honkoop, B. L. Bayne, A. J. Underwood, S. Svensson
+1993, F. Hontoria, J. H. Crowe, L. M. Crowe, F. Amat
+2008, M. O. Hoogenboom, S. R. Connolly, K. R. N. Anthony
+2014, A. P. Hooks, D. K. Padilla
+2005, D. U. Hooper, F. S. Chapin, J. J. Ewel, A. Hector, P. Inchausti, S. Lavorel, J. H. Lawton, D. M. Lodge, M. Loreau, S. Naeem, B. Schmid, H. Setälä, A. J. Symstad, J. Vandermeer, D. A. Wardle
+1998, D. U. Hooper, P. M. Vitousek
+2014, M. B. Hooten, N. T. Hobbs
+2010, P. Hõrak, A. Cohen
+2007, M. Hoso, T. Asami, M. Hori
+2008, M. Hoso, M. Hori
+1979, D. F. Houlihan
+1981, D. F. Houlihan, A. J. Innes, D. G. Dey
+2009, J. T. Hoverman, R. A. Relyea
+1998, R. S. Howard, C. M. Lively
+2002, R. S. Howard, C. M. Lively
+2005, C.-h. Hsieh, S. M. Glaser, A. J. Lucas, G. Sugihara
+2001, S. Hu, F. S. Chapin, M. K. Firestone, C. B. Field, N. R. Chiariello
+2011, D. Huang, R. A. Haack, R. Zhang
+2009, S. Huang, P. Fu
+2001, S. P. Hubbell
+1991, R. B. Huey
+2001, R. B. Huey, D. Berrigan
+1989, R. B. Huey, J. G. Kingsolver
+1989, R. B. Huey, C. R. Peterson, S. J. Arnold, W. P. Porter
+1979, R. B. Huey, R. D. Stevenson
+2009, R. B. Huey, J. J. Tewksbury
+2002, A. Hugall, C. Moritz, A. Moussalli, J. Stanisic
+2007, A. R. Hughes, J. E. Byrnes, D. L. Kimbro, J. J. Stachowicz
+1985, J. M. Hughes, M. P. Jones
+1986, J. M. Hughes, P. B. Mather
+1972, R. N. Hughes
+1980, R. N. Hughes
+1988, R. N. Hughes
+1995, R. N. Hughes
+1991, R. N. Hughes, M. T. Burrows
+1985, R. N. Hughes, D. Drewett
+1984, R. N. Hughes, S. D. Dunkin
+1984, R. N. Hughes, S. d. B. Dunkin
+1988, R. N. Hughes, C. L. Griffiths
+1997, R. N. Hughes, M. J. Taylor
+1980, L. W. Hulberg, J. S. Oliver
+2007, A. J. Hulbert, R. Pamplona, R. Buffenstein, W. A. Buttemer
+2009, K. M. Hultgren, J. J. Stachowicz
+2009, S. Humphries
+2013, S. Humphries
+1993, S. S. O. Hung, F. S. Conte, E. F. Hallen
+2011, M. E. Hunsicker, L. Ciannelli, K. M. Bailey, J. A. Buckel, J. Wilson White, J. S. Link, T. E. Essington, S. Gaichas, T. W. Anderson, R. D. Brodeur, K.-S. Chan, K. Chen, G. Englund, K. T. Frank, V. Freitas, M. A. Hixon, T. Hurst, D. W. Johnson, J. F. Kitchell, D. Reese, G. A. Rose, H. Sjodin, W. J. Sydeman, H. W. van der Veer, K. Vollset, S. Zador
+1995, H. L. Hunt, R. E. Scheibling
+1996, H. L. Hunt, R. E. Scheibling
+1998, H. L. Hunt, R. E. Scheibling
+2002, H. L. Hunt, R. E. Scheibling
+2008, L. J. H. Hunt, M. W. Denny
+1992, M. D. Hunter, P. W. Price
+1998, A. Huppert, L. Stone
+2009, A. Hurford
+2007, A. H. Hurlbert, W. Jetz
+1984, S. H. Hurlbert
+1997, A. D. Huryn, M. W. Denny
+1951, G. E. Hutchinson
+1957, G. E. Hutchinson
+1971, G. E. Hutchinson
+2007, N. Hutchinson, M. S. Davies, J. S. S. Ng, G. A. Williams
+2006, N. Hutchinson, S. Nagarkar, J. C. Aitchison, G. A. Williams
+2003, N. Hutchinson, G. A. Williams
+2000, J. L. Hutton, P. R. Williamson
+1998, G. R. Huxel, A. Hastings
+1987, J. Hylleberg, H. R. Siegismund
+2012, J. C. Iacarella, B. Helmuth
+2014, I. Ibáñez, J. M. Diez, L. P. Miller, J. D. Olden, C. J. B. Sorte, D. M. Blumenthal, B. A. Bradley, C. M. D'Antonio, J. S. Dukes, R. I. Early, E. D. Grosholz, J. J. Lawler
+2010, F. Iftikar, J. MacDonald, A. J. R. Hickey
+2014, A. C. Iles
+2002, F. P. Incropera, D. P. DeWitt
+1984, A. J. Innes
+2003, J. Inness-Campbell, M. Stuckey, M. S. Johnson
+2009, S. Ioannou, A. Anestis, H. O. Poertner, B. Michaelidis
+2009, S. Ioannou, A. Anestis, H. O. Pörtner, B. Michaelidis
+2007, IPCC
+2013, IPCC
+2000, IPCC Working Group III
+2008, T. Irie, N. Morimoto
+1995, X. Irigoien, J. Castel
+2009, U. M. Irlich, J. S. Terblanche, T. M. Blackburn, S. L. Chown
+2006, A. D. Irving, S. D. Connell
+2004, S. Ishida
+2003, T. C. IUPS
+1993, K. Iwasaki
+1951, K. Iwata
+1951, K. Iwata
+1951, K. Iwata
+1951, K. Iwata
+2008, U. Izagirre, R. R. Ramos, I. Marigómez
+2005, R. Izem, J. G. Kingsolver
+2000, D. Jablonski
+2003, D. Jablonski, K. Roy, J. W. Valentine, R. M. Price, P. S. Anderson
+2010, A. C. Jackson
+2001, J. B. C. Jackson
+2008, J. B. C. Jackson
+2001, J. B. C. Jackson, M. X. Kirby, W. H. Berger, K. A. Bjorndal, L. W. Botsford, B. J. Bourque, R. H. Bradbury, R. Cooke, J. Erlandson, J. A. Estes, T. P. Hughes, S. Kidwell, C. B. Lange, H. S. Lenihan, J. M. Pandolfi, C. H. Peterson, R. S. Steneck, M. J. Tegner, R. R. Warner
+1989, J. C. Jackson, John D.; Keller BD; Batista V; Burns K; Caffey HM; Caldwell RL; Garrity SD; Getter CD; Gonzales C; Guzman HM; Kaufmann KW; Knap AH; Levings SC; Marshall MJ; Steger R; Thompson RC; Weil E
+2001, M. C. James, T. B. Herman
+2010, C. Janion, H. P. Leinaas, J. S. Terblanche, S. L. Chown
+2009, C. Janousek
+2009, J. M. Jansen, H. Hummel, S. W. Bonga
+2007, J. M. Jansen, A. E. Pronker, S. W. Bonga, H. Hummel
+1982, K. Janson
+1983, K. Janson
+1967, D. H. Janzen
+2010, D. F. Jarosz, S. Lindquist
+1976, A. D. Jassby, T. Platt
+2013, B. T. Jenewein, L. A. Gosselin
+2001, S. Jenkins, F. Arenas, J. Arrontes, J. Bussell, J. Castro, R. Coleman, S. Hawkins, S. Kay, B. Martinez, J. Oliveros
+2005, S. R. Jenkins
+2005, S. R. Jenkins, R. A. Coleman, P. Della Santina, S. J. Hawkins, M. T. Burrows, R. G. Hartnoll
+2001, S. R. Jenkins, R. G. Hartnoll
+2008, S. R. Jenkins, J. Murua, M. T. Burrows
+2014, K. Jeno, K. Brokordt
+2007, A. Jentsch, J. Kreyling, C. Beierkuhnlein
+1968, W. F. Jessee
+2005, B. Jesus, V. Brotas, M. Marani, D. M. Paterson
+2004, W. Jetz, C. Carbone, J. Fulford, J. H. Brown
+2006, F. Jiguet, R. Julliard, C. D. Thomas, O. Dehorter, S. E. Newson, D. Couvet
+1968, A. Jobe
+1986, B. Johannesson
+1989, K. Johannesson
+2003, K. Johannesson
+2002, K. Johannesson, A. Ekendahl
+2008, K. Johannesson, J. N. Havenhand, P. R. Jonsson, M. Lindegarth, A. Sundin, J. Hollander
+1993, K. Johannesson, B. Johannesson, E. Rolán-Alvarez
+2009, F. Johansson, J. Andersson
+2008, K. D. Jöhnk, J. E. F. Huisman, J. Sharples, B. E. N. Sommeijer, P. M. Visser, J. M. Stroom
+1999, S. Johnsen, E. A. Widder
+2008, D. Johnson
+2006, D. W. Johnson
+2006, D. W. Johnson
+2004, J. B. Johnson, K. S. Omland
+1992, L. E. Johnson
+1998, L. E. Johnson, S. H. Brawley
+2012, L. R. Johnson, L. Pecquerie, R. M. Nisbet
+2008, M. P. Johnson, M. E. Hanley, N. J. Frost, M. W. J. Mosley, S. J. Hawkins
+2003, M. P. Johnson, P. L. Tyack
+2008, M. S. Johnson, R. Black
+2015, P. C. D. Johnson, S. J. E. Barry, H. M. Ferguson, P. Müller
+1962, P. T. Johnson, W. D. Billings
+1968, S. E. Johnson
+1975, S. E. Johnson
+1976, S. E. I. Johnson
+2010, J. A. Johnstone, T. E. Dawson
+1980, P. L. Jokiel
+1993, P. L. Jokiel, J. I. Morrissey
+1997, P. L. Jokiel, L. M. P, M. E. Ondrusek
+2008, B. F. Jones, S. Wuchty, B. Uzzi
+2010, C. G. Jones, J. L. Gutiérrez, J. E. Byers, J. A. Crooks, J. G. Lambrinos, T. S. Talley
+1997, C. G. Jones, J. H. Lawton, M. Shachak
+2010, E. I. Jones
+1973, J. S. Jones
+1982, J. S. Jones
+1977, J. S. Jones, B. H. Leith, P. Rawlings
+1999, K. M. M. Jones, E. G. Boulding
+1948, N. S. Jones
+2008, P. L. Jones, M. J. Shulman
+1997, R. J. Jones, R. Berkelmans, J. K. Oliver
+2010, S. J. Jones, F. P. Lima, D. S. Wethey
+2009, S. J. Jones, N. Mieszkowska, D. S. Wethey
+1968, W. E. Jones, A. Demetropoulos
+2006, P. R. Jonsson, L. Granhag, P. S. Moschella, P. Aberg, S. J. Hawkins, R. C. Thompson
+1988, K. T. Jordan
+2009, V. Jormalainen, T. Ramsay
+2007, J. Jost, B. Helmuth
+1996, M. J. Judd, M. R. Raupach, J. J. Finnigan
+2011, M. Judge, M. Botton, M. Hamilton
+1988, M. L. Judge
+2009, M. L. Judge, R. Duell, L. Burriesci, W. Moarsi
+2006, J. Jungclaus, N. Keenlyside, M. Botzet, H. Haak, J. J. Luo, M. Latif, J. Marotzke, U. Mikolajewicz, E. Roeckner
+2004, K-1 Model Developers
+1999, J. A. Kaandorp
+2003, R. Kado
+1999, S. Kaehler, C. D. McQuaid
+2001, M. Kahru, B. G. Mitchell
+2007, A. Kaiser, C. J. Klok, J. J. Socha, W.-K. Lee, M. C. Quinlan, J. F. Harrison
+2011, M. Kamakura
+2008, N. A. Kamenos, S. C. Strong, D. M. Shenoy, S. T. Wilson, A. D. Hatton, P. G. Moore
+2003, N. Karouna-Renier, J. P. Zehr
+2013, P. Kasten, A. Flores
+2009, K. Katija, J. O. Dabiri
+1992, R. Katz, B. Brown
+2005, R. W. Katz, G. S. Brush, M. B. Parlange
+2009, M. T. Kavanaugh, K. J. Nielsen, F. T. Chan, B. A. Menge, R. M. Letelier, L. M. Goodrich
+2014, Y. Kawabata, T. Noda, Y. Nakashima, A. Nanami, T. Sato, T. Takebe, H. Mitamura, N. Arai, T. Yamaguchi, K. Soyano
+2002, M. Kay
+1997, H. Kayaba, K. Kodama, K. Shirayama, M. Kodama
+2002, M. Kearney
+2006, M. Kearney
+2008, M. Kearney, B. L. Phillips, C. R. Tracy, K. A. Christian, G. Betts, W. P. Porter
+2009, M. Kearney, W. Porter
+2004, M. Kearney, W. P. Porter
+2009, M. Kearney, R. Shine, W. P. Porter
+2010, M. Kearney, S. J. Simpson, D. Raubenheimer, B. Helmuth
+2013, M. R. Kearney
+2012, M. R. Kearney, A. Matzelle, B. Helmuth
+2014, M. R. Kearney, A. Shamakhy, R. Tingley, D. J. Karoly, A. A. Hoffmann, P. R. Briggs, W. P. Porter
+2012, M. R. Kearney, S. J. Simpson, D. Raubenheimer, S. A. L. M. Kooijman
+2013, M. R. Kearney, S. J. Simpson, D. Raubenheimer, S. A. L. M. Kooijman
+2002, C. K. Kelly, M. G. Bowler
+2013, M. W. Kelly, R. K. Grosberg, E. Sanford
+2010, M. W. Kelly, E. Sanford
+2011, M. W. Kelly, E. Sanford, R. K. Grosberg
+2010, R. P. Kelly, S. R. Palumbi
+1994, S. W. Kelsch
+1984, P. Kemp, M. D. Bertness
+2000, C. W. Kennedy, J. F. Bruno
+1976, V. Kennedy
+1983, S. J. Kennelly
+1991, S. J. Kennelly
+1967, C. B. Kensler
+1981, B. W. Kent
+2004, D. Keuskamp
+2003, J. Kido, S. Murray
+2011, T. Kijewski, B. Smietanka, M. Zbawicka, E. Gosling, H. Hummel, R. Wenne
+2009, T. Kijewski, J. W. M. Wijsman, H. Hummel, R. Wenne
+2001, K. A. Kilpatrick, G. P. Podestá, R. Evans
+2001, H. B. Kim, S. J. Lee
+2008, J. K. Kim, G. P. Kraemer, C. Yarish
+1990, D. A. King
+2001, G. Kingsolver, H. E. Hoekstra, J. M. Hoekstra, D. Berrigan, S. N. Vignieri, C. E. Hill, A. Hoang, B. P. Gilbert
+1996, J. G. Kingsolver
+2009, J. G. Kingsolver
+1998, J. G. Kingsolver, R. B. Huey
+2008, J. G. Kingsolver, R. B. Huey
+1968, R. S. Kingston
+2003, B. P. Kinlan, S. D. Gaines
+2005, B. P. Kinlan, S. D. Gaines, S. E. Lester
+2014, T. Kiørboe, A. G. Hirst
+1999, T. Kiorboe, A. W. Visser
+2003, E. Kisdi, S. A. H. Geritz
+2007, O. Kishida, G. C. Trussell, K. Nishimura
+2009, O. Kishida, G. C. Trussell, K. Nishimura, T. Ohgushi
+1986, J. A. Kitching
+1974, J. A. Kitching, J. Lockwood
+1966, J. A. Kitching, L. Muntz, F. J. Ebling
+1959, J. A. Kitching, J. F. Sloane, F. J. Ebling
+1979, C. L. Kitting
+2005, C. Kittner, H. U. Riisgård
+2005, J. A. Kitzes, M. W. Denny
+1964, P. J. Klabunde
+1990, W. Klepal
+1989, G. S. Kleppel, R. E. Dodge, C. J. Reese
+1999, J. A. Kleypas, R. W. Buddemeier, D. Archer, J.-P. Gattuso, C. Langdon, B. N. Opdyke
+2006, J. A. Kleypas, R. A. Feely, V. J. Fabry, C. Langdon, C. L. Sabine, L. L. Robbins
+1997, I. Klimant, M. Kühl, R. Glud, G. Holst
+2002, A. K. Knapp, P. A. Fay, J. M. Blair, S. L. Collins, M. D. Smith, J. D. Carlisle, C. W. Harper, B. T. Danner, M. S. Lett, J. K. McCarron
+2010, Jennifer L. Knies, Joel G. Kingsolver
+2009, J. L. Knies, J. G. Kingsolver, C. L. Burch
+1953, E. W. Knight-Jones
+1999, A. H. Knoll, S. B. Carroll
+2010, R. Knutti, G. Abramowitz, M. Collins, V. Eyring, P. J. Gleckler, B. Hewitson, L. O. Mearns
+2010, R. Knutti, R. Furrer, C. Tebaldi, J. Cermak, G. A. Meehl
+1977, M. A. R. Koehl
+1977, M. A. R. Koehl
+1977, M. A. R. Koehl
+1984, M. A. R. Koehl
+1999, M. A. R. Koehl
+1988, M. A. R. Koehl, R. S. Alberte
+2013, M. A. R. Koehl, J. P. Crimaldi, D. E. Dombroski
+2007, M. R. A. Koehl
+2009, P. Koeller, C. Fuentes-Yaco, T. Platt, S. Sathyendranath, A. Richards, P. Ouellet, D. Orr, U. Skúladóttir, K. Wieland, L. Savard, M. Aschan
+1993, A. J. Kohn
+1976, A. J. Kohn, P. J. Leviten
+2010, B. Konar, K. Iken, J. J. Cruz-Motta, L. Benedetti-Cecchi, A. Knowlton, G. Pohle, P. Miloslavich, M. Edwards, T. Trott, E. Kimani, R. Riosmena-Rodriguez, M. Wong, S. Jenkins, A. Silva, I. S. Pinto, Y. Shirayama
+2008, S. A. L. M. Kooijman, T. Sousa, L. Pecquerie, J. Van Der Meer, T. Jager
+1968, J. R. Koplin, R. S. Hoffmann
+1979, J. C. Kopp
+1964, E. Kops
+2011, R. L. Kordas, C. D. G. Harley, M. I. O'Connor
+1984, J. R. Koseff, R. L. Street
+2009, V. Kostál, M. Tollarová-Borovanská
+1988, J. J. Kottra
+2010, R. Kovach, D. Tallmon
+1994, C. J. Kowalski, E. D. Schneiderman, S. M. Willis
+2004, J. Kozlowski, M. Konarzewski
+2012, P. Kratina, H. S. Greig, P. L. Thompson, T. S. A. Carvalho-Pereira, J. B. Shurin
+1986, J. R. Krebs, P. H. Harvey
+2011, C. Krenz, B. A. Menge, T. L. Freidenburg, J. Lubchenco, F. Chan, M. M. Foley, K. J. Nielsen
+2014, K. J. Kroeker, B. Gaylord, T. M. Hill, J. D. Hosfelt, S. H. Miller, E. Sanford
+1998, J. C. Kromkamp, C. Barranguet, J. Peene
+1990, I. Kronberg
+2009, A. Z. Krug, D. Jablonski, J. W. Valentine
+1999, J. Kruger, D. Dunning
+2005, L. M. Kueppers, M. A. Snyder, L. C. Sloan, E. S. Zavaleta, B. Fulfrost
+2004, B. L. Kuguru, Y. D. Mgaya, M. C. Ohman, G. M. Wagner
+1986, C. Kunz, V. M. Connor
+2006, E. Kunze, J. F. Dower, I. Beveridge, R. Dewey, K. P. Bartlett
+2009, E. S. L. Kuo, E. Sanford
+2009, H. Kurihara, T. Asai, S. Kato, A. Ishimatsu
+2010, T. Kurihara, T. Kosuge, H. Takami, M. Iseda, K. Matsubara
+2008, C. M. Kurle, D. A. Croll, B. R. Tershy
+1996, A. Kushmaro, Y. Loya, M. Fine
+1978, M. LaBarbera
+1984, M. LaBarbera
+2009, A. Labra, J. Pienaar, T. F. Hansen
+2010, E. P. Lacey, M. E. Lovin, S. J. Richter, D. A. Herington
+2001, A. Lacoste, F. Jalabert, S. K. Malham, A. Cueff, S. A. Poulet
+2001, A. Lacoste, S. K. Malham, A. Cueff, F. Jalabert, F. Gélébart, S. A. Poulet
+2001, A. Lacoste, S. K. Malham, A. Cueff, S. A. Poulet
+2003, L. Ladah, R. Bermudez, G. Pearson, E. Serrao
+2006, K. D. Lafferty, A. P. Dobson, A. M. Kuris
+1993, K. D. Lafferty, A. M. Kuris
+2004, K. D. Lafferty, J. W. Porter, S. E. Ford
+1997, R. Lagergren, M. Hellsten, J. A. E. Stenson
+2006, K. Y. H. Lagerspetz
+2008, N. A. Lagos, J. C. Castilla
+2007, N. A. Lagos, F. J. Tapia, S. A. Navarrete, J. C. Castilla
+2009, M. E. Laidre
+2008, P. Laimek, S. Clark, M. Stewart, F. Pfeffer, C. Wanichanon, P. Hanna, P. Sobhon
+2011, M. J. Lajeunesse
+2003, M. J. Lajeunesse, M. R. Forbes
+2002, K. K. Y. Lam
+2009, M. D. Lamare, T. Channon, C. Cornelisen, M. Clarke
+2014, E. A. Lamb, H. M. Leslie, J. L. Shinen
+2006, E. G. Lamb, J. F. Cahill, M. R. T. Dale
+2012, M. Lamote, L. E. Johnson, Y. Lemoine
+1959, M. Lamotte
+1989, W. Lampert
+1998, I. Lamprecht
+2002, M. F. Land, D.-E. Nilsson
+1968, D. E. Landenberger
+2009, A. L. Lane, L. Nyadong, A. S. Galhena, T. L. Shearer, E. P. Stout, R. M. Parry, M. Kwasnik, M. D. Wang, M. E. Hay, F. M. Fernandez, J. Kubanek
+2011, B. Lang, B. C. Rall, U. Brose
+1988, J. C. Lang, R. I. Wicklund, R. F. Dill
+1998, R. C. Lang, J. C. Britton, T. Metz
+2005, M. Lange
+1995, S. M. Lanyon
+1994, F.-J. Lapointe, P. Legendre
+2010, S. I. Large, D. L. Smee
+1967, M. J. Largen
+1967, M. J. Largen
+2009, M. H. Larsen, K. N. Mouritsen
+2009, P. S. Larsen, H. U. Riisgård
+2006, A. I. Larsson, P. R. Jonsson
+1984, H. R. Lasker
+2006, J. Lassen, M. Kortegard, H. U. Riisgard, M. Friedrichs, G. Graf, P. S. Larsen
+1982, B. R. Lassig
+2012, J. Lathlean, T. Minchinton
+2014, J. A. Lathlean
+2011, J. A. Lathlean, D. J. Ayre, T. E. Minchinton
+2013, J. A. Lathlean, D. J. Ayre, T. E. Minchinton
+2014, J. A. Lathlean, D. J. Ayre, T. E. Minchinton
+2003, W. Lau, M. Martinez
+1983, G. V. Lauder
+1996, W. F. Laurance
+1997, H. Laurie, P. J. Mustart, R. M. Cowling
+2014, M. Lavine
+1957, G. W. Lawson
+1989, J. H. Lawton
+1999, J. H. Leal, M. G. Harasewych
+1985, K. M. Leber
+2010, H. J. Lee, E. G. Boulding
+2007, J. E. Lee, S. L. Chown
+2009, S. C. Lee, J. F. Bruno
+2009, S.-L. Lee, S. S. L. Lim
+1998, A. Lehmann
+2002, A. Lehmann, J. R. Leathwick, J. M. Overton
+2002, A. Lehmann, J. M. Overton, J. R. Leathwick
+1996, J. J. Leichter, S. R. Wing, S. L. Miller, M. W. Denny
+2008, T. Leinonen, R. B. O’Hara, J. M. Cano, J. MerilÄ
+2006, S. C. Lema, G. A. Nevitt
+2012, N. P. Lemoine, D. E. Burkepile
+1999, H. Lenihan, F. Micheli, S. W. Shelton, C. H. Peterson
+1968, C. M. Lent
+2004, M. Lenz, M. Molis, M. Wahl
+2000, G. H. Leonard
+1999, G. H. Leonard, M. D. Bertness, P. O. Yund
+2005, H. M. Leslie
+1997, M. P. Lesser
+2010, M. P. Lesser, M. A. Bailey, D. G. Merselis, J. R. Morrison
+1990, M. P. Lesser, W. R. Stochaj, D. W. Tapley, S. J.M.
+2001, H. Lessios, M. Garrido, B. Kessing
+2007, S. E. Lester, S. D. Gaines, B. P. Kinlan
+2007, S. E. Lester, B. I. Ruttenberg, S. D. Gaines, B. P. Kinlan
+2008, S. Levenbach
+2013, A. Levermann, P. U. Clark, B. Marzeion, G. A. Milne, D. Pollard, V. Radic, A. Robinson
+1976, G. J. Leversee
+2009, L. A. Levin, P. K. Dayton
+1992, S. A. Levin
+2001, S. A. Levin, J. Dushoff, J. E. Keymer
+1974, S. A. Levin, R. T. Paine
+1975, S. A. Levin, R. T. Paine
+2005, J. S. Levinton, B. J. Allen
+2000, D. R. Levitan
+2011, F. Lewis, A. Butler, L. Gilbert
+1963, J. B. Lewis
+1954, J. R. Lewis
+1964, J. R. Lewis
+2014, L. Lewis, J. Ayers
+1997, S. J. Lewis, K. W. Heaton
+2004, N. K. Li, M. W. Denny
+2008, J. R. B. Lighton, R. J. Turner
+1999, S. P. Lima, P. A. Bednekoff
+1975, D. R. Lindberg
+1986, D. R. Lindberg
+1988, D. R. Lindberg
+1990, D. R. Lindberg
+1991, D. R. Lindberg
+1984, D. R. Lindberg, J. A. Estes, K. I. Warheit
+1998, D. R. Lindberg, J. A. Estes, K. I. Warheit
+1990, D. R. Lindberg, J. S. Pearse
+1985, D. R. Lindberg, W. G. Wright
+2011, A. Lindén, S. Mäntyniemi
+2010, D. B. Lindenmayer, G. E. Likens, C. J. Krebs, R. J. Hobbs
+2014, J. Lindgren, P. Sjovall, R. M. Carney, P. Uvdal, J. A. Gren, G. Dyke, B. P. Schultz, M. D. Shawkey, K. R. Barnes, M. J. Polcyn
+1980, S. Lindquist
+1981, S. Lindquist
+2009, E. Litchman, C. A. Klausmeier, K. Yoshiyama
+1989, C. Little
+1983, M. M. Littler, D. R. Martz, D. S. Littler
+1986, C. M. Lively
+2000, C. M. Lively, W. N. Hazel, M. J. Schellenberger, K. S. Michelson
+1987, C. M. Lively, P. T. Raimondi
+2009, S. R. Loarie, P. B. Duffy, H. Hamilton, G. P. Asner, C. B. Field, D. D. Ackerly
+1993, J. Lobón-Cerviá, C. G. Utrilla, E. Querol, M. A. Puig
+2010, B. L. Lockwood, J. G. Sanders, G. N. Somero
+2011, B. L. Lockwood, G. N. Somero
+2011, B. L. Lockwood, G. N. Somero
+2009, J. L. Lockwood, P. Cassey, T. M. Blackburn
+1905, J. Loeb
+2012, C. A. Logan, L. E. Kost, G. N. Somero
+2013, M. L. Logan, R. K. Huynh, R. A. Precious, R. G. Calsbeek
+1993, D. P. Lohse
+1993, D. P. Lohse
+2002, D. P. Lohse
+2007, J. D. Long, R. S. Hamilton, J. L. Mitchell
+2013, J. D. Long, L. Porturas, E. Jones, C. Kwan, G. C. Trussell
+2007, J. D. Long, G. C. Trussell
+2001, S. I. Lonhart, J. W. Tupen
+1999, W. M. Lonsdale
+2010, M. S. López, R. Coutinho, C. E. L. Ferreira, G. Rilov
+2001, M. Loreau, A. Hector
+2007, S. Lorenzen
+2006, C. J. Lortie, R. M. Callaway
+2010, Jonathan B. Losos
+2002, C. Loudon, J. Zhang
+1972, G. N. Louw
+2009, B. Lovegrove
+2009, J. A. Lowe, T. P. Howard, A. Pardaens, J. Tinker, J. Holt, S. Wakelin, G. Milne, J. Leake, J. Wolf, K. Horsburgh, T. Reeder, G. Jenkins, J. Ridley, S. Dye, S. Bradley
+2005, R. J. Lowe, J. L. Falter, M. D. Bandet, G. Pawlak, M. J. Atkinson, S. G. Monismith, J. R. Koseff
+2005, R. J. Lowe, J. R. Koseff, S. G. Monismith
+2005, R. J. Lowe, J. R. Koseff, S. G. Monismith, J. L. Falter
+1984, R. B. Lowell
+1985, R. B. Lowell
+1986, R. B. Lowell
+1987, R. B. Lowell
+2013, J. B. Lowen, D. J. Innes, R. J. Thompson
+1962, H. A. Lowenstam
+1971, H. A. Lowenstam
+1978, J. Lubchenco
+1981, J. Lubchenco, S. D. Gaines
+1978, J. Lubchenco, B. A. Menge
+1976, P. A. Luckens
+2008, M. Luhar, J. Rominger, H. Nepf
+2011, J. R. Luis, A. S. Comesana, A. Sanjuan
+1997, J. O. Luken, L. M. Kuddes, T. C. Tholemeier
+2002, T. Lumley, P. Diehr, S. Emerson, L. Chen
+2013, H. J. Lynch, M. Rhainds, J. M. Calabrese, S. Cantrell, C. Cosner, W. F. Fagan
+2002, M. Lynch
+2000, M. Lynch, A. G. Force
+2001, M. Lynch, M. O'Hely, B. Walsh, A. Force
+2008, B. E. Lyon, A. S. Chaine, D. W. Winkler
+2015, G. Ma, V. H. W. Rudolf, C.-s. Ma
+2007, M. Maar, T. G. Nielsen, K. Bolding, H. Burchard, A. W. Visser
+2007, R. Mac Nally, G. Horrocks
+1964, R. H. MacArthur
+2009, B. A. MacDonald, J. E. Ward
+2007, K. Mach
+2009, K. J. Mach
+2007, K. J. Mach, B. B. Hale, M. W. Denny, D. V. Nelson
+2007, K. J. Mach, D. V. Nelson, M. W. Denny
+2011, K. J. Mach, S. K. Tepler, A. V. Staaf, J. C. Bohnhoff, M. W. Denny
+2011, M. E. Mach, P. E. Bourdeau
+1966, J. Machin
+1967, J. Machin
+2014, D. Madeira, V. Mendonça, M. Dias, J. Roma, P. M. Costa, M. S. Diniz, C. Vinagre
+2010, Elizabeth M. P. Madin, Steven D. Gaines, Joshua S. Madin, Robert R. Warner
+2005, F. T. Maestre, F. Valladares, J. F. Reynolds
+2013, E. Maggi, A. C. Jackson, T. Tolhurst, A. J. Underwood, M. G. Chapman
+2015, S. Magozzi, P. Calosi
+2004, A. E. Magurran
+1982, B. M. S. Mahoney, R. J. Livingston
+2007, O. Maire, J.-M. Amouroux, J.-C. Duchene, A. Gremare
+1999, Y. M. Mak, G. A. Williams
+1997, S. Malik, P. H. Wilson, R. J. Smith, D. M. Lavigne, B. N. White
+1986, M. Mangel, C. W. Clark
+2008, C. Manicom, L. Schwarzkopf, R. A. Alford, T. W. Schoener
+2006, B. F. J. Manly
+2009, P. H. Manríquez, N. A. Lagos, M. E. Jara, J. C. Castilla
+1997, S. C. Manrubia, R. V. Sole
+2013, A. Manyak-Davis, T. M. Bell, E. E. Sotka
+2007, N. Marbà, C. M. Duarte, S. Agustí
+2003, K. B. Marchinko
+2007, K. B. Marchinko
+2004, K. B. Marchinko, M. T. Nishizaki, K. C. Burns
+2003, K. B. Marchinko, A. R. Palmer
+1964, A. S. Margolin
+2001, A. F. Mark, K. J. M. Dickinson, J. Allen, R. Smith, C. J. West
+1968, R. Markel
+1971, R. P. Markel
+1974, R. P. Markel
+1976, R. P. Markel
+1998, P. B. Marko
+1991, P. B. Marko, A. R. Palmer
+2003, P. B. Marko, A. R. Palmer, G. J. Vermeij
+1999, P. B. Marko, G. J. Vermeij
+2012, I. D. Marsden, S. E. Shumway, D. K. Padilla
+1999, A. G. Marsh, D. T. Manahan
+1986, C. P. Marsh
+2013, D. Marshall, N. Baharuddin, C. McQuaid
+2013, D. J. Marshall, M. Bode, C. R. White
+2015, D. J. Marshall, S. C. Burgess
+2012, D. J. Marshall, T. Chua
+2011, D. J. Marshall, Y.-w. Dong, C. D. McQuaid, G. A. Williams
+1991, D. J. Marshall, C. D. McQuaid
+2011, D. J. Marshall, C. D. McQuaid
+2010, D. J. Marshall, C. D. McQuaid, G. A. Williams
+2010, D. J. Marshall, K. Monro, M. Bode, M. J. Keough, S. Swearer
+1999, A. L. Martel, C. Robles, K. Beckenbach, M. J. Smith
+2012, B. T. Martin, E. I. Zimmer, V. Grimm, T. Jager
+2009, R. A. Martin, D. W. Pfennig
+2008, Tara L. Martin, Raymond B. Huey
+2009, E. Martinez, D. Antoine, F. D’Ortenzio, B. Gentili
+2008, M. Martínez-Fernádez, A. M. Rodríguez-Piñeiro, E. Oliveira, M. Páez de la Cadena, E. Rolán-Alvarez
+2014, G. M. Martins, J. Faria, M. Furtado, A. I. Neto
+2006, P. T. Martone
+2007, P. T. Martone
+2008, P. T. Martone, M. W. Denny
+2008, P. T. Martone, M. W. Denny
+2009, P. T. Martone, J. M. Estevez, F. Lu, K. Ruel, M. W. Denny, C. Somerville, J. Ralph
+2009, E. M. Marzinelli, C. J. Zagal, M. G. Chapman, A. J. Underwood
+2014, J. Mascaro, C. M. Litton, R. F. Hughes, A. Uowolo, S. A. Schnitzer
+2007, N. W. H. Mason, J. B. Wilson, J. B. Steel
+2008, P. Masterson, F. A. Arenas, R. C. Thompson, S. R. Jenkins
+1981, E. Mastro, V. Chow, D. Hedgecock
+2010, C. M. Matassa
+2011, C. M. Matassa, G. C. Trussell
+2010, M. G. Matias, A. J. Underwood, D. F. Hochuli, R. A. Coleman
+2014, K. Matsumura, P.-Y. Qian
+2015, A. J. Matzelle, G. Sarà, V. Montalto, M. Zippay, G. C. Trussell, B. Helmuth
+1989, J. Mauchline
+2013, B. S. Mautz, B. B. M. Wong, R. A. Peters, M. D. Jennions
+1968, K. P. Mauzey, C. Birkeland, P. K. Dayton
+1999, R. May
+1976, R. M. May
+1988, B. H. McArdle
+2003, B. H. McArdle
+2001, B. H. McArdle, M. J. Anderson
+1994, J. R. McAuliffe
+2010, C. M. McCain, N. J. Sanders
+2009, C. K. McCalley, J. P. Sparks
+2010, D. McCauley, F. Micheli, H. Young, D. Tittensor, D. Brumbaugh, E. Madin, K. Holmes, J. Smith, H. Lotze, P. DeSalles, S. Arnold, B. Worm
+2015, D. J. McCauley, M. L. Pinsky, S. R. Palumbi, J. A. Estes, F. H. Joyce, R. R. Warner
+2010, C. R. McClain, J. P. Barry
+2007, J. B. McClintock, R. A. Angus, F. E. McClintock
+2000, J. W. McClure, T. D. Lee, W. B. Leak
+2008, M. W. McCoy, B. M. Bolker
+2001, C. L. McCutchan, R. K. Monson
+2009, T. J. McDougall, D. R. Jackett, F. J. Millero
+2012, I. J. McGaw, N. M. Whiteley
+1987, R. P. McIntosh
+2008, S. C. McKillup, R. V. McKillup
+2002, M. L. McKinney
+1963, I. A. McLaren
+2010, B. N. McLellan, R. Serrouya, H. U. Wittmer, S. Boutin
+2009, K. J. McLeod, L. M. Lesperance, C. Laramee
+1983, R. F. McMahon
+1988, R. F. McMahon
+1990, R. F. McMahon
+1991, R. F. McMahon
+1992, R. F. McMahon
+2001, R. F. McMahon
+1985, R. F. McMahon, J. C. Britton
+1986, R. F. McMahon, J. D. Cleland
+1977, R. F. McMahon, W. D. Russell-Hunter
+1981, R. F. McMahon, W. D. Russell-Hunter
+1995, R. F. McMahon, W. D. Russell-Hunter, D. W. Aldridge
+1973, T. McMahon
+2009, C. P. McMullen, J. Jabbour
+2009, J. M. McNamara, A. I. Houston
+1988, K. G. McNaughton
+2008, B. I. McNeil, R. J. Matear
+2001, M. A. McPeek, M. Grace, J. M. L. Richardson
+1981, C. D. McQuaid
+1985, C. D. McQuaid
+1992, C. D. McQuaid
+1996, C. D. McQuaid
+1996, C. D. McQuaid
+1985, C. D. McQuaid, G. M. Branch
+1979, C. D. McQuaid, G. M. Branch, P. G. H. Frost
+2010, C. D. McQuaid, B. P. Mostert
+2006, C. D. McQuaid, T. E. Phillips
+1988, C. D. McQuaid, P. A. Scherman
+1995, L. P. McRae, M. R. Bottaccini, D. M. Gleason
+1995, P. E. McShane
+1995, P. E. McShane
+1995, P. E. McShane, J. R. Naylor
+2011, A. Mead, J. T. Carlton, C. L. Griffiths, M. Rius
+1995, K. S. Mead, M. W. Denny
+2013, J. J. Meager, T. A. Schlacher
+2009, L. O. Mearns, W. Gutowski, R. Jones, R. Leung, S. McGinnis, A. Nunes, Y. Qian
+2007, G. A. Meehl, C. Covey, T. L. Delworth, M. Latif, B. McAvaney, J. F. B. Mitchell, R. J. Stouffer, K. E. Taylor
+2007, G. A. Meehl, T. F. Stocker, W. D. Collins, P. Friedlingstein, A. Gaye, T, J. M. Gregory, A. Kitoh, R. Knutti, J. M. Murphy, A. Noda, S. C. B. Raper, I. G. Watterson, A. J. Weaver, Z.-C. Zhao
+2004, G. A. Meehl, C. Tebaldi
+1992, R. J. Meese, P. A. Tomich
+2000, M. Mehrvar, C. Bis, J. M. Scharer, M. Moo-Young, J. H. Luong
+2012, E. Meijering, O. Dzyubachyk, I. Smal
+2013, S. Melatunan, P. Calosi, S. Rundle, S. Widdicombe, A. Moody
+2011, S. Melatunan, P. Calosi, D. R. Simon, A. J. Moody, S. Widdicombe
+1976, B. A. Menge
+1978, B. A. Menge
+1978, B. A. Menge
+1983, B. A. Menge
+1991, B. A. Menge
+1992, B. A. Menge
+2000, B. A. Menge
+2005, B. A. Menge, G. W. Allison, C. A. Blanchette, T. M. Farrell, A. M. Olson, T. A. Turner, P. van Tamelen
+1994, B. A. Menge, E. L. Berlow, C. A. Blanchette, S. A. Navarrete, S. A. Yamada
+2004, B. A. Menge, C. Blanchette, P. Raimondi, T. Freidenburg, S. Gaines, J. Lubchenco, D. Lohse, G. Hudson, M. Foley, J. Pamplin
+2001, B. A. Menge, G. M. Branch
+2009, B. A. Menge, F. Chan, S. Dudas, D. Eerkes-Medrano, K. Grorud-Colvert, K. Heiman, M. Hessing-Lewis, A. Iles, R. Milston-Clements, M. Noble, K. Page-Albins, E. Richmond, G. Rilov, J. Rose, J. Tyburczy, L. Vinueza, P. Zarnetske
+2008, B. A. Menge, F. Chan, J. Lubchenco
+2009, B. A. Menge, F. Chan, K. J. Nielsen, E. Di Lorenzo, J. Lubchenco
+1999, B. A. Menge, B. A. Daley, J. Lubchenco, E. Sanford, E. P. Dahlhoff, P. M. Halpin, G. Hudson, J. L. Burnaford
+2007, B. A. Menge, B. A. Daley, E. Sanford, E. P. Dahlhoff, J. Lubchenco
+1997, B. A. Menge, B. A. Daley, P. A. Wheeler, E. Dahlhoff, E. Sanford, P. T. Strub
+1989, B. A. Menge, T. M. Farrell
+2010, B. A. Menge, M. M. Foley, J. Pamplin, G. Murphy, C. Pennington
+2011, B. A. Menge, S. D. Hacker, T. Freidenburg, J. Lubchenco, R. Craig, G. Rilov, M. Noble, E. Richmond
+1981, B. A. Menge, J. Lubchenco
+1986, B. A. Menge, J. Lubchenco, L. R. Ashkenas, F. Ramsey
+2003, B. A. Menge, J. Lubchenco, M. E. S. Bracken, F. Chan, M. M. Foley, T. L. Freidenburg, S. D. Gaines, G. Hudson, C. Krenz, H. Leslie, D. N. L. Menge, R. Russell, M. S. Webster
+2013, B. A. Menge, D. N. L. Menge
+1990, B. A. Menge, A. M. Olson
+2002, B. A. Menge, A. M. Olson, E. P. Dahlhoff
+1976, B. A. Menge, J. P. Sutherland
+1987, B. A. Menge, J. P. Sutherland
+1974, J. L. Menge
+2003, V. B. Meyer-Rochow, J. Gal
+2006, V. B. Meyer-Rochow, J. Gal
+1995, F. Micheli
+1996, F. Micheli
+1999, F. Micheli
+2008, F. Micheli, M. J. Bishop, C. H. Peterson, J. Rivera
+2005, F. Micheli, B. S. Halpern
+2010, R. Middlebrook, K. R. N. Anthony, O. Hoegh-Guldberg, S. Dove
+1976, R. D. Middlemist, E. S. Knowles, C. F. Matter
+1997, D. A. J. Middleton, R. M. Nisbet
+2002, A. Migné, D. Davoult, N. Spilmont, D. Menu, G. Boucher, J. P. Gattuso, H. Rybarczyk
+2007, A. Migné, F. Gévaert, A. Créach, N. Spilmont, E. Chevalier, D. Davoult
+2015, A. Migné, C. Golléty, D. Davoult
+2010, K. A. Miklasz, M. W. Denny
+2001, P. J. Mill, A. P. CLarke, D. C. Smith, J. Grahame, C. S. Wilding
+1968, C. S. Millard
+1968, A. C. Miller
+2011, A. C. Miller, M. A. Boxt
+1993, A. C. Miller, S. E. Lawrenz-Miller
+1992, K. M. Miller
+2007, L. P. Miller
+2008, L. P. Miller
+2012, L. P. Miller
+2013, L. P. Miller
+2015, L. P. Miller, B. J. Allen, F. A. King, D. R. Chilin, V. M. Reynoso, M. W. Denny
+2011, L. P. Miller, M. W. Denny
+2007, L. P. Miller, B. Gaylord
+2009, L. P. Miller, C. D. G. Harley, M. W. Denny
+2014, L. P. Miller, C. M. Matassa, G. C. Trussell
+2007, L. P. Miller, M. J. O'Donnell, K. J. Mach
+2008, R. J. Miller, R. J. Etter
+2011, R. J. Miller, D. C. Reed, M. A. Brzezinski
+1974, S. L. Miller
+1993, F. J. Millero, J.-Z. Zhang, K. Lee, D. M. Campbell
+1991, T. E. Minchinton, R. E. Scheibling
+1993, T. E. Minchinton, R. E. Scheibling
+2013, B. G. Miner, D. A. Donovan, L. M. Portis, T. C. Goulding
+2005, B. G. Miner, S. E. Sultan, S. G. Morgan, D. K. Pailla, R. A. Relyea
+2006, M. C. Miner, J. M. Altstatt, P. T. Raimondi, T. E. Minchinton
+2001, D. Minton, D. J. Gochfeld
+2007, M. N. Miriti, S. Rodríguez-Burticá, S. J. Wright, H. F. Howe
+2011, K. A. S. Mislan, C. A. Blanchette, B. R. Broitman, L. Washburn
+2011, K. A. S. Mislan, D. S. Wethey
+2015, K. A. S. Mislan, D. S. Wethey
+2009, K. A. S. Mislan, D. S. Wethey, B. Helmuth
+1980, C. P. Mitchell
+1976, J. W. Mitchell
+2008, N. J. Mitchell, M. R. Kearney, N. J. Nelson, W. P. Porter
+2009, J. X. Mitrovica, N. Gomez, P. U. Clark
+2007, O. Miura, S. Nishi, S. Chiba
+1992, S. MixaLot
+1964, A. Miyamoto
+2015, T. Mizrahi, S. Goldenberg, J. Heller, Z. Arad
+2009, T. Mizrahi, J. Heller, S. Goldenberg, Z. Arad
+2012, I. Moen, C. Jevne, J. Wang, K.-H. Kalland, M. Chekenya, L. Akslen, L. Sleire, P. Enger, R. Reed, A. Oyan, L. Stuhr
+2006, G. M. Moeser, E. Carrington
+2006, G. M. Moeser, H. Leba, E. Carrington
+2012, J. Moláček, M. Denny, J. W. M. Bush
+2006, M. Molis, J. Körner, Y. W. Ko, J. H. Kim, M. Wahl
+2015, M. Molis, R. A. Scrosati, E. F. El-Belely, T. Lesniowski, M. Wahl
+1996, K. A. Moloney, S. A. Levin
+2011, C. J. Monaco, B. Helmuth
+2009, P. Monaghan, N. B. Metcalfe, R. Torres
+2009, W. B. Monahan
+2011, M. Monari, J. Foschi, R. Rosmini, M. G. Marin, G. P. Serrazanetti
+2014, V. Montalto, G. Sarà, P. M. Ruti, A. Dell’Aquila, B. Helmuth
+2013, D. M. Monti, P. Raia, J. Vroonen, V. Maselli, R. Van Damme, D. Fulgione
+2000, J. R. Moore
+2007, P. Moore, S. J. Hawkins, R. C. Thompson
+2003, S. W. Moore
+2013, C. Mora, A. G. Frazier, R. J. Longman, R. S. Dacks, M. M. Walton, E. J. Tong, J. J. Sanchez, L. R. Kaiser, Y. O. Stender, J. M. Anderson, C. M. Ambrosino, I. Fernandez-Silva, L. M. Giuseffi, T. W. Giambelluca
+2000, A. L. Moran
+1985, M. J. Moran
+1985, M. J. Moran
+1985, M. J. Moran
+2007, B. Morelissen, C. D. G. Harley
+1986, C. A. Moreno, K. M. Lunecke, M. I. Lépez
+2011, J. A. Morgan, D. R. LeCain, E. Pendall, D. M. Blumenthal, B. A. Kimball, Y. Carrillo, D. G. Williams, J. Heisler-White, F. A. Dijkstra, M. West
+1972, P. R. Morgan
+1972, P. R. Morgan
+2010, S. G. Morgan, J. L. Fisher
+2011, S. G. Morgan, J. L. Fisher, J. L. Largier
+2009, S. G. Morgan, J. L. Fisher, S. H. Miller, S. T. McAfee, J. L. Largier
+2002, C. Moritz
+2010, S. A. Morley, M. S. Clark, L. S. Peck
+2002, C. E. Morris, M. Bardin, O. Berge, P. Frey-Klett, N. Fromin, H. Girardin, M.-H. Guinebretiere, P. Lebaron, J. M. Thiery, M. Troussellier
+2000, D. W. Morris, B. J. Fox, J. Luo, V. Monamy
+1980, R. H. Morris, D. P. Abbott, E. C. Haderlie
+2006, W. F. Morris, S. Tuljapurkar, C. V. Haridas, E. S. Menges, C. C. Horvitz, C. A. Pfister
+1990, B. R. S. Morrison
+2007, D. Morritt, K. M. Y. Leung, M. De Pirro, C. Yau, T.-C. Wai, G. A. Williams
+1999, B. Morton
+2010, B. Morton
+2008, B. Morton, E. M. Harper
+2009, A. Mougi, O. Kishida
+2008, K. N. Mouritsen, S. C. B. Haun
+2014, R. J. Mrowicki, C. A. Maggs, N. E. O'Connor
+2015, R. J. Mrowicki, N. E. O’Connor
+1968, A. V. Muchmore
+2014, P. A. Mueller, D. M. Oppenheimer
+2008, V. M. R. Muggeo
+1966, C. H. Muller
+2005, S. B. Munch, M. L. Snover, G. M. Watters, M. Mangel
+2004, P. L. Munday
+2008, J. L. P. Muñoz, P. A. Camus, F. A. Labra, G. R. Finke, F. Bozinovic
+2005, J. L. P. Muñoz, G. R. Finke, P. A. Camus, F. Bozinovic
+2009, D. M. Munroe, T. Noda
+2001, A. Murata, M. Imafuku, N. Abe
+1975, W. W. Murdoch, A. Oaten
+1980, D. J. Murphy, E. McCausland
+1978, P. C. Murphy
+2006, R. J. Murphy, A. J. Underwood
+2009, R. J. Murphy, A. J. Underwood, A. C. Jackson
+2014, C. J. Murren, H. J. Maclean, S. E. Diamond, U. K. Steiner, M. A. Heskel, C. A. Handelsman, K. G. Cameron, J. R. Auld, H. S. Callahan, D. W. Pfennig, R. A. Relyea, C. D. Schlichting, J. Kingsolver
+2007, P. A. Murtaugh
+2014, P. A. Murtaugh
+2014, P. A. Murtaugh
+1977, A. Muth
+1994, W. Nachtigall
+2015, R. Nagarajan, S. E. G. Lea, J. D. Goss-Custard
+2006, R. Nagarajan, S. E. G. Lean, J. D. Goss-Custard
+1997, S. Nagarkar, G. Williams
+2007, S. Nakagawa, I. C. Cuthill
+2012, S. Nakagawa, E. Santos
+2013, S. Nakagawa, H. Schielzeth
+2004, T. Nakano, T. Ozawa
+2007, T. Nakano, T. Ozawa
+2011, N. A. Nasseri, L. D. McBrayer, B. A. Schulte
+1996, S. A. Navarrete
+2008, S. A. Navarrete, B. R. Broitman, B. A. Menge
+2015, S. A. Navarrete, J. L. Largier, G. Vera, F. J. Tapia, M. Parrague, E. Ramos, J. L. Shinen, C. A. Stuardo, E. A. Wieters
+2008, S. A. Navarrete, T. Manzur
+2005, S. A. Navarrete, E. A. Wieters, B. R. Broitman, J. C. Castilla
+1996, S. A. Navarrette, B. A. Menge
+2005, P. G. Navarro, R. Ramirez, F. Tuya, C. Fernandez-Gil, P. Sanchez-Jerez, R. J. Haroun
+1964, J. R. Neale
+1994, J. Neary, K. Cash, E. McCauley
+1992, S. Nee, R. M. May
+1935, J. Needham
+2015, L. A. Needles, J. S. Gosnell, G. T. Waltz, D. E. Wendt, S. D. Gaines
+2009, C. Neill, T. Daufresne, C. G. Jones
+1997, J. C. Nejstgaard, I. Gismervik, P. T. Solberg
+1993, N. B. Nelson, B. B. Prezelin, R. R. Bidigare
+2011, C. J. Neufeld
+2008, C. J. Neufeld, A. R. Palmer
+2012, C. J. Neufeld, C. Rankine
+2009, M. Neuhäuser, G. D. Ruxton
+2002, M. New, D. Lister, M. Hulme, I. Makin
+2001, C. R. Newell, D. Wildish, B. MacDonald
+1958, G. E. Newell
+1958, G. E. Newell
+1964, G. E. Newell
+1965, G. E. Newell
+1969, R. C. Newell
+1973, R. C. Newell
+1976, R. C. Newell
+1973, R. C. Newell, B. L. Bayne
+1970, R. C. Newell, V. I. Pye
+1970, R. C. Newell, V. I. Pye
+1971, R. C. Newell, V. I. Pye
+1971, R. C. Newell, V. I. Pye, M. Ahsanullah
+1980, G. F. Newkirk
+2006, A. Ngan
+2011, K. D. T. Nguyen, S. A. Morley, C.-H. Lai, M. S. Clark, K. S. Tan, A. E. Bates, L. S. Peck
+2009, A. Nicastro, M. J. Bishop, B. P. Kelaher, L. Benedetti-Cecchi
+2008, K. R. Nicastro, G. I. Zardi, C. D. McQuaid
+2010, K. R. Nicastro, G. I. Zardi, C. D. McQuaid
+2010, K. R. Nicastro, G. I. Zardi, C. D. McQuaid, L. Stephens, S. Radloff, G. L. Blatch
+1990, F. H. Nichols, J. K. Thompson, L. E. Schemel
+2006, M. Nickel
+1989, D. M. Nickerson, D. E. Facey, G. D. Grossman
+2012, K. Nickols, B. Gaylord, J. Largier
+2015, K. J. Nickols, J. W. White, J. L. Largier, B. Gaylord
+1996, B. C. Nicoll, D. Ray
+1977, M. E. Nicotri
+1998, K. J. Niklas
+1998, K. J. Niklas
+1999, K. J. Niklas
+1999, K. J. Niklas
+2000, K. J. Niklas
+1999, K. J. Niklas, F. Molina-Freaner, C. Tinoco-Ojanguren
+1999, K. J. Niklas, H.-C. Spatz
+2000, K. J. Niklas, H.-C. Spatz
+1999, K. J. Niklas, H. C. Spatz
+2001, K. J. Niklas, T. Speck
+1998, M. K. Nishiguchi, E. G. Ruby, M. J. McFall-Ngai
+2014, M. Nishizaki, E. Carrington
+1999, P. S. Nobel
+2009, L. M.-L. Noël, S. J. Hakwins, S. R. Jenkins, R. C. Thompson
+2004, R. Noormets, K. A. W. Crook, E. A. Felton
+2006, J. Norkko, S. F. Thrush, R. M. G. Wells
+2007, P. Norling, N. Kautsky
+1954, W. J. North
+1993, W. J. North, D. E. James, L. G. Jones
+1990, T. A. Norton, S. J. Hawkins, N. L. Manley, G. A. Williams, D. C. Watson
+1982, T. A. Norton, A. C. Mathieson, M. Neushul
+2008, M. Novak, J. T. Wootton
+2008, M. A. Nowak, H. Ohtsuki
+1984, A. R. M. Nowell, P. A. Jumars
+2009, M. I. O’Connor
+2009, M. I. O’Connor, J. F. Bruno
+2007, M. I. O’Connor, J. F. Bruno, S. D. Gaines, B. Halpern, S, S. E. Lester, B. P. Kinlan, J. M. Weiss
+2011, M. I. O’Connor, B. Gilbert, C. J. Brown
+2009, M. I. O’Connor, M. F. Piehler, D. M. Leech, A. Anton, J. F. Bruno
+2000, M. P. O’Connor
+2007, M. P. O’Connor, S. J. Kemp, S. J. Agosta, F. Hansen, A. E. Sieg, B. P. Wallace, J. N. McNair, A. E. Dunham
+2006, M. P. O’Connor, A. E. Sieg, A. E. Dunham
+1992, M. P. O’Connor, J. R. Spotila
+2010, N. E. O’Connor
+2008, N. E. O’Connor, T. P. Crowe
+2006, N. E. O’Connor, T. P. Crowe, D. McGrath
+2013, N. E. O’Connor, I. A. N. Donohue
+2012, N. E. O’Connor, M. C. Emmerson, T. P. Crowe, I. Donohue
+2008, M. J. O’Donnell
+2008, M. J. O’Donnell, M. W. Denny
+2009, M. J. O’Donnell, L. M. Hammond, G. E. Hofmann
+2003, M. J. O’Donnell, L. P. Miller
+2010, M. J. O’Donnell, A. E. Todgham, M. A. Sewell, L. M. Hammond, K. Ruggiero, N. A. Fangue, M. L. Zippay, G. E. Hofmann
+2014, K. O’Dwyer, T. Kamiya, R. Poulin
+2014, K. O’Dwyer, A. Lynch, R. Poulin
+2005, R. B. O’Hara
+2010, R. B. O’Hara, D. J. Kotze
+2014, S. M. O’Regan, W. J. Palen, S. C. Anderson
+1988, S.-i. Ohgaki
+1989, S.-i. Ohgaki
+2013, J. Ohlberger
+2009, R. Okajima, S. Chiba
+2011, R. Okajima, S. Chiba
+1999, B. Okamura, J. C. Partridge
+2010, N. Okaniwa, T. Miyaji, T. Sasaki, K. Tanabe
+2011, O. S. Okay, B. Karacik, B. Henkelmann, K. W. Schramm
+2004, J. O'Keeffe
+2001, L. Oksanen
+2009, T. Okuda, T. Noda, T. Yamamoto, M. Hori, M. Nakaoka
+1994, E. B. Olafsson, C. H. Peterson, W. G. J. Ambrose
+2009, T. A. Oliver, S. R. Palumbi
+1955, P. R. Orr
+1955, P. R. Orr
+2008, J. L. Orrock, J. H. Grabowski, J. H. Pantel, S. D. Peacor, B. L. Peckarsky, A. Sih, E. E. Werner
+2008, C. Ortlepp, J. M. Gosline
+1928, J. H. Orton
+1928, J. H. Orton
+1929, J. H. Orton
+1933, J. H. Orton
+1999, C. W. Osenberg, O. Sarnelle, S. D. Cooper, R. D. Holt
+2005, C. J. Osovitz, G. E. Hofmann
+2006, E. Ottaviani
+1991, E. Ottaviani, A. Cossarizza, C. Ortolani, D. Monti, C. Franceschi
+2007, E. Ottaviani, D. Malagoli, C. Franceschi
+2007, S. P. Otto, T. Day
+2011, J. T. Overpeck, G. A. Meehl, S. Bony, D. R. Easterling
+1992, J. T. Overpeck, R. S. Webb, T. Webb
+2009, A. Ozgul, S. Tuljapurkar, T. G. Benton, J. M. Pemberton, T. H. Clutton-Brock, T. Coulson
+2001, S. W. Pacala, G. C. Hurtt, D. Baker, P. Peylin, R. A. Houghton, R. A. Birdsy, L. Heath, E. T. Sundquist, R. F. Stallard, P. Ciais, P. Moorcroft, J. P. Caspersen, E. Shevliakova, B. Moore, G. Kohlmaier, E. Holland, M. Gloor, M. E. Harmon, S.-M. Fan, J. L. Sarmiento, C. L. Goodale, D. Schimel, C. B. Field
+1998, S. W. Pacala, M. Rees
+2007, D. A. Pace, D. T. Manahan
+2014, G. C. Packard
+1999, D. E. Padgett, J. L. Brown
+1998, D. K. Padilla
+1997, J. D. Paduan, M. S. Cook
+2014, A. W. Paganini, N. A. Miller, J. H. Stillman
+2011, J. Pagel, F. M. Schurr
+1966, R. T. Paine
+1971, R. T. Paine
+1971, R. T. Paine
+1974, R. T. Paine
+1976, R. T. Paine
+1977, R. T. Paine
+1980, R. T. Paine
+1984, R. T. Paine
+1988, R. T. Paine
+2010, Robert T. Paine
+1981, R. T. Paine, S. A. Levin
+1998, R. T. Paine, M. J. Tegner, E. A. Johnson
+2009, E. P. Palkovacs, D. M. Post
+1981, A. R. Palmer
+1982, A. R. Palmer
+1983, A. R. Palmer
+1984, A. R. Palmer
+1984, A. R. Palmer
+1985, A. R. Palmer
+1990, A. R. Palmer
+1990, A. R. Palmer, S. D. Gayron, D. S. Woodruff
+2004, M. Palmer, E. Bernhardt, E. Chornesky, S. Collins, A. Dobson, C. Duke, B. Gold, R. Jacobson, S. Kingsland, R. Kranz, M. Mappin, M. L. Martinez, F. Micheli, J. Morse, M. Pace, M. Pascual, S. Palumbi, O. J. Reichman, A. Simons, A. Townsend, M. Turner
+1984, S. R. Palumbi
+1984, S. R. Palumbi
+1985, S. R. Palumbi
+1986, S. R. Palumbi
+1994, S. R. Palumbi
+1978, M. M. Pamatmat
+2005, J. M. Pandolfi, J. B. C. Jackson, N. Baron, R. H. Bradbury, H. M. Guzman, T. P. Hughes, C. V. Kappel, F. Micheli, J. C. Ogden, H. P. Possingham, E. Sala
+1997, G. Panganiban, S. M. Irvine, C. Lowe, H. Roehl, L. S. Corley, B. Sherbon, J. K. Grenier, J. F. Fallon, J. Kimble, M. Walker, G. A. Wray, B. J. Swalla, M. Q. Martindale, S. B. Carroll
+2010, K. L. Pangle, S. D. Peacor
+2010, M. Panova, J. Boström, T. Hofving, T. Areskoug, A. Eriksson, B. Mehlig, T. Mäkinen, C. André, K. Johannesson
+2008, M. Panova, T. Mäkinen, M. Fokin, C. André, K. Johannesson
+2004, L. M. Pardo, L. E. Johnson
+2005, L. M. Pardo, L. E. Johnson
+2006, L. M. Pardo, L. E. Johnson
+1958, O. H. Paris
+2006, C. Parmesan
+2000, C. Parmesan, T. L. Root, M. R. Willig
+2003, C. Parmesan, G. Yohe
+1995, D. Parpagnoli, G. Chelazzi
+1951, D. A. Parry
+1992, G. J. Parsons, S. M. C. Robinson, R. A. Chandler, L. A. Davidson, M. Lanteigne, M. J. Dadswell
+1997, K. E. Parsons
+2005, P. A. Parsons
+2006, S. N. Patek, J. E. Baio, B. L. Fisher, A. V. Suarez
+2005, S. N. Patek, R. L. Caldwell
+2004, S. N. Patek, W. L. Korff, R. L. Caldwell
+1961, B. Patel, D. J. Crisp
+2003, N. D. Paul, D. Gwynn-Jones
+1998, D. Pauly, V. Christensen, J. Dalsgaard, R. Froese, F. J. Torres
+2005, K. Pauwels, R. Stoks, L. de Meester
+2009, J. L. Payne, A. G. Boyer, J. H. Brown, S. Finnegan, M. Kowalewski, R. A. Krause, S. K. Lyons, C. R. McClain, D. W. McShea, P. M. Novack-Gottshall, F. A. Smith, J. A. Stempien, S. C. Wang
+2007, J. L. Payne, S. Finnegan
+2001, S. D. Peacor, E. E. Werner
+1969, J. Pearce
+2009, T. Pearce, M. LaBarbera
+2009, T. Pearce, M. LaBarbera
+2004, J. S. Pearse, S. J. Lockhart
+2010, Dean E. Pearson
+2004, D. Pech, A. R. Condal, E. Bourget, P.-L. Ardisson
+1999, J. A. Pechenik
+1984, J. A. Pechenik, S. C. Chang, A. Lord
+2005, L. S. Peck
+2009, L. S. Peck, M. S. Clark, S. A. Morley, A. Massey, H. Rossetti
+2006, L. S. Peck, P. Convey, D. K. A. Barnes
+2008, B. L. Peckarsky, P. A. Abrams, D. I. Bolnick, L. M. Dill, J. H. Grabowski, B. Luttbeg, J. L. Orrock, S. D. Peacor, E. L. Preisser, O. J. Schmitz, G. C. Trussell
+1997, M. Pek, P. L. Lutz
+1973, J. A. Percy
+2008, J. Perea, A. Garcia, R. Acero, D. Valerio, G. Gómez
+2015, T. R. Pereira, A. H. Engelen, G. A. Pearson, M. Valero, E. A. Serrão
+2009, K. O. Perez, R. L. Carlson, M. J. Shulman, J. C. Ellis
+2008, E. A. Perotti
+1997, O. L. Petchey, A. Gonzalez, H. B. Wilson
+1984, J. H. Petersen
+1984, J. H. Petersen
+2004, J. K. Petersen, S. Bougrier, A. C. Smaal, P. Garen, S. Robert, J. E. N. Larsen, E. Brummelhuis
+1979, C. H. Peterson
+1979, C. H. Peterson
+1994, C. H. Peterson, R. Black
+2004, C. H. Peterson, R. A. Luettich Jr, F. Micheli, G. A. Skilleter
+2000, C. J. Peterson
+1964, R. E. Peterson
+2008, L. E. Petes, B. A. Menge, F. Chan, M. A. H. Webb
+2008, L. E. Petes, B. A. Menge, A. L. Harris
+2007, L. E. Petes, B. A. Menge, G. D. Murphy
+2008, L. E. Petes, M. E. Mouchka, R. H. Milston-Clements, T. S. Momoda, B. A. Menge
+1978, P. S. Petraitis
+1982, P. S. Petraitis
+1983, P. S. Petraitis
+1987, P. S. Petraitis
+1992, P. S. Petraitis
+2002, P. S. Petraitis
+2004, P. S. Petraitis, S. R. Dudgeon
+2005, P. S. Petraitis, S. R. Dudgeon
+1999, P. S. Petraitis, R. E. Latham
+2003, P. S. Petraitis, E. C. Rhile, S. Dudgeon
+1987, P. S. Petraitis, L. Sayigh
+2014, K. Petrou, S. Trimborn, M. Kühl, P. Ralph
+2011, M. C. Pfaff, G. M. Branch, E. A. Wieters, R. A. Branch, B. R. Broitman
+2008, M. Phifer-Rixey, M. Heckman, G. C. Trussell, P. S. Schmidt
+2003, C. J. M. Philippart, H. M. van Aken, J. J. Beukema, O. G. Bos, G. C. Cadée, R. Dekker
+1975, D. W. Phillips
+1976, D. W. Phillips
+1982, D. W. Phillips, P. Castori
+2002, N. E. Phillips
+2005, N. E. Phillips
+2007, N. E. Phillips
+2008, N. E. Phillips, E. Hutchison
+2011, T. Pickering, P. Quijón
+2009, D. W. Pierce, T. P. Barnett, B. D. Santer, P. J. Gleckler
+2009, D. Pierrot, C. Neill, K. Sullivan, R. Castle, R. Wanninkhof, H. Lüger, T. Johannessen, A. Olsen, R. A. Feely, C. E. Cosca
+2012, S. Pincebourde, E. Sanford, J. Casas, B. Helmuth
+2008, S. Pincebourde, E. Sanford, B. Helmuth
+2009, S. Pincebourde, E. Sanford, B. Helmuth
+2013, S. Pincebourde, E. Sanford, B. Helmuth
+2007, S. Pincebourde, H. Sinoquet, D. Combes, J. Casas
+2010, J. Pineda, F. Porri, V. Starczak, J. Blythe
+2000, J. C. Pinheiro, D. M. Bates
+2003, R. T. Pinker, J. D. Tarpley, I. Laszlo, K. E. Mitchell, P. R. Houser, E. F. Wood, J. C. Schaake, A. Robock, D. Lohmann, B. A. Cosgrove, J. Sheffield, Q. Duan, L. Luo, R. W. Higgins
+2008, E. H. Pinn, R. C. Thompson, S. J. Hawkins
+2011, M. L. Pinsky, O. P. Jensen, D. Ricard, S. R. Palumbi
+2011, M. F. J. Pisaric, J. R. Thienpont, S. V. Kokelj, H. Nesbitt, T. C. Lantz, S. Solomon, J. P. Smol
+1988, T. J. Pitcher, S. H. Lang, J. A. Turner
+1983, T. J. Pitcher, A. E. Magurran
+2008, S. PJ
+2012, S. P. Place, B. A. Menge, G. E. Hofmann
+2008, S. P. Place, M. J. O'Donnell, G. E. Hofmann
+2004, K. Poitrineau, S. P. Brown, M. E. Hochberg
+2000, G. A. Polis, A. L. W. Sears, G. R. Huxel, D. R. Strong, J. Maron
+2013, E. S. Poloczanska, C. J. Brown, W. J. Sydeman, W. Kiessling, D. S. Schoeman, P. J. Moore, K. Brander, J. F. Bruno, L. B. Buckley, M. T. Burrows, C. M. Duarte, B. S. Halpern, J. Holding, C. V. Kappel, M. I. O'Connor, J. M. Pandolfi, C. Parmesan, F. Schwing, S. A. Thompson, A. J. Richardson
+2008, E. S. Poloczanska, S. J. Hawkins, A. J. Southward, M. T. Burrows
+1996, O. A. Pombo, A. Escofet
+2009, J. M. Ponciano, M. L. Taper, B. Dennis, S. R. Lele
+1997, W. F. Ponder, D. R. Lindberg
+2012, A. G. B. Poore, A. H. Campbell, R. A. Coleman, G. J. Edgar, V. Jormalainen, P. L. Reynolds, E. E. Sotka, J. J. Stachowicz, R. B. Taylor, M. A. Vanderklift, J. Emmett Duffy
+2009, A. G. B. Poore, A. H. Campbell, P. D. Steinberg
+1957, M. E. D. Poore, D. N. McVean
+2008, F. Porri, C. D. McQuaid, S. M. Lawrie, S. J. Antrobus
+2006, F. Porri, C. D. McQuaid, S. Radloff
+2006, F. Porri, C. D. McQuaid, S. Radloff
+1985, C. Porter
+2000, E. T. Porter, L. P. Sanford, S. E. Suttles
+2014, S. N. Porter, S. Kaehler, G. M. Branch, K. J. Sink
+1969, W. P. Porter, D. M. Gates
+2009, W. P. Porter, M. Kearney
+1973, W. P. Porter, J. W. Mitchell, W. A. Beckman, C. B. DeWitt
+2002, W. P. Porter, J. L. Sabo, C. R. Tracy, O. J. Reichman, N. Ramankutty
+2009, R. W. Portmann, S. Solomon, G. C. Hegerl
+2001, H. O. Pörtner
+2002, H. O. Pörtner
+2012, H. O. Pörtner
+2008, H. O. Pörtner, A. P. Farrell
+2007, H. O. Pörtner, R. Knust
+1990, H. P. Possingham, J. Roughgarden
+2008, D. M. Post, E. P. Palkovacs, E. G. Schielke, S. I. Dodson
+2013, K. A. Potter, H. Arthur Woods, S. Pincebourde
+2011, A. Power, K. McCrann, D. McGrath, R. O’ Riordan, C. Simkanin, A. Myers
+2006, A. M. Power, J. Delany, D. McGrath, A. A. Myers, R. M. O'Riordan
+1990, M. E. Power
+1992, M. E. Power
+1989, A. K. Prasad, J. R. Koseff
+2012, H. K. Preisler, J. A. Hicke, A. A. Ager, J. L. Hayes
+1991, B. B. Prezelin, M. M. Tilzer, O. Schofield, C. Haese
+2010, R. M. Pringle, D. F. Doak, A. K. Brody, R. Jocqué, T. M. Palmer
+2003, R. M. Pringle, J. K. Webb, R. Shine
+2007, R. M. Pringle, T. P. Young, D. I. Rubenstein, D. J. McCauley
+2014, I. Prusina, G. Sarà, M. De Pirro, Y.-W. Dong, G.-D. Han, B. Glamuzina, G. A. Williams
+2012, J. Pulgar, M. Alvarez, A. Delgadillo, I. Herrera, S. Benitez, J. P. Morales, P. Molina, M. Aldana, V. M. Pulgar
+1991, J. Pullen, M. LaBarbera
+2009, A. S. Pullin, T. M. Knight
+2006, A. S. Pullin, G. B. Stewart
+2013, M. Puri, N. Namboothri, K. Shanker
+1983, F. E. Putz, P. D. Coley, K. Lu, A. Montalvo, A. Aiello
+1973, V. I. Pye, R. C. Newell
+2015, G. H. Pyke
+2008, P. Pyšek, D. M. Richardson, J. Pergl, V. Jarošík, Z. Sixtová, E. Weber
+2007, S. S. Qian, Z. Shen
+2013, Z. Qin, M. J. Buehler
+1999, J.-W. Qiu, P.-Y. Qian
+2002, G. P. Quinn, M. J. Keough
+2014, R Development Core Team
+2008, C. Radford, A. Jeffs, C. Tindle, J. C. Montgomery
+1978, D. G. Raffaelli, R. N. Hughes
+2000, D. G. Raffaelli, H. Moller
+1988, P. T. Raimondi
+1990, P. T. Raimondi
+2000, P. T. Raimondi, S. E. Forde, L. F. Delph, C. M. Lively
+2010, A. Rais, N. Miller, J. H. Stillman
+2007, M. Rajasekharan, T. P. Crowe
+2010, B. C. Rall, O. Vucic-Pestic, R. B. Ehnes, M. Emmerson, U. Brose
+1935, J. A. Ramsay
+1935, J. A. Ramsay
+1997, D. J. Randall, W. Burggren, K. French
+2008, P. Range, M. G. Chapman, A. J. Underwood
+1954, K. P. Rao, T. H. Bullock
+1976, M. B. Rao, P. V. Bhavanarayana
+2007, H. S. Rapoport, R. E. Shadwick
+1997-2014, W. S. Rasband
+1981, M. R. Raupach, A. S. Thom
+2005, J. Raven, K. Caldiera, H. Elderfield, O. Hoegh-Guldberg, P. Liss, U. Riebesell, J. Shepherd, C. Turley, A. Watson
+1967, K. R. H. Read, K. B. Cumming
+1977, L. A. Real
+2004, I. Reda, A. Andreas
+2009, G. T. Reeves, S. E. Fraser
+2013, M. D. Regan, J. M. Gosline, J. G. Richards
+2001, D. Reichow, M. J. Smith
+1987, D. G. Reid
+1989, D. G. Reid
+1996, D. G. Reid
+2002, D. G. Reid
+2006, D. G. Reid, K. Lal, J. Mackenzie-Dodds, F. Kaligis, D. T. J. Littlewood, S. T. Williams
+2009, M. A. Reidenbach, J. R. Koseff, M. A. R. Koehl
+1979, T. E. Reimchen
+1982, T. E. Reimchen
+1989, T. E. Reimchen
+1978, K. Reise
+1985, K. Reise
+2009, J. Reiss, J. R. Bridle, J. M. Montoya, G. Woodward
+2005, T. B. H. Reusch, A. Ehlers, A. Hämmerli, B. Worm
+1999, T. B. H. Reusch, S. L. Williams
+2002, R. W. Reynolds, N. A. Rayner, T. M. Smith, D. C. Stokes, W. Wang
+2014, E. L. Rezende, L. E. Castañeda, M. Santos
+2011, E. L. Rezende, M. Tejedo, M. Santos
+1998, A. Ricciardi, E. Bourget
+1935, L. Rice, D. I. Rasmussen, V. E. Shelford, A. O. Weese, A. MacLean, H. C. Markus
+2001, W. R. Rice, A. K. Chippindale
+1993, D. V. Richards, G. E. Davis
+1974, A. M. M. Richardson
+2000, D. M. Richardson, P. Pysek, M. Rejmanek, M. G. Barbour, F. D. Panetta, C. J. West
+1934, F. Richardson
+1990, T. D. Richardson, K. M. Brown
+1992, T. D. Richardson, K. M. Brown
+2014, N. B. Richoux, R. T. Ndhlovu
+1952, E. F. Ricketts, J. Calvin
+2009, H. P. Riessen, J. B. Trevett-Smith
+2007, J. A. Riffell, R. K. Zimmer
+2011, H. U. Riisgård, B. H. Jørgensen, K. Lundgreenm, F. Storti, J. H. Walther, K. E. Meyer, P. S. Larsen
+2003, H. U. Riisgård, C. Kittner, D. F. Seerup
+2004, G. Rilov, Y. Benayahu, A. Gasith
+2008, G. Rilov, S. E. Dudas, B. A. Menge, B. A. Grantham, J. Lubchenco, D. R. Schiel
+2006, G. Rilov, D. R. Schiel
+2011, G. Rilov, D. R. Schiel
+1986, B. Rinkevich
+1993, B. Rinkevich
+2009, E. G. Ritchie, C. N. Johnson
+2006, M. Rius, C. D. McQuaid
+2009, M. Rius, C. D. McQuaid
+2011, G. A. Rivera-Ingraham, F. Espinosa, J. C. García-Gómez
+2003, K. Robert, M. Thompson
+1999, R. Robert, A. Gérard
+2000, C. M. Roberts
+1997, D. A. Roberts, G. E. Hofmann, G. N. Somero
+1980, D. J. Roberts, R. N. Hughes
+1992, A. Robertson
+2007, T. B. Robinson, G. M. Branch, C. L. Griffiths, A. Govender, P. A. R. Hockey
+2005, B. H. Robison, K. R. Reisenbichler, R. E. Sherlock
+2002, C. Robles, R. Desharnais
+1995, C. Robles, R. Sherwood-Stephens, M. Alvarado
+1990, C. Robles, D. Sweetnam, J. Eminike
+1997, C. D. Robles
+2007, A. Robson, R. Wilson, C. G. de Leaniz
+2010, A. A. Robson, C. G. De Leaniz, R. P. Wilson, L. G. Halsey
+2010, A. A. Robson, C. G. De Leaniz, R. P. Wilson, L. G. Halsey
+2014, A. A. Robson, R. P. Mansfield
+2000, R. Rochette, L. M. Dill
+2004, R. Rochette, T. C. Grand
+2006, D. L. Rodland, B. R. Schone, S. Helama, J. K. Nielsen, S. Baier
+2008, L. M. Roediger, T. F. Bolton
+1968, D. A. Rogers
+2014, R. L. Rognstad, T. J. Hilbish
+2014, R. L. Rognstad, D. S. Wethey, T. J. Hilbish
+2013, J. Rojas, S. Castillo, J. Escobar, J. Shinen, F. Bozinovic
+2014, J. M. Rojas, S. B. Castillo, G. Folguera, S. Abades, F. Bozinovic
+1977, W. Roland, R. A. Ring
+2011, G. Q. Romero, P. A. P. Antiqueira, J. Koricheva
+1991, W. H. Romme, M. G. Turner
+2007, J. Ronn, M. Katvala, G. Arnqvist
+2008, J. R. Rooker, D. H. Secor, G. De Metrio, R. Schloesser, B. A. Block, J. D. Neilson
+2008, M. Roper, R. E. Pepper, M. P. Brenner, A. Pringle
+2008, R. Rosa, B. A. Seibel
+2010, M. S. Rosenberg
+2009, J. J. Rosenthal, B. A. Seibel, A. Dymowska, F. Bezanilla
+1978, J. Rosewater
+2009, R. Rosland, Ø. Strand, M. Alunno-Bruscia, C. Bacher, T. Strohmeier
+2013, J. H. Rosman, M. W. Denny, R. B. Zeller, S. G. Monismith, J. R. Koseff
+2010, J. H. Rosman, S. G. Monismith, M. W. Denny, J. R. Koseff
+1969, A. Ross
+1985, S. T. Ross, W. J. Matthews, A. A. Echelle
+1968, T. L. Ross
+2008, F. Rossi, B. Gribsholt, J. J. Middelburg, C. Heip
+2001, S. Rossi, M. J. Snyder
+1986, J. Roughgarden
+1986, J. Roughgarden, J. Diamond
+1985, J. Roughgarden, Y. Iwasa, C. Baxter
+1999, F. Rovero, R. N. Hughes, G. Chelazzi
+1999, F. Rovero, R. N. Hughes, G. Chelazzi
+1999, F. Rovero, R. N. Hughes, G. Chelazzi
+2000, F. Rovero, R. N. Hughes, G. Chelazzi
+1995, R. Rowan, N. Knowlton
+2004, S. H. Roxburgh, K. Shea, J. B. WIlson
+2003, K. Roy, A. G. Collins, B. J. Becker, E. Begovic, J. M. Engle
+2002, K. Roy, D. Jablonski, J. W. Valentine
+2012, E. A. Roznik, R. A. Alford
+1977, D. I. Rubenstein, M. A. R. Koehl
+1986, R. Ruderich, H. H. Fernholz
+2000, J.-C. Ruel
+1999, J. J. Ruel, M. P. Ayres
+2008, M. Ruiz, E. Tarifeno, A. Llanos-Rivera, C. Padget, B. Campos
+2003, S. D. Rundle, J. I. Spicer, R. A. Coleman, J. Vosper, J. Soane
+2007, A. S. Rundus, D. H. Owings, S. S. Joshi, E. Chinn, N. Giannini
+2009, L. Ruokolainen, A. Lindén, V. Kaitala, M. S. Fowler
+2012, B. Russell, S. Connell
+2008, G. D. Ruxton, S. Humphries
+2013, G. D. Ruxton, M. Neuhäuser
+2005, J. P. Ryan, F. P. Chavez, J. G. Bellingham
+2008, J. L. Sabo, D. M. Post
+1994, N. R. Sackville Hamilton
+2007, R. D. Sagarin, R. F. Ambrose, B. J. Becker, J. M. Engle, J. S. Kido, S. F. Lee, C. M. Miner, S. N. Murray, P. T. Raimondi, D. Richards, C. Roe
+1999, R. D. Sagarin, J. Barry, S. E. Gilman, C. H. Baxter
+1991, T. Sakiyama, S. Han, A. Torii, O. Miyawaki, T. Yano
+2000, O. E. Sala, F. S. Chapin , J. J. Armesto, E. Berlow, J. Bloomfield, R. Dirzo, E. Huber-Sanwald, L. F. Huenneke, R. B. Jackson, A. Kinzig, R. Leemans, D. M. Lodge, H. A. Mooney, M. n. Oesterheld, N. L. Poff, M. T. Sykes, B. H. Walker, M. Walker, D. H. Wall
+2010, N. Salama, T. Kishimoto, H. Kanayama
+2005, D. Salas-Mélia, F. Chauvin, M. Déqué, H. Douville, J. F. Guérémy, P. Marquet, S. Planton, J. F. Royer, S. Tyteca
+1977, P. F. Sale
+1992, B. Salvat
+2004, P. W. Sammarco, A. D. Atchison, G. S. Boland
+2009, B. Sandel, A. B. Smith
+1991, B. M. Sanders, C. Hope, V. M. Pascoe, L. S. Martin
+1993, S. L. Sanderson, R. Wassersug
+1967, E. E. Sandison
+2007, K. Sand-Jensen
+1999, E. Sanford
+2002, E. Sanford
+2002, E. Sanford
+1994, E. Sanford, D. Bermudez, M. D. Bertness, S. D. Gaines
+2011, E. Sanford, M. W. Kelly
+2001, E. Sanford, B. A. Menge
+2003, E. Sanford, M. S. Roth, G. C. Johns, J. P. Wares, G. N. Somero
+2008, E. Sanford, D. S. Swezey
+2009, E. Sanford, D. J. Worth
+2010, E. Sanford, D. J. Worth
+2009, A. San-Martín, J. Rovirosa, K. Gaete, A. Olea, J. Ampuero
+2004, G. Santini, M. T. Burrows, G. Chelazzi
+1999, G. Santini, M. De Pirro, G. Chelazzi
+2013, G. Santini, A. Ngan, M. T. Burrows, G. Chelazzi, G. A. Williams
+2014, G. Santini, A. Ngan, M. T. Burrows, G. Chelazzi, G. A. Williams
+2011, G. Santini, A. Ngan, G. Williams
+2000, G. Santini, G. A. Williams, G. Chelazzi
+2011, M. Santos, L. E. Castañeda, E. L. Rezende
+2007, R. Santos, P. Flammang
+2008, R. Santos, P. Flammang
+1983, P. H. Santschi, P. Bower, U. P. Nyffeler, A. Azevedo, W. S. Broecker
+2011, G. Sara, M. Kearney, B. Helmuth
+2011, G. Sarà, M. Kearney, B. Helmuth
+2008, G. Sara, A. Pusceddu
+2014, G. Sarà, A. Rinaldi, V. Montalto
+2008, G. Sarà, C. Romano, J. Widdows, F. J. Staff
+2007, B. L. Sargeant
+1990, M. Saur
+2007, C. Saurel, J. C. Gascoigne, M. R. Palmer, M. J. Kaiser
+2009, J. A. Sawyer, M. Zuschin, B. Riedel, M. Stachowitsch
+2001, D. F. Sax
+2000, D. F. Sax, J. H. Brown
+2005, D. F. Sax, B. P. Kinlan, K. F. Smith
+2013, G. Schaefer, M. Zimmer
+2008, M. Schaeffer, T. Kram, M. Meinshausen, D. P. van Vuuren, W. L. Hare
+2004, C. Schar, P. L. Vidale, D. Luthi, C. Frei, C. Haberli, M. A. Liniger, C. Appenzeller
+2008, R. E. Scheibling, D. A. Lyons, C. B. T. Sumi
+2008, R. S. Schick, S. R. Loarie, F. Colchero, B. D. Best, A. Boustany, D. A. Conde, P. N. Halpin, L. N. Joppa, C. M. McClellan, J. S. Clark
+2004, D. R. Schiel
+2006, D. R. Schiel, M. S. Foster
+2007, D. R. Schiel, S. A. Lilley
+2004, D. R. Schiel, J. R. Steinbeck, M. S. Foster
+2006, D. R. Schiel, S. A. Wood, R. A. Dunmore, D. I. Taylor
+2010, H. Schielzeth
+2013, H. Schielzeth, S. Nakagawa
+2007, T. A. Schlacher, L. THompson, S. Price
+1984, G. H. Schmidt, G. F. Warner
+2007, P. S. Schmidt, M. Phifer-Rixey, G. M. Taylor, J. Christner
+2001, P. S. Schmidt, D. M. Rand
+1984, K. Schmidt-Nielsen
+1971, K. Schmidt-Nielsen, C. R. Taylor, A. Shkolnik
+1972, K. Schmidt-Nielsen, C. R. Taylor, A. Shkolnik
+1987, R. J. Schmitt
+2003, R. J. Schmitt, S. J. Holbrook
+2007, O. J. Schmitz
+2008, O. J. Schmitz
+2009, O. J. Schmitz
+2010, O. J. Schmitz
+2008, O. J. Schmitz, J. H. Grabowski, B. L. Peckarsky, E. L. Preisser, G. C. Trussell, J. R. Vonesh
+2010, O. J. Schmitz, D. Hawlena, G. C. Trussell
+2004, O. J. Schmitz, V. Krivan, O. Ovadia
+2008, K. R. Schneider
+2007, K. R. Schneider, B. Helmuth
+2007, K. R. Schneider, B. S. T. Helmuth
+2010, K. R. Schneider, L. E. Van Thiel, B. Helmuth
+2005, K. R. Schneider, D. S. Wethey, B. S. T. Helmuth, T. J. Hilbish
+2001, S. H. Schneider, T. L. Root
+1983, T. W. Schoener
+1985, T. W. Schoener
+2011, T. W. Schoener
+2009, N. M. Schoeppner, R. A. Relyea
+1983, S. C. Schroeter, J. Dixon, J. Kastendiek
+2011, M. S. Schuler, M. W. Sears, M. J. Angilletta
+2009, D. M. Schulte, R. P. Burke, R. N. Lipcius
+2014, P. M. Schulte
+2011, P. M. Schulte, T. M. Healy, N. A. Fangue
+2007, M. P. Schultz
+2014, D. B. Schwab, J. D. Allen
+1996, F. B. Schwing, M. O'Farrell, J. M. Steger, K. Baltz
+2010, A. G. Scoville, M. E. Pfrender
+2006, R. Scrosati, C. Heaven
+2011, R. Seabra, D. S. Wethey, A. M. Santos, F. P. Lima
+1973, R. R. Seapy, W. J. Hoppe
+1982, R. R. Seapy, D. S. Littler
+2015, M. W. Sears, M. J. Angilletta Jr
+1991, K. P. Sebens
+2002, K. P. Sebens
+2003, K. P. Sebens, B. Helmuth, E. Carrington, B. Agius
+2009, S. Secor
+1969, R. Seed
+1969, R. Seed
+1992, R. Seed, T. H. Suchanek
+2011, D. A. Seekell, S. R. Carpenter, M. L. Pace
+1986, R. H. Seeley
+1956, E. Segal
+1956, E. Segal
+1962, E. Segal, P. A. Dehnel
+1953, E. Segal, K. P. Rao, T. W. James
+2007, B. A. Seibel, A. Dymowska, J. Rosenthal
+1990, H. Seno
+1992, S. O. Sergievsky
+2008, J. Serôdio, S. Vieira, S. Cruz
+1992, J.-O. Seyer
+1989, R. J. Seymour, M. J. Tegner, P. K. Dayton, P. E. Parnell
+2014, S. A. Shaffer, C. A. Clatterbuck, E. C. Kelsey, A. D. Naiman, L. C. Young, E. A. VanderWerf, P. Warzybok, R. Bradley, J. Jahncke, G. C. Bower
+1993, A. Shafik
+2014, A. Shanks, A. Walser, L. Shanks
+1998, A. L. Shanks
+2002, A. L. Shanks
+2010, A. L. Shanks, S. G. Morgan, J. MacMahan, A. J. H. M. Reniers
+1986, A. L. Shanks, W. G. Wright
+1987, A. L. Shanks, W. G. Wright
+2008, R. G. Shaw, C. J. Geyer, S. Wagenius, H. H. Hangelbroek, J. R. Etterson
+2014, K. S. Sheldon, J. J. Tewksbury
+1935, V. E. Shelford, A. O. Weese, L. Rice, D. I. Rasmussen, A. Maclean
+2010, A. O. Shelton
+2010, A. O. Shelton
+2008, Y. Shen, T. Zhang, P. F. Hoffman
+2009, M. J. Sheriff, C. J. Krebs, R. Boonstra
+2010, D. Shi, Y. Xu, B. M. Hopkinson, F. M. M. Morel
+1986, J. M. Shick, E. Gnaiger, J. Widdows, B. L. Bayne, A. De Zwaan
+1988, J. M. Shick, J. Widdows, E. Gnaiger
+2008, J. L. Shields, P. Barnes, D. D. Heath
+2010, J. L. Shields, J. W. Heath, D. D. Heath
+2009, J. Shimeta
+1991, J. Shimeta, P. A. Jumars
+2009, J. S. Shinen, S. G. Morgan
+2009, J. S. Shinen, S. G. Morgan, A. L. Chan
+1978, T. C. Shirley, G. J. Denoux, W. B. Stickle
+1950, J. A. Shotwell
+1990, J. Shukla, C. Nobre, P. Sellers
+1982, S. E. Shumway, I. d. Marsden
+2006, J. Sibert, J. Hampton, P. Kleiber, M. Maunder
+1981, J. B. Sibley
+1980, J. B. Sibley, E. W. Huffman
+2007, R. M. Sibly, J. H. Brown
+2004, C. E. Siddon, J. D. Witman
+1988, O. Siebeck
+2008, N. Silbiger, P. Munguia
+2011, B. R. Silliman, M. D. Bertness, A. H. Altieri, J. N. Griffin, M. C. Bazterrica, F. J. Hidalgo, C. M. Crain, M. V. Reyna
+2009, A. Silva, S. Brazão, S. Hawkins, R. Thompson, D. Boaventura
+2008, A. C. F. Silva, S. J. Hawkins, D. M. Boaventura, R. C. Thompson
+2005, J. Silva, R. Santos, M. L. Calleja, C. M. Duarte
+1983, N. R. Silvester
+1988, N. R. Silvester
+1982, D. Simberloff
+2003, W. B. Simison, D. R. Lindberg
+1975, B. B. Simpson
+2004, B. J. Sinclair, D. J. Marshall, S. Singh, S. L. Chown
+2006, E. L. E. Sinclair, M. B. Thompson, F. Seebacher
+2010, B. Sinervo, F. Mendez-de-la-Cruz, D. B. Miles, B. Heulin, E. Bastiaans, M. Villagran-Santa Cruz, R. Lara-Resendiz, N. Martinez-Mendez, M. L. Calderon-Espinosa, R. N. Meza-Lazaro, H. Gadsden, L. J. Avila, M. Morando, I. J. De la Riva, P. V. Sepulveda, C. F. D. Rocha, N. Ibarguengoytia, C. A. Puntriano, M. Massot, V. Lepetz, T. A. Oksanen, D. G. Chapple, A. M. Bauer, W. R. Branch, J. Clobert, J. W. Sites, Jr
+2000, B. Sinervo, E. Svensson, T. Comendant
+2005, K. J. Sink, G. M. Branch, J. M. Harris
+2000, S. Skatter, B. Kucera
+2007, S. Slabber, M. R. Worland, H. P. Leinaas, S. L. Chown
+2009, S. Slos, L. D. Meester, R. Stoks
+2008, S. Slos, R. Stoks
+2008, D. A. Smale, D. K. A. Barnes, K. P. P. Fraser, L. S. Peck
+2009, D. A. Smale, T. Wernberg
+2011, D. A. Smale, T. Wernberg, L. S. Peck, D. K. A. Barnes
+2010, I. Smallegange, J. van der Meer
+2008, I. M. Smallegange, B. Hidding, J. M. A. Eppenga, J. van der Meer
+2010, D. L. Smee, M. C. Ferner, M. J. Weissburg
+2008, D. L. Smee, M. J. Weissburg
+1991, A. M. Smith
+1992, A. M. Smith
+1993, A. M. Smith, W. M. Kier, S. Johnsen
+2002, A. M. Smith, M. C. Morin
+2001, D. C. Smith
+2009, G. K. Smith, F. Guichard, F. Petrovic, C. W. McKindsey
+2009, J. B. Smith, S. H. Schneider, M. Oppenheimer, G. W. Yohe, W. Hare, M. D. Mastrandrea, A. Patwardhan, I. Burton, J. Corfee-Morlot, C. H. D. Magadza, H.-M. Füssel, A. B. Pittock, A. Rahman, A. Suarez, J.-P. van Ypersele
+1955, J. E. Smith, G. E. Newell
+1940, J. L. B. Smith
+2006, J. R. Smith, P. Fong, R. F. Ambrose
+1983, J. R. Smith, D. R. Strehlow
+2015, K. E. Smith, A. Brown, S. Thatje
+2011, S. A. Smith, N. G. Wilson, F. E. Goetz, C. Feehery, S. C. S. Andrade, G. W. Rouse, G. Giribet, C. W. Dunn
+2010, V. H. Smith, B. S. M. Sturm, F. J. deNoyelles, S. A. Billings
+1973, W. K. Smith, P. C. Miller
+1991, R. W. Snaydon
+2000, P. V. R. Snelgrove, M. C. Austen, G. Boucher, C. Heip, P. A. Hutchings, G. M. King, I. Koike, P. J. D. Lambshead, C. R. Smith
+2000, P. D. Sniegowski, P. J. Gerrish, T. Johnson, A. Shaver
+2010, J. M. Sobel, G. F. Chen, L. R. Watt, D. W. Schemske
+2009, J. Soberón, M. Nakamura
+1996, A. D. Sokal
+1995, R. R. Sokal, F. J. Rohlf
+2000, I. M. Sokolova, V. J. Berger
+2000, I. M. Sokolova, C. Bock, H. O. Pörtner
+2012, I. M. Sokolova, M. Frederich, R. Bagwe, G. Lannig, A. A. Sukhotin
+2000, I. M. Sokolova, A. I. Granovitch, V. J. Berger, K. Johannesson
+2003, I. M. Sokolova, H.-O. Pörtner
+2001, I. M. Sokolova, H. O. Pörtner
+2004, M. Solan, B. J. Cardinale, A. L. Downing, K. A. M. Engelhardt, J. L. Ruesink, D. S. Srivastava
+1951, M. E. Solomon
+2007, S. Solomon, IPCC
+2007, S. Solomon, D. Qin, M. Manning, R. B. Alley, T. Berntsen, N. L. Bindoff, Z. Chen, A. Chidthaisong, J. M. Gregory, G. C. Hegerl, M. Heimann, B. Hewitson, B. J. Hoskins, F. Joos, J. Jouzel, V. Kattsov, U. Lohmann, T. Matsuno, M. Molina, N. Nicholls, J. Overpeck, G. Raga, V. Ramaswamy, J. Ren, M. Rusticucci, R. Somerville, T. F. Stocker, P. Whetton, R. A. Wood, D. Wratt
+2002, G. N. Somero
+2005, G. N. Somero
+2010, G. N. Somero
+2011, G. N. Somero
+2005, G. N. Somero, R. K. Suarez
+1991, F. E. Sorensen, D. R. Lindberg
+2003, J. G. Sørensen, T. N. Kristensen, V. Loeschcke
+2004, C. J. Sorte, G. E. Hofmann
+2005, C. J. B. Sorte, G. E. Hofmann
+2013, C. J. B. Sorte, I. Ibáñez, D. M. Blumenthal, N. A. Molinari, L. P. Miller, E. D. Grosholz, J. M. Diez, C. M. D'Antonio, J. D. Olden, S. J. Jones, J. S. Dukes
+2011, C. J. B. Sorte, S. J. Jones, L. P. Miller
+2005, E. E. Sotka
+2006, E. E. Sotka, S. R. Palumbi
+2012, L. L. Sousa, R. Seabra, D. S. Wethey, R. Xavier, N. Queiroz, S. Zenboudji, F. P. Lima
+1979, W. P. Sousa
+1979, W. P. Sousa
+2001, W. P. Sousa
+1985, W. P. Sousa, J. H. Connell
+1958, A. J. Southward
+2014, A. Spanos
+2011, B. Sparrow, J. Liu, D. M. Wegner
+1994, H. C. Spatz, T. Speck
+2000, H.-C. Spatz, F. Bruechert
+1994, T. Speck
+2001, M. Speidel, C. D. G. Harley, M. J. Wonham
+1965, P. Spencer Davies
+1966, P. Spencer Davies
+1966, P. Spencer Davies
+1967, P. Spencer Davies
+1969, P. Spencer Davies
+1970, P. Spencer Davies
+1999, G. E. Spencer, N. I. Syed, K. Lukowiak
+2011, M. Spencer, S. N. R. Birchenough, N. Mieszkowska, L. A. Robinson, S. D. Simpson, M. T. Burrows, E. Capasso, P. Cleall-Harding, J. Crummy, C. Duck, D. Eloire, M. Frost, A. J. Hall, S. J. Hawkins, D. G. Johns, D. W. Sims, T. J. Smyth, C. L. J. Frid
+2008, J. H. Sperry, P. J. Weatherhead
+1982, T. M. Spight
+1976, T. M. Spight, J. Emlen
+1991, S. Sponaugle
+1991, S. Sponaugle, M. LaBarbera
+2014, D. J. Staaf, W. F. Gilly, M. W. Denny
+1992, P. B. Stacey, M. Taper
+2008, J. J. Stachowicz, R. J. Best, M. E. S. Bracken, M. H. Graham
+2007, J. J. Stachowicz, J. F. Bruno, J. E. Duffy
+2006, J. J. Stachowicz, J. E. Byrnes
+2005, R. Stafford, M. Davies
+2004, R. Stafford, M. S. Davies
+2005, R. Stafford, M. S. Davies
+2012, R. Stafford, M. S. Davies, G. A. Williams
+2012, R. Stafford, M. S. Davies, G. A. Williams
+2015, R. Stafford, T. P. T. Ng, G. A. Williams, M. S. Davies
+2011, R. Stafford, G. A. Williams, M. S. Davies
+1999, A. E. Staikou
+2014, J. Stanton-Geddes, C. G. de Freitas, C. de Sales Dambros
+2014, S. Starko, B. Z. Claman, P. T. Martone
+1990, M. Starr, J. H. Himmelman, J.-C. Therriault
+1877, R. E. C. Stearns
+1989, S. C. Stearns
+1980, B. E. Steele, C. Harrold, J. S. Pearse
+1996, M. A. Steele
+1984, M. E. Steele
+1984, M. E. Steele
+2005, C. N. Steffani, G. M. Branch
+1979, A. L. Steigen
+2004, J. H. Steiger
+2009, U. K. Steiner, J. Van Buskirk
+1998, R. S. Steneck
+1994, R. S. Steneck, M. N. Dethier
+2004, E. Stenseng
+2005, E. Stenseng, C. E. Braby, G. N. Somero
+2005, P. A. Stephens, S. W. Buskirk, G. D. Hayward, C. Martínez Del Rio
+2006, P. A. Stephens, S. W. Buskirk, C. Martínez del Rio
+2008, A. E. Stephenson, J. J. DeYoreo, L. Wu, K. J. Wu, J. Hoyer, P. M. Dove
+2009, E. H. Stephenson, R. S. Steneck, R. H. Seeley
+1949, T. A. Stephenson, A. Stephenson
+1961, T. A. Stephenson, A. Stephenson
+1972, T. A. Stephenson, A. Stephenson
+2007, M. Stevens, C. A. Parraga, I. C. Cuthill, J. C. Partridge, T. S. Troscianko
+1985, R. D. Stevenson
+1985, R. D. Stevenson
+2010, G. Stewart
+2006, H. L. Stewart
+2011, H. L. Stewart, K. H. Britton-Simmons
+2009, H. L. Stewart, J. P. Fram, D. C. Reed, S. L. Williams, M. A. Brzezinski, S. MacIntyre, B. Gaylord
+1989, L. A. Stewart, F. G. Dixon
+1984, H. B. Stich, W. Lampert
+1987, W. B. Stickle, B. L. Bayne
+2010, W. B. Stickle, M. Lindeberg, S. D. Rice
+2015, W. B. Stickle, M. Lindeberg, S. D. Rice
+1985, W. B. Stickle, M. N. Moore, B. L. Bayne
+1996, J. Stillman, G. Somero
+2002, J. H. Stillman
+2003, J. H. Stillman
+2000, J. H. Stillman, G. N. Somero
+2009, R. C. Stillwell, C. W. Fox
+1970, J. Stimson
+1973, J. Stimson
+1968, J. S. Stimson
+2009, A. R. Stine, P. Huybers, I. Y. Fung
+1982, H. P. Stirling
+1986, L. J. Stocker
+1999, M. D. Stokes, G. N. Somero
+2008, M. Stomp, M. A. van Dijk, H. M. J. van Overzee, M. T. Wortel, C. A. M. Sigon, M. Egas, H. Hoogveld, H. J. Gons, J. Huisman
+1999, J. R. Stone
+2004, K. B. Storey, J. M. Storey
+2010, J. J. Storm, S. P. Lima
+1966, W. J. Stower, J. F. Griffiths
+2015, A. St-Pierre, P. Gagnon
+2002, M. Strasser
+M. F. Strathmann
+2007, M. F. Strathmann, R. R. Strathmann
+2008, S. Y. Strauss, J. A. Lau, T. W. Schoener, P. Tiffin
+1992, D. R. Strong
+1968, J. W. Struhsaker
+2005, S. Sturtz, U. Ligges, A. Gelman
+1990, R. K. Suarez, J. R. B. Lighton, C. D. Moyes, G. S. Brown, C. L. Gass, P. W. Hochachka
+1978, T. H. Suchanek
+1979, T. H. Suchanek
+1981, T. H. Suchanek
+1997, T. H. Suchanek, J. B. Geller, B. R. Kreiser, J. B. Mitton
+1984, H. C. Summerson, C. H. Peterson
+2014, J. M. Sunday, A. E. Bates, M. R. Kearney, R. K. Colwell, N. K. Dulvy, J. T. Longino, R. B. Huey
+2010, A. Sundelöf, S. R. Jenkins, C. J. Svensson, J. Delany, S. J. Hawkins, P. Åberg
+1970, J. P. Sutherland
+1974, J. P. Sutherland
+1990, J. P. Sutherland
+2009, M. Suzuki, K. Saruwatari, T. Kogure, Y. Yamamoto, T. Nishimura, T. Kato, H. Nagasawa
+2009, R. Svanbäck, M. Pineda-Krch, M. Doebeli
+2004, C. J. Svensson, S. R. Jenkins, S. J. Hawkins, A. A. Myers, P. Range, J. Paula, R. M. O'Riordan, P. Aberg
+2001, E. Svensson, B. Sinervo, T. Comendant
+1997, K. M. Swadling, J. A. E. Gibson, D. A. Ritz, P. D. Nichols, D. E. Hughes
+1963, W. C. Swinbank
+1982, D. D. Swinbanks
+2014, W. J. Sydeman, M. García-Reyes, D. S. Schoeman, R. R. Rykaczewski, S. A. Thompson, B. A. Black, S. J. Bograd
+2013, W. J. Sydeman, J. A. Santora, S. A. Thompson, B. Marinovic, E. D. Lorenzo
+2011, F. Sylvester, O. Kalaci, B. Leung, A. Lacoursiere-Roussel, C. C. Murray, F. M. Choi, M. A. Bravo, T. W. Therriault, H. J. MacIsaac
+2009, P. L. Szathmary, B. Helmuth, D. S. Wethey
+2013, M. Tagliarolo, J. Grall, L. Chauvaud, J. Clavier
+1994, C.-F. Tai, L. U. Hatch, M. P. Masser, O. J. Cacho, D. G. Hoffman
+1994, M. M. Tai
+2008, H. Y. Tan, T. W. Ng
+2007, H. Y. Tan, T. W. Ng, O. W. Liew
+2009, M. Tan, G. Jones, G. Zhu, J. Ye, T. Hong, S. Zhou, S. Zhang, L. Zhang
+2006, M. O. Tanaka, R. C. Maia
+1998, K. W. Tang, H. G. Dam, L. R. Fienberg
+2009, J. E. Tanner, T. P. Hughes, J. H. Connell
+1925, A. G. Tansley, R. S. Adamson
+2009, G. J. Tattersall, D. V. Andrade, A. S. Abe
+2010, D. I. Taylor, D. R. Schiel
+2009, G. M. Taylor, N. Keyghobadi, P. S. Schmidt
+2003, J. R. A. Taylor, W. M. Kier
+1999, P. H. Taylor, S. D. Gaines
+2006, C. Tebaldi, K. Hayhoe, J. Arblaster, G. Meehl
+2005, C. Tebaldi, R. L. Smith, D. Nychka, L. O. Mearns
+1995, M. J. Tegner, P. K. Dayton, P. B. Edwards, K. L. Riser
+1997, M. J. Tegner, P. K. Dayton, P. B. Edwards, K. L. Riser
+2003, A. Tengberg, J. Hovdenes, D. Barranger, O. Brocandel, R. Diaz, J. Sarkkula, C. Huber, A. Stangelmayer
+2011, S. Tepler, K. Mach, M. Denny
+2014, C. K. Tepolt, G. N. Somero
+2011, J. S. Terblanche, A. A. Hoffmann, K. A. Mitchell, L. Rako, P. C. le Roux, S. L. Chown
+2009, C. P. terHorst, S. R. Dudgeon
+2010, C. P. terHorst, T. E. Miller, D. R. Levitan
+2007, P. R. Teske, N. P. Barker, C. D. McQuaid
+1945, A. R. Test
+2008, J. J. Tewksbury, R. B. Huey, C. A. Deutsch
+2008, J. J. Tewksbury, K. M. Reagan, N. J. Machnicki, T. A. Carlo, D. C. Haak, A. L. C. Peñaloza, D. J. Levey
+1985, V. M. Thain, J. F. Thain, J. A. Kitching
+2012, J. S. Thaler, S. H. McArt, I. Kaplan
+2007, D. W. Theiltges, C. Buschbaum
+2008, K. M. Thibault, J. H. Brown
+2009, D. W. Thieltges, I. Saldanha, T. L. F. Leun, R. Poulin
+1998, J. C. Thomason, J. M. Hills, A. S. Clare, A. Neville, M. Richardson
+2008, D. W. J. Thompson, K. J. J, J. M. Wallace, P. D. Jones
+2005, R. Thompson, P. Moschella, S. Jenkins, T. Norton, S. J. Hawkins
+2004, R. C. Thompson, T. A. Norton, S. J. Hawkins
+2000, R. C. Thompson, M. F. Roberts, T. A. Norton, S. J. Hawkins
+1999, R. C. Thompson, M. L. Tobin, S. J. Hawkins, T. A. Norton
+2013, R. M. Thompson, J. Beardall, J. Beringer, M. Grace, P. Sardina
+1994, T. L. Thompson, E. P. Glenn
+2013, J. Thomsen, I. Casties, C. Pansch, A. Körtzinger, F. Melzner
+2014, M. S. Thomsen, J. E. Byers, D. R. Schiel, J. F. Bruno, J. D. Olden, T. Wernberg, B. R. Silliman
+2015, J. A. Thomson, D. A. Burkholder, M. R. Heithaus, J. W. Fourqurean, M. W. Fraser, J. Statton, G. A. Kendrick
+2007, C. Thornber
+2003, C. S. Thornber, S. D. Gaines
+2008, C. S. Thornber, E. Jones, J. J. Stachowicz
+2004, C. S. Thornber, B. P. Kinlan, M. H. Graham, J. J. Stachowicz
+2015, J. Thyrring, S. Rysgaard, M. E. Blicher, M. K. Sejr
+2014, P. Tiffin, J. Ross-Ibarra
+1977, D. Tilman
+1985, D. Tilman
+1999, D. Tilman
+1997, D. Tilman, C. L. Lehman, C. Yin
+1991, D. Tilman, D. Wedin
+1976, D. Titman
+1964, K. M. Tittle
+2003, C. D. Todd
+2006, C. D. Todd, P. J. C. Phelan, B. E. Weinmann, A. R. Gude, C. Andrews, D. M. Paterson, M. E. Lonergan, G. Miron
+2002, L. Tomanek
+2005, L. Tomanek
+2008, L. Tomanek
+2010, L. Tomanek
+2011, L. Tomanek
+2002, L. Tomanek, B. Helmuth
+2003, L. Tomanek, E. Sanford
+1999, L. Tomanek, G. N. Somero
+2000, L. Tomanek, G. N. Somero
+2010, L. Tomanek, M. J. Zuzow
+2012, L. Tomanek, M. J. Zuzow, L. Hitt, L. Serafini, J. J. Valenzuela
+2008, P. E. Tomatis, S. M. Fabiane, F. Simona, P. Carloni, B. J. Sutton, A. J. Vila
+2004, C. B. Toner, R. Ball
+2007, B. D. Toohey, G. A. Kendrick, E. S. Harvey
+2002, J. E. Toro, R. J. Thompson, D. J. Innes
+1998, C. Torrence, G. P. Compo
+2008, P. Torres, A. Alfiado, D. Gassom, N. Jiddawi, A. Macia, D. G. Reid, J. Paula
+1976, C. R. Tracy
+1984, C. R. Tracy, F. H. van Berkum, J. S. Tsuji, R. D. Stevenson, J. A. Nelson, B. M. Barnes, R. B. Huey
+1994, G. C. Trager, Y. Achituv, A. Genin
+1992, G. C. Trager, D. Coughlin, A. Genin, Y. Achituv, A. Gangopadhyay
+1990, G. C. Trager, J. S. Hwang, J. R. Strickler
+2010, L. W. Traill, M. L. M. Lim, N. S. Sodhi, C. J. A. Bradshaw
+2014, A. M. Trainor, O. J. Schmitz
+2007, S. E. Travers, M. D. Smith, J. Bai, S. H. Hulbert, J. E. Leach, P. S. Schnable, A. K. Knapp, G. A. Milliken, P. A. Fay, A. Saleh, K. A. Garrett
+2007, R. Tremblay, F. Olivier, E. Bourget, D. Rittschof
+2007, K. E. Trenberth, P. D. Jones, P. Ambenje, R. Bojariu, D. Easterling, A. Klein Tank, D. Parker, F. Rahimzadeh, J. A. Renwick, M. Rusticucci, B. Soden, P. Zhai
+1996, G. C. Trussell
+1997, G. C. Trussell
+1997, G. C. Trussell
+2000, G. C. Trussell
+2000, G. C. Trussell
+2002, G. C. Trussell
+2001, G. C. Trussell, R. J. Etter
+2002, G. C. Trussell, P. J. Ewanchuk, M. D. Bertness
+2003, G. C. Trussell, P. J. Ewanchuk, M. D. Bertness
+2004, G. C. Trussell, P. J. Ewanchuk, M. D. Bertness, B. R. Silliman
+2006, G. C. Trussell, P. J. Ewanchuk, C. M. Matassa
+2006, G. C. Trussell, P. J. Ewanchuk, C. M. Matassa
+2008, G. C. Trussell, P. J. Ewanchuk, C. M. Matassa
+1993, G. C. Trussell, A. S. Johnson, S. G. Rudolph, E. S. Gilfillan
+2006, G. C. Trussell, M. P. Lesser, M. R. Patterson, S. J. Genovese
+2011, G. C. Trussell, C. M. Matassa, B. Luttbeg
+2002, G. C. Trussell, M. O. Nicklin
+2000, G. C. Trussell, L. D. Smith
+1983, M. Tsuchiya
+2014, T. D. Tunney, K. S. McCann, N. P. Lester, B. J. Shuter
+1982, V. Tunnicliffe
+1983, J. Tuomi, T. Hakala, E. Haukioja
+1994, S. J. Turner, C. D. Todd
+2014, C. L. Tyler, L. R. Leighton, M. Kowalewski
+2015, C. L. Tyler, E. S. Stafford, L. R. Leighton
+2001, R. F. Uglow, G. A. Williams
+2000, N. G. Ulanova
+2000, A. Underwood, M. Chapman, S. Connell
+1972, A. J. Underwood
+1972, A. J. Underwood
+1974, A. J. Underwood
+1976, A. J. Underwood
+1978, A. J. Underwood
+1978, A. J. Underwood
+1980, A. J. Underwood
+1984, A. J. Underwood
+1986, A. J. Underwood
+1988, A. J. Underwood
+1997, A. J. Underwood
+1999, A. J. Underwood
+2000, A. J. Underwood
+2004, A. J. Underwood
+2006, A. J. Underwood
+2000, A. J. Underwood, M. G. Chapman
+2003, A. J. Underwood, M. G. Chapman
+2006, A. J. Underwood, M. G. Chapman
+2004, A. J. Underwood, M. G. Chapman, T. P. Crowe
+2006, A. J. Underwood, K. R. Clarke
+1984, A. J. Underwood, E. J. Denley
+1983, A. J. Underwood, E. J. Denley, M. J. Moran
+1983, A. J. Underwood, K. E. McFadyen
+2005, G. J. C. Underwood
+1999, G. J. C. Underwood, J. Kromkamp
+1985, UNESCO
+2008, United States Army Corps of Engineers
+1994, H.-J. Urban
+2007, M. C. Urban
+1996, B. Utter, M. Denny
+2009, J. A. C. Uy, R. G. Moyle, C. E. Filardi, Z. A. Cheviron
+1994, R. L. Vadas, M. T. Burrows, R. N. Hughes
+2011, N. Valdivia, R. A. Scrosati, M. Molis, A. S. Knox
+2000, R. Valentini, G. Matteucci, A. J. Dolman, E. D. Schulze, C. Rebmann, E. J. Moors, A. Granier, P. Gross, N. O. Jensen, K. Pilegaard, A. Lindroth, A. Grelle, C. Bernhofer, T. Gruenwald, M. Aubinet, R. Ceulemans, A. S. Kowalski, T. Vesala, U. Rannik, P. Berbigier, D. Loustau, J. Guomundsson, H. Thorgeirsson, A. Ibrom, K. Morgenstern, R. Clement, J. Moncrieff, L. Montagnani, S. Minerbi, P. G. Jarvis
+2014, K. Van Alstyne, T. Olson
+2000, J. Van Buskirk
+2011, T. van de Kamp, P. Vagovič, T. Baumbach, A. Riedel
+2008, J. van de Koppel, J. C. Gascoigne, G. Theraulaz, M. Rietkerk, W. M. Mooij, P. M. J. Herman
+2005, J. van de Koppel, M. Rietkerk, N. Dankers, P. M. J. Herman
+2009, J. van der Sman, N. E. Phillips, C. A. Pfister
+1992, C. Van Erkom Schurink, C. L. Griffiths
+1993, C. van Erkom Schurink, C. L. Griffiths
+2002, M. M. van Katwijk, D. C. R. Hermus
+2006, T. C. Van Son, M. Thiel
+1996, P. G. van Tamelen
+2007, B. K. van Wesenbeeck, J. van de Koppel, P. M. J. herman, J. P. Bakker, T. J. Bouma
+1995, R. Van Woesik, L. M. De Vantier, J. S. Glazebrook
+1993, G. R. Vanblaricom, J. L. Ruediger, C. S. Friedman, D. D. Woodard, R. P. Hedrick
+1974, R. R. Vance
+2005, David A. Vasseur, Kevin S. McCann
+2014, D. Vaughn, O. R. Turnross, E. Carrington
+2010, W. N. Venables, B. D. Ripley
+2002, R. M. Venegas, S. A. Navarrete, G. R. Finke
+2000, J. J. Verduin, J. O. Backhaus
+2005, K. J. F. Verhoeven, K. L. Simonsen, L. M. McIntyre
+1971, G. J. Vermeij
+1971, G. J. Vermeij
+1972, G. J. Vermeij
+1973, G. J. Vermeij
+1982, G. J. Vermeij
+1982, G. J. Vermeij
+1989, G. J. Vermeij
+1980, G. J. Vermeij, J. D. Currey
+2008, G. J. Vermeij, P. D. Roopnarine
+1981, G. J. Vermeij, D. E. Schindel, E. Zipser
+2007, G. J. Vermeij, S. T. Williams
+2005, J. Verzani
+2011, M. Vickers, C. Manicom, L. Schwarzkopf
+2010, W. Viechtbauer
+2010, W. Viechtbauer
+2009, R. M. Viejo
+2008, R. M. Viejo, F. Arenas, C. Fernández, M. Gómez
+1940, C. A. Villee, T. C. Groody
+1994, J. F. V. Vincent
+2013, L. R. Vinueza, B. A. Menge, D. Ruiz, D. M. Palacios
+1977, R. W. Virnstein
+1978, R. W. Virnstein
+1999, L. J. Vitt, S. S. Sartorius
+1984, S. Vogel
+1994, S. Vogel
+1978, S. Vogel, M. LaBarbera
+1985, S. Vogel, C. Loudon
+1976, D. K. Voigts
+1990, D. Voltolina, C. F. Sacchi
+2005, M. von Dassow
+2008, C. E. O. von der Meden, F. Porri, J. Erlandsson, C. D. McQuaid
+2010, C. E. O. von der Meden, F. Porri, C. D. McQuaid, K. Faulkner, J. Robey
+2011, O. Vucic-Pestic, R. B. Ehnes, B. C. Rall, U. Brose
+1994, H. Wada, N. Satoh
+2000, S. Wada, A. Ito
+2013, H. H. Wagner
+2008, M. Wahl
+1996, P. C. Wainwright
+1984, S. J. Walde, R. W. Davies
+1968, C. G. Walker
+1972, L. R. Wallace
+2009, A. Walli, S. L. H. Teo, A. Boustany, C. J. Farwell, T. Williams, H. Dewar, E. Prince, B. A. Block
+1992, G. E. Walsberg
+2009, K. R. Walters, T. Sformo, B. M. Barnes, J. G. Duman
+2002, L. J. Walters, C. M. Smith, J. A. Coyer, C. L. Hunter, K. S. Beach, P. S. Vroom
+2012, R. J. Walters, W. U. Blanckenhorn, D. Berger
+1999, B. A. Walther, D. H. Clayton, R. D. Gregory
+2002, G.-R. Walther, E. Post, P. Convey, A. Menzel, C. Parmesan, T. J. C. Beebee, J.-M. Fromentin, O. Hoegh-Guldberg, F. Bairlein
+2015, D. Wang, T. C. Gouhier, B. A. Menge, A. R. Ganguly
+2008, I. J. Wang, H. B. Shaffer
+2010, Y. Wang, H. Menghong, P. K. S. Shin, C. S. G
+2009, Z. Wang, J. H. Brown, Z. Tang, J. Fang
+1973, K. Warburton
+1998, D. M. Ward, M. J. Ferris, S. C. Nold, M. M. Bateson
+2007, N. L. Ward, G. J. Masters
+1996, F. J. Ware, R. G. Hartnoli
+1996, J. R. Ware, D. G. Fautinm, R. W. Buddemeier
+2007, J. P. Wares, A. M. H. Blakeslee
+2001, J. P. Wares, S. D. Gaines, C. W. Cunningham
+2009, J. P. Wares, M. S. Pankey, F. Pitombo, L. G. Daglio, Y. Achituv
+2001, G. F. Warner
+2014, D. L. Warren, M. Cardillo, D. F. Rosauer, D. I. Bolnick
+2008, D. L. Warren, R. E. Glor, M. Turelli
+2011, D. I. Warton, F. K. C. Hui
+2010, J. M. Waterman
+2000, G. J. Watson, M. E. Williams, M. G. Bentley
+2011, J. R. Watson, C. G. Hays, P. T. Raimondi, S. Mitarai, C. Dong, J. C. McWilliams, C. A. Blanchette, J. E. Caselle, D. A. Siegel
+1968, W. B. Watt
+2000, W. B. Watt, A. M. Dean
+1972, D. L. Waugh
+1987, T. A. Wayne
+2004, M. S. Webster
+2010, Ellen J. Weerman, J. v. d. Koppel, Maarten B. Eppinga, F. Montserrat, Q. X. Liu, Peter M. J. Herman
+1977, S. Weiner, H. A. Lowenstam, L. Hood
+2007, K. C. Welch Jr, D. L. Altshuler, R. K. Suarez
+2007, K. C. Welch Jr, R. K. Suarez
+1968, W. R. Welch
+1987, D. E. Weller
+2005, J. M. Welles, D. K. McDermitt
+1983, G. M. Wellington, A. M. Kuris
+1960, H. W. Wells, I. E. Gray
+1917, M. M. Wells
+1980, R. A. Wells
+1994, F. Wendell
+2012, T. Wernberg, D. A. Smale, M. S. Thomsen
+2007, S. W. Werneke, C. Swann, L. A. Farquharson, K. S. Hamilton, A. M. Smith
+1996, E. E. Werner, B. R. Anholt
+2003, E. E. Werner, S. D. Peacor
+2013, F. J. Werner, B. Matthiessen
+1997, G. B. West, J. H. Brown, B. J. Enquist
+1999, G. B. West, J. H. Brown, B. J. Enquist
+1986, L. West
+1988, L. West
+2009, S. D. Westerheide, J. Anckar, S. M. Stevens Jr, L. Sistonen, R. I. Morimoto
+2010, K. M. Westfall, J. P. A. Gardner
+1992, M. Westoby, E. Jurado, M. Leishman
+1983, D. Wethey
+1983, D. S. Wethey
+1984, D. S. Wethey
+2002, D. S. Wethey
+2008, D. S. Wethey, S. A. Woodin
+2011, D. S. Wethey, S. A. Woodin, T. J. Hilbish, S. J. Jones, F. P. Lima, P. M. Brannock
+2008, D. S. Wethey, S. A. Woodin, N. Volkenborn, K. Reise
+1980, W. N. Wheeler
+1995, M. R. Whiles, J. B. Wallace
+2007, C. R. Whitcraft, L. A. Levin
+1999, A. White, C. Critchley
+2003, C. R. White
+2011, C. R. White, M. R. Kearney, P. G. D. Matthews, S. A. L. M. Kooijman, D. J. Marshall
+1990, D. S. White
+2007, J. W. White
+2013, J. W. White, A. Rassweiler, J. F. Samhouri, A. C. Stier, C. White
+2001, T. A. White, B. D. Campbell, P. D. Kemp, C. L. Hunt
+1968, T. J. White
+2014, A. D. Wickert
+2001, J. Widdows
+1971, J. Widdows, B. L. Bayne
+2009, J. Widdows, N. D. Pope, M. D. Brinsley, J. Gascoigne, M. J. Kaiser
+2005, O. Widenfalk, C. Solbreck
+2004, T. Wiegand, K. A. Moloney
+1977, J. A. Wiens
+2009, J. A. Wiens, D. Stralber, D. Jongsomjit, C. A. Howell, M. A. Snyder
+2010, J. J. Wiens, D. D. Ackerly, A. P. Allen, B. L. Anacker, L. B. Buckley, H. V. Cornell, E. I. Damschen, T. Jonathan Davies, J.-A. Grytnes, S. P. Harrison, B. A. Hawkins, R. D. Holt, C. M. McCain, P. R. Stephens
+2009, E. A. Wieters, B. R. Broitman, G. M. Branch
+1998, E. A. Wieters, S. A. Navarrete
+2009, E. P. Willems, R. A. Hill
+2010, C. S. Willett
+1976, D. D. Williams, H. B. N. Hynes
+1977, D. D. Williams, H. B. N. Hynes
+1977, D. D. Williams, H. B. N. Hynes
+1964, E. E. Williams
+1990, E. H. Williams, L. Bunkley-Williams
+1987, E. H. J. Williams, C. Goenaga, V. Vincente
+1992, G. A. Williams
+1995, G. A. Williams
+2011, G. A. Williams, M. De Pirro, S. Cartwright, K. Khangura, W.-C. Ng, P. T. Y. Leung, D. Morritt
+2005, G. A. Williams, M. De Pirro, K. M. Leun, D. Morritt
+1995, G. A. Williams, D. Morritt
+2005, S. L. Williams, M. N. Dethier
+2004, S. T. Williams, D. G. Reid
+2003, S. T. Williams, D. G. Reid, D. T. J. Littlewood
+1996, C. E. Williamson, R. W. Sanders, R. E. Moeller, P. L. Stutzman
+2009, D. I. Williamson
+2010, C. G. Willis, B. R. Ruhfel, R. B. Primack, A. J. Miller-Rushing, J. B. Losos, C. C. Davis
+1991, P. Willmer
+1981, P. G. Willmer, D. M. Unwin
+1967, B. R. Wilson, E. P. Hodgkin
+1987, C. A. Wilson, D. W. Beckman, J. M. Dean
+1929, D. P. Wilson
+1992, J. B. Wilson, A. D. Q. Agnew
+1997, J. D. Wilson
+2005, R. Wilson, P. Reuter, M. Wahl
+1989, R. P. Wilson, A. E. Burger, B. L. H. Wilson, M. P. T. Wilson, C. Nöldeke
+2009, R. W. Wilson, F. J. Millero, J. R. Taylor, P. J. Walsh, V. Christensen, S. Jennings, M. Grosell
+1990, W. H. Wilson
+2009, S. R. Wing
+1993, S. R. Wing, J. J. Leichter, M. W. Denny
+2007, S. R. Wing, J. J. Leichter, C. Perrin, S. M. Rutger, B. M. H, C. D. Cornelisen
+2008, S. R. Wing, R. J. McLeod, K. L. CLark, R. D. Frew
+2010, B. Winsink, C. S. Wansink
+1960, P. W. Winston, D. H. Bates
+1975, J. Winter
+1987, J. D. Witman
+2010, J. D. Witman, M. Brandt, F. Smith
+1984, J. D. Witman, T. H. Suchanek
+2005, J. M. Wojdak, B. Luttbeg
+2007, B. D. Wolcott
+1973, T. G. Wolcott
+2001, T. G. Wolcott, D. L. Wolcott
+2014, K. K. W. Wong, L. M. Tsang, S. R. Cartwright, G. A. Williams, B. K. K. Chan, K. H. Chu
+2003, A. R. Wood, A. R. Beaumont, D. O. F. Skibinski, G. Turner
+2007, C. L. Wood, J. E. Byers, K. L. Cottingham, I. Altman, M. J. Donahue, A. M. H. Blakeslee
+1978, S. A. Woodin
+1981, S. A. Woodin
+2013, S. A. Woodin, T. J. Hilbish, B. Helmuth, S. J. Jones, D. S. Wethey
+1995, S. A. Woodin, S. M. Lindsay, D. S. Wethey
+2009, H. A. Woods, A. L. Moran, C. P. Arango, L. Mullen, C. Shields
+2012, C. B. Woodson, M. A. McManus, J. A. Tyburczy, J. A. Barth, L. Washburn, J. E. Caselle, M. H. Carr, D. P. Malone, P. T. Raimondi, B. A. Menge, S. R. Palumbi
+1994, J. T. Wootton
+2001, J. T. Wootton
+2010, J. T. Wootton
+2008, J. T. Wootton, C. A. Pfister, J. D. Forester
+1996, J. T. Wootton, M. E. Power, R. T. Paine, C. A. Pfister
+2009, B. Worm, R. Hilborn, J. K. Baum, T. A. Branch, J. S. Collie, C. Costello, M. J. Fogarty, E. A. Fulton, J. A. Hutchings, S. Jennings, O. P. Jensen, H. K. Lotze, P. M. Mace, T. R. McClanahan, C. Minto, S. R. Palumbi, A. M. Parma, D. Ricard, A. A. Rosenberg, R. Watson, D. Zeller
+2002, S. J. Wright
+1982, W. G. Wright
+1985, W. G. Wright
+1989, W. G. Wright
+1979, W. G. Wright, D. R. Lindberg
+1982, W. G. Wright, D. R. Lindberg
+1993, W. G. Wright, A. L. Shanks
+1978, R. S. S. Wu, C. D. Levings
+2007, B. M. Xavier, G. M. Branch, E. Wieters
+1999, S. Xiong, C. Nilsson
+2009, L. Yamane, S. E. Gilman
+2010, L. H. Yang, K. F. Edwards, J. E. Byrnes, J. L. Bastow, A. N. Wright, K. O. Spence
+2014, P. J. Yang, J. Pham, J. Choo, D. L. Hu
+2012, C.-L. Yao, G. N. Somero
+2006, K. K. Yates, R. B. Halley
+2015, H. Ye, R. J. Beamish, S. M. Glaser, S. C. H. Grant, C.-h. Hsieh, L. J. Richards, J. T. Schnute, G. Sugihara
+1989, D. P. Yeager, R. U. Gordon
+2014, J. D. Yeakel, M. M. Pires, L. Rudolf, N. J. Dominy, P. L. Koch, P. R. Guimarães, T. Gross
+2004, E. H. Yee, S. N. Murray
+2009, S.-W. Yeh, J.-S. Kug, B. Dewitte, M.-H. Kwon, B. P. Kirtman, F.-F. Jin
+1991, J. Yen
+2015, J. D. L. Yen, J. R. Thomson, D. M. Paganin, J. M. Keith, R. Mac Nally
+2010, D. Yerramilli, S. Johnsen
+2009, S. Yerushalmi, R. M. Green
+2010, H. Yildiz, S. Berber
+1993, M. W. Yipp
+1962, C. M. Yonge
+2011, I. R. Young, S. Zieger, A. V. Babanin
+2001, S. Yukimoto, A. Noda, A. Kitoh, M. Sugi, Y. Kitamura, M. Hosaka, K. Shibata, S. Maeda, T. Uchiyama
+2006, S. Yukimoto, A. Noda, T. Uchiyama, S. Kusunoki, A. Kitoh
+2007, C. J. Zabin, A. Altieri
+2003, D. Zacherl, S. D. Gaines, S. I. Lonhart
+2008, T. D. Zahradnik, M. A. Lemay, E. G. Boulding
+1999, J. H. Zar
+2007, G. I. Zardi, C. D. McQuaid, K. R. Nicastro
+2007, G. I. Zardi, C. D. McQuaid, P. R. Teske, N. P. Barker
+2008, G. I. Zardi, K. R. Nicastro, C. D. McQuaid, J. Erlandsson
+2009, G. I. Zardi, K. R. Nicastro, C. D. McQuaid, M. Gektidis
+2011, G. I. Zardi, K. R. Nicastro, C. D. McQuaid, L. Hancke, B. Helmuth
+2006, G. I. Zardi, K. R. Nicastro, C. D. McQuaid, M. Rius, F. Porri
+2012, E. Żbikowska, A. Cichy
+2013, E. Żbikowska, A. Cichy, D. Papierkiewicz
+2013, E. Żbikowska, S. Wrotek, A. Cichy, W. Kozak
+2008, A. Zeileis, C. Kleiber, S. Jackman
+2001, A. J. Zera, L. G. Harshman
+2014, S. Zhang, G.-d. Han, Y.-w. Dong
+2006, Y. Zhang
+2009, L. Zhou, R. E. Dickinson, P. Dirmeyer, A. Dai, S. K. Min
+2005, R. C. Zimmerman
+2009, M. L. Zippay, G. E. Hofmann
+1989, M. Zuk
+2007, A. F. Zuur, E. N. Ieno, G. M. Smith
+2009, A. F. Zuur, E. N. Ieno, N. J. Walker, A. A. Saveliev, G. M. Smith
