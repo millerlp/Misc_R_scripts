@@ -1,4 +1,13 @@
 # NOAA_OISST_function.R
+# ******************************************************
+# The functions in this file are deprecated. Do not use.
+# Instead, please see the similar functions in the 
+# script: 
+# https://github.com/millerlp/Misc_R_scripts/blob/master/NOAA_OISST_ncdf4.R
+# NOAA has updated the data files to a newer NetCDF format
+# that requires the newer ncdf4 package used in the script above.
+# ******************************************************
+
 # A function to extract mean sea surface temperature data from NOAA's Optimum 
 # Interpolated Sea Surface Temperature (OISST) v2 High Resolution datasets.
 # Daily data are available on a 1/4 degree global grid. 
@@ -7,6 +16,15 @@
 require(ncdf)	# install.packages('ncdf') if you don't already have it.
 require(fields) # install.packages('fields') if you don't already have it.
 extractOISST = function(fname,lsmask,lon1,lon2,lat1,lat2, date1, date2){
+	# ******************************************************
+# The functions in this file are deprecated. Do not use.
+# Instead, please see the similar functions in the 
+# script: 
+# https://github.com/millerlp/Misc_R_scripts/blob/master/NOAA_OISST_ncdf4.R
+# NOAA has updated the data files to a newer NetCDF format
+# that requires the newer ncdf4 package used in the script above.
+# ******************************************************
+	
 	# This function takes 1-year NetCDF files from the 
 	# ftp://ftp.cdc.noaa.gov/Datasets/noaa.oisst.v2.highres/ directory
 	# where filenames for daily mean SST files are named with the scheme
@@ -184,6 +202,17 @@ extractOISST = function(fname,lsmask,lon1,lon2,lat1,lat2, date1, date2){
 
 
 extractOISST1day = function(fname,lsmask,lon1,lon2,lat1,lat2){
+	# ******************************************************
+# The functions in this file are deprecated. Do not use.
+# Instead, please see the similar functions in the 
+# script: 
+# https://github.com/millerlp/Misc_R_scripts/blob/master/NOAA_OISST_ncdf4.R
+# NOAA has updated the data files to a newer NetCDF format
+# that requires the newer ncdf4 package used in the script above.
+# ******************************************************
+	
+	
+	
 	# The 1-day OISST v2 high resolution files come as gz-compressed NetCDF 
 	# files. You must unzip those files before trying to use this function. 
 	# ______________________________________________________________________
