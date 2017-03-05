@@ -3,4 +3,4 @@ This repository is home to simple R scripts and functions that don't necessarily
 Some of the scripts are explained in posts on
 http://lukemiller.org/index.php/stuff
 
-### To download the files from github properly, use the Download ZIP button on the right side of the screen ---> 
+### To download the files from github properly, use the Green Clone or Download button on the right side of the screen, and choose Download ZIP. ---> 
