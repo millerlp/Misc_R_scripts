@@ -1,5 +1,7 @@
 # Filename: tide_prediction.R
-
+# For an updated version of this code, please see the R package 'rtide' 
+# available on CRAN : https://cran.r-project.org/package=rtide
+#
 # NOT FOR NAVIGATIONAL USE. DON'T WRECK YOUR BOAT BASED ON MY BAD CODING.
 # Generate tide height predictions for US NOAA *reference* tide stations 
 # entirely within R.  
