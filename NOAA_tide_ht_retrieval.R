@@ -1,5 +1,6 @@
 # coops_tide_ht_retrieval.R
 # Author: Luke Miller Feb 2011
+# Updated 2017-09-26 to handle newer ERDDAP format
 ################################################################################
 # Run this script as-is. It will prompt you to enter the appropriate
 # station and date values when needed. You can only request less than 1 month of 
@@ -12,7 +13,7 @@
 # Station list: http://opendap.co-ops.nos.noaa.gov/stations/index.jsp
 # Scroll through that list to find your station ID. 
 
-# OPeNDAP server gateway: http://opendap.co-ops.nos.noaa.gov/dods/
+# OPeNDAP server gateway: https://opendap.co-ops.nos.noaa.gov/erddap/index.html
 # The gateway has links to several other data types available including 
 # water temperature, air temperature, wind etc. 
 # See http://docs.opendap.org/index.php/UserGuideOPeNDAPMessages for info on
@@ -35,44 +36,36 @@ noquote(print("Enter end date (format: 20081231 = Dec 31, 2008): "))
 enddate = scan("",what = character(),nlines = 1)
 
 #OPeNDAP query for 6-minute verified water level looks like this (on 1 line):
-#http://opendap.co-ops.nos.noaa.gov/dods/IOOS/
-#SixMin_Verified_Water_Level.ascii?
-#WATERLEVEL_6MIN_VFD_PX._STATION_ID,
-#WATERLEVEL_6MIN_VFD_PX._DATUM,
-#WATERLEVEL_6MIN_VFD_PX.DATE_TIME,
-#WATERLEVEL_6MIN_VFD_PX.WL_VALUE,
-#WATERLEVEL_6MIN_VFD_PX.I,
-#WATERLEVEL_6MIN_VFD_PX.F,
-#WATERLEVEL_6MIN_VFD_PX.R,
-#WATERLEVEL_6MIN_VFD_PX.T
-#&WATERLEVEL_6MIN_VFD_PX._STATION_ID=%229449880%22
-#&WATERLEVEL_6MIN_VFD_PX._DATUM=%22MLLW%22
-#&WATERLEVEL_6MIN_VFD_PX._BEGIN_DATE=%2220080801%22
-#&WATERLEVEL_6MIN_VFD_PX._END_DATE=%2220080808%22
-
+# https://opendap.co-ops.nos.noaa.gov/erddap/tabledap/
+# IOOS_SixMin_Verified_Water_Level.asc?STATION_ID
+# %2CDATUM%2CBEGIN_DATE%2CEND_DATE%2Ctime%2CWL_VALUE%2CSIGMA%2CI%2CF%2CR%2CT&
+# STATION_ID=%229413450%22&
+# DATUM=%22MLLW%22&
+# BEGIN_DATE=%2220080123%22&
+# END_DATE=%2220080130%22
 #####################################################
 ######## DON'T CHANGE ANYTHING BELOW THIS LINE ####################
 #The parts of the url to be assembled:
-url1 = "http://opendap.co-ops.nos.noaa.gov/dods/IOOS/"
-url2 = "SixMin_Verified_Water_Level.ascii?"
-url3 = "WATERLEVEL_6MIN_VFD_PX._STATION_ID," #return stationId
-url4 = "WATERLEVEL_6MIN_VFD_PX._DATUM," #return datum
-url5 = "WATERLEVEL_6MIN_VFD_PX.DATE_TIME," #return record date-time
-url6 = "WATERLEVEL_6MIN_VFD_PX.WL_VALUE," #return water level value
-url7 = "WATERLEVEL_6MIN_VFD_PX.I," #return quality flag
-url8 = "WATERLEVEL_6MIN_VFD_PX.F," #return quality flag
-url9 = "WATERLEVEL_6MIN_VFD_PX.R," #return quality flag
-url10 = "WATERLEVEL_6MIN_VFD_PX.T" #return quality flag
+url1 = "https://opendap.co-ops.nos.noaa.gov/erddap/tabledap/"
+url2 = "IOOS_SixMin_Verified_Water_Level.asc?"
+url3 = "STATION_ID%2C" #return stationId
+url4 = "DATUM%2C" #return datum
+url5 = "time%2C" #return record date-time
+url6 = "WL_VALUE%2C" #return water level value
+url7 = "I%2C" #return quality flag
+url8 = "F%2C" #return quality flag
+url9 = "R%2C" #return quality flag
+url10 = "T" #return quality flag
 #The remaining parts of the url specify how to filter the data on the server 
 #to only retrieve the desired station and date range. Values must be enclosed
 #in ascii double-quotes, which are represented by the code %22
 # Do not change any values here, do not insert your own values here.
-url11 = "&WATERLEVEL_6MIN_VFD_PX._STATION_ID=%22" # station ID goes here
+url11 = "&STATION_ID=%22" # station ID goes here
 url12 = "%22"
-url13 = "&WATERLEVEL_6MIN_VFD_PX._DATUM=%22MLLW%22"#we want MLLW as the datum
-url14 = "&WATERLEVEL_6MIN_VFD_PX._BEGIN_DATE=%22" # start date gets put in here
+url13 = "&DATUM=%22MLLW%22" # we want MLLW as the datum
+url14 = "&BEGIN_DATE=%22" # start date gets put in here
 url15 = "%22"
-url16 = "&WATERLEVEL_6MIN_VFD_PX._END_DATE=%22" # end date gets put in here
+url16 = "&END_DATE=%22" # end date gets put in here
 url17 = "%22"
 ####### DON'T CHANGE ANYTHING ABOVE THIS LINE ############
 ##############################################
@@ -120,10 +113,9 @@ if (length(grep('^Error',all.lines))>0) { #check for error in retrieval
 	###########################################################################
 	#The following operations will need to be altered if you change the 
 	#fields or data type being returned by the OPeNDAP server
-	
-	#Convert the time column to POSIX time (seconds since 1970-01-01 00:00:00)
-	df[,3] = as.POSIXct(strptime(df[,3],format = "%b %d %Y %I:%M%p",
-					tz = "GMT"))
+	# The time column should be a numeric value, representing elapsed 
+	# seconds since midnight, Jan 1, 1970 in the GMT (UTC) time zone. 
+	df[,3] = as.POSIXct(df[,3], tz = 'GMT', origin = '1970-1-1 00:00')
 	
 	#Give the columns shorter names
 	names(df) = c("stationId","datum","TimeUTC","TideHT","Flag.Inferred",

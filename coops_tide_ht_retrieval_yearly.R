@@ -1,11 +1,12 @@
 # coops_tide_ht_retrieval_yearly.R
 # Author: Luke Miller July 2011
+# Updated 2017-09-26 to handle newer ERDDAP format
 ################################################################################
 # This script will download a set of verified tide height data from a NOAA 
 # CO-OPS DODS/OPeNDAP server and parse it into a data frame to be saved to disk 
 #
 # Station list: http://opendap.co-ops.nos.noaa.gov/stations/index.jsp
-# OPeNDAP server gateway: http://opendap.co-ops.nos.noaa.gov/dods/
+# OPeNDAP server gateway: https://opendap.co-ops.nos.noaa.gov/erddap/index.html
 # The gateway has links to several other data types available including 
 # water temperature, air temperature, wind etc. 
 #
@@ -59,45 +60,38 @@ for (yr in year:year2) {
 		startdate = paste(yr,month,"01",sep = "")
 		enddate = paste(yr,month,nday,sep = "")
 		
-		
+
 #OPeNDAP query for 6-minute verified water level looks like this (on 1 line):
-#http://opendap.co-ops.nos.noaa.gov/dods/IOOS/
-#SixMin_Verified_Water_Level.ascii?
-#WATERLEVEL_6MIN_VFD_PX._STATION_ID,
-#WATERLEVEL_6MIN_VFD_PX._DATUM,
-#WATERLEVEL_6MIN_VFD_PX.DATE_TIME,
-#WATERLEVEL_6MIN_VFD_PX.WL_VALUE,
-#WATERLEVEL_6MIN_VFD_PX.I,
-#WATERLEVEL_6MIN_VFD_PX.F,
-#WATERLEVEL_6MIN_VFD_PX.R,
-#WATERLEVEL_6MIN_VFD_PX.T
-#&WATERLEVEL_6MIN_VFD_PX._STATION_ID=%229449880%22
-#&WATERLEVEL_6MIN_VFD_PX._DATUM=%22MLLW%22
-#&WATERLEVEL_6MIN_VFD_PX._BEGIN_DATE=%2220080801%22
-#&WATERLEVEL_6MIN_VFD_PX._END_DATE=%2220080808%22
+# https://opendap.co-ops.nos.noaa.gov/erddap/tabledap/
+# IOOS_SixMin_Verified_Water_Level.asc?STATION_ID
+# %2CDATUM%2CBEGIN_DATE%2CEND_DATE%2Ctime%2CWL_VALUE%2CSIGMA%2CI%2CF%2CR%2CT&
+# STATION_ID=%229413450%22&
+# DATUM=%22MLLW%22&
+# BEGIN_DATE=%2220080123%22&
+# END_DATE=%2220080130%22
 
 ########################################################
 ###### DON'T CHANGE ANY OF THE CODE BELOW THIS LINE ####
 #The parts of the url
-		url1 = "http://opendap.co-ops.nos.noaa.gov/dods/IOOS/"
-		url2 = "SixMin_Verified_Water_Level.ascii?"
-		url3 = "WATERLEVEL_6MIN_VFD_PX._STATION_ID," #return stationId
-		url4 = "WATERLEVEL_6MIN_VFD_PX._DATUM," #return datum
-		url5 = "WATERLEVEL_6MIN_VFD_PX.DATE_TIME," #return record date-time
-		url6 = "WATERLEVEL_6MIN_VFD_PX.WL_VALUE," #return water level value
-		url7 = "WATERLEVEL_6MIN_VFD_PX.I," #return quality flag
-		url8 = "WATERLEVEL_6MIN_VFD_PX.F," #return quality flag
-		url9 = "WATERLEVEL_6MIN_VFD_PX.R," #return quality flag
-		url10 = "WATERLEVEL_6MIN_VFD_PX.T" #return quality flag
+		url1 = "https://opendap.co-ops.nos.noaa.gov/erddap/tabledap/"
+		url2 = "IOOS_SixMin_Verified_Water_Level.asc?"
+		url3 = "STATION_ID%2C" #return stationId
+		url4 = "DATUM%2C" #return datum
+		url5 = "time%2C" #return record date-time
+		url6 = "WL_VALUE%2C" #return water level value
+		url7 = "I%2C" #return quality flag
+		url8 = "F%2C" #return quality flag
+		url9 = "R%2C" #return quality flag
+		url10 = "T" #return quality flag
 #The remaining parts of the url specify how to filter the data on the server 
 #to only retrieve the desired station and date range. Values must be enclosed
 #in ascii double-quotes, which are represented by the code %22
-		url11 = "&WATERLEVEL_6MIN_VFD_PX._STATION_ID=%22" #station gets added here
+		url11 = "&STATION_ID=%22" # station ID goes here
 		url12 = "%22"
-		url13 = "&WATERLEVEL_6MIN_VFD_PX._DATUM=%22MLLW%22"#we want MLLW as the datum
-		url14 = "&WATERLEVEL_6MIN_VFD_PX._BEGIN_DATE=%22" #start date gets added here
+		url13 = "&DATUM=%22MLLW%22" # we want MLLW as the datum
+		url14 = "&BEGIN_DATE=%22" # start date gets put in here
 		url15 = "%22"
-		url16 = "&WATERLEVEL_6MIN_VFD_PX._END_DATE=%22" #end date gets added here
+		url16 = "&END_DATE=%22" # end date gets put in here
 		url17 = "%22"
 		##### DON'T CHANGE ANY CODE ABOVE THIS LINE ###########
 		########################################################################
