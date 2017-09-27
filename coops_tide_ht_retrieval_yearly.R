@@ -135,9 +135,9 @@ for (yr in year:year2) {
 			#The following operations will need to be altered if you change the 
 			#fields or data type being returned by the OPeNDAP server
 			
-			#Convert the time column to POSIX time (seconds since 1970-01-01 00:00:00)
-			df[,3] = as.POSIXct(strptime(df[,3],format = "%b %d %Y %I:%M%p",
-							tz = "GMT"))
+			# The time column should be a numeric value, representing elapsed 
+			# seconds since midnight, Jan 1, 1970 in the GMT (UTC) time zone. 
+			df[,3] = as.POSIXct(df[,3], tz = 'GMT', origin = '1970-1-1 00:00')
 			
 			#Give the columns shorter names
 			names(df) = c("stationId","datum","TimeUTC","TideHT","Flag.Inferred",
