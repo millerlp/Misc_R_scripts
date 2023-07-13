@@ -2,8 +2,8 @@
 # Functions to extract mean sea surface temperature data from NOAA's Optimum 
 # Interpolated Sea Surface Temperature (OISST) v2 High Resolution daily or
 # weekly datasets.
-# Daily data are available on a 1/4° global grid. 
-# Weekly data are available on a 1° global grid.
+# Daily data are available on a 1/4deg global grid. 
+# Weekly data are available on a 1deg global grid.
 # Windows users, note that you'll need to manually download the ncdf4 package
 # from http://cirrus.ucsd.edu/~pierce/ncdf/, since it is not available 
 # directly from CRAN. David Pierce is the author of the ncdf4 package. 
@@ -18,6 +18,7 @@
 # for more information about the single-day AVHRR OISST files
 
 # Author: Luke Miller Nov 25, 2014
+# Updated 2023-07-13 to fix variable names
 ###############################################################################
 require(ncdf4)	# install.packages('ncdf4') if you don't already have it.
 # NOTE: If you are on Windows, a pre-compiled package is not available directly 
@@ -42,7 +43,7 @@ extractOISSTdaily = function(fname,lsmask,lonW,lonE,latS,latN, date1, date2){
 	# fname: full path to NetCDF data file
 	# lsmask: full path to land-sea mask NetCDF file
 	# lonW: western-most longitude of search area, must be smaller than lonE
-	# lonE: eastern-most longitude of search area, must be larger than lon1
+	# lonE: eastern-most longitude of search area, must be larger than lonW
 	# latS: southern-most latitude of search area, must be smaller than latN
 	# latN: northern-most latitude of search area, must be larger than latS
 	# date1: first date in file to extract, must be Date class
@@ -86,7 +87,7 @@ extractOISSTdaily = function(fname,lsmask,lonW,lonE,latS,latN, date1, date2){
 	if (missing(lonE)){
 		# If lonE isn't specified, reused lon1
 		lonE = lonW
-		lonEindx = lon1indx
+		lonEindx = lonWindx
 		cat("Only 1 longitude specified\n")
 	} else {
 		# Get index of nearest longitude value to lonE
@@ -208,22 +209,22 @@ extractOISSTdaily = function(fname,lsmask,lonW,lonE,latS,latN, date1, date2){
 } # end of function 
 
 extractOISSTweekly = function(fname,lsmask,lonW,lonE,latS,latN, date1, date2){
-	# This function uses the 1x1° lat/long gridded weekly SST NetCDF files from 
+	# This function uses the 1x1? lat/long gridded weekly SST NetCDF files from 
 	# http://www.esrl.noaa.gov/psd/data/gridded/data.noaa.oisst.v2.html
 	# either: sst.wkmean.1981-1989.nc
 	# or: sst.wkmean.1990-present.nc
 	# and the land-sea mask called lsmask.nc available from that page.
 	# This function cannot use the land-sea mask file from the high-resolution
-	# daily files, which are on a 0.25 x 0.25° grid
+	# daily files, which are on a 0.25 x 0.25? grid
 	# _________________________________________________________________
 	
 	# Inputs
 	# fname: full path to NetCDF data file
 	# lsmask: full path to land-sea mask NetCDF file
-	# lonW: western-most longitude of search area, must be smaller than lon2
-	# lonE: eastern-most longitude of search area, must be larger than lon1
-	# latS: southern-most latitude of search area, must be smaller than lat2
-	# latN: northern-most latitude of search area, must be larger than lat1
+	# lonW: western-most longitude of search area, must be smaller than lonE
+	# lonE: eastern-most longitude of search area, must be larger than lonW
+	# latS: southern-most latitude of search area, must be smaller than latN
+	# latN: northern-most latitude of search area, must be larger than latS
 	# date1: first date in file to extract, must be Date class
 	# date2: last date in file to extract, must be Date class
 	# lon2, lat2, date2 are optional. 
@@ -264,23 +265,23 @@ extractOISSTweekly = function(fname,lsmask,lonW,lonE,latS,latN, date1, date2){
 	
 	lonWindx = which.min(abs(lonW - lons)) #get index of nearest longitude value
 	if (missing(lonE)){
-		# If lon2 isn't specified, reuse lon1
+		# If lonE isn't specified, reuse lonW
 		lonE = lonW
 		lonEindx = lonWindx
 		cat("Only 1 longitude specified\n")
 	} else {
-		# Get index of nearest longitude value to lon2
+		# Get index of nearest longitude value to lonE
 		lonEindx = which.min(abs(lonE - lons)) 	
 	}
 	
 	latNindx = which.min(abs(latN - lats)) #get index of nearest latitude value
 	if (missing(latS)){
-		# If lat2 is not specified, reuse lat1
+		# If latS is not specified, reuse latN
 		latS = latN
 		latSindx = latNindx
 		cat("Only 1 latitude specified\n")
 	} else {
-		# Get index of nearest latitude value to lat2
+		# Get index of nearest latitude value to latS
 		latSindx = which.min(abs(latS - lats)) 	
 	}
 	
@@ -427,13 +428,13 @@ extractOISST1day = function(fname,lsmask,lonW,lonE,latS,latN){
 	# http://www.esrl.noaa.gov/psd/data/gridded/data.noaa.oisst.v2.highres.html
 	
 	# Inside the NetCDF files, data are available on a 
-	# 0.25° latitude x 0.25° longitude global grid (720x1440 cells)
+	# 0.25? latitude x 0.25? longitude global grid (720x1440 cells)
 	# From -89.875N to 89.875N, 0.125E to 359.875E.
 	# Locations are at the CENTER of a grid cell. 
 	# Southern Hemisphere latitudes must be given as NEGATIVE degrees NORTH.
-	# For example, the Tropic of Capricorn is at roughly -23.43° north.
+	# For example, the Tropic of Capricorn is at roughly -23.43? north.
 	# All longitudes must be given as positive degrees EAST of the prime 
-	# meridian. For example, Los Angeles is at roughly 241.77° east. 
+	# meridian. For example, Los Angeles is at roughly 241.77? east. 
 	
 	# Generate set of grid cell latitudes (center of cell) from south to north
 	lats = seq(-89.875,89.875,0.25)
